@@ -1,10 +1,10 @@
 # Site settings
-title:       iTrackBites changelog
+title:       changelog
 email:       art@itrackbites.com
 author:      Art Chang
 description: "The iTrackBites changelog"
-baseurl:     ""
-url:         "https://itrackbites.com"
+baseurl:     "/changelog"
+url:         "https://sunshinehealthstudios.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -115,7 +115,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     3
 sass:
   style: compressed
 plugins:
