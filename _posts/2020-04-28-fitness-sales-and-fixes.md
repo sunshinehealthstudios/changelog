@@ -5,7 +5,6 @@ date:       2020-04-28 15:28:29
 categories: info
 ---
 
-# Fitness, Sales and Fixes
 v6.8.8
 
 ## Overview
