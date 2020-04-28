@@ -12,8 +12,8 @@ We are promoting the Fitness group on iTrackBites community, now called Fitness
 Newbies. It can be found pinned to the top of the Community page. We're also
 fixing a few bugs, updating some code for stability improvements, and made
 changes to allow for our new Thank You Sale promotion. Lastly, new users get a
-few new options to help the join relevant groups and to invite their friends in
-an easier way to join them.
+few new options to help them join relevant groups and to invite their friends
+to join them.
 
 ## Details
 
