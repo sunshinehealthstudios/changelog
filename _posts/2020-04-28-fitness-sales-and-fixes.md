@@ -26,9 +26,7 @@ to join them.
 - The `Fitness Newbies` group is now pinned to the Community page, so everyone can quickly navigate to it.
 - Verifying your phone number when inviting your friends now uses a new SMS system, no real changes should be seen, as this is mostly on the infrastructure side.
 - The “Thank You Sale” pricing is now available on all platforms
+- Videos posted in the community can now be up to 5 minutes long, up from 1 minute
 
 ### iOS
 - Notification settings were not working correctly, as the latest changes were not always being reflected correctly. Now notification settings should be working.
-
-### Android
-- Videos posted in the community can now be up to 5 minutes long, up from 1 minute
