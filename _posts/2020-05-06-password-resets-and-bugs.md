@@ -5,7 +5,7 @@ date:       2020-05-06 16:24:42
 categories: info
 ---
 
-v6.8.8
+v6.8.8 - API and Web
 
 ## Overview
 This latest release was on the iTrackBites API and web platform and mostly addresses server optimizations and internal bug fixes. One of the user facing items that was fixed was the Forgot password and Reset password screens. These were not working as intended, and sometimes would show up in our old website styling. It has since been updated and now fully works for those who need to reset their passwords through the web.
