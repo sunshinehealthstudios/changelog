@@ -3,8 +3,8 @@ title:       changelog
 email:       art@itrackbites.com
 author:      Art Chang
 description: "The iTrackBites changelog"
-baseurl:     "/changelog"
-url:         "https://sunshinehealthstudios.github.io"
+baseurl:     "/"
+url:         "https://changelog.itrackbites.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
