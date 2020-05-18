@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Forgot-password-enter
+title:      Forgot Password Enter
 date:       2020-05-07 11:12:02
 categories: info
 ---

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Google-Payment-Acknowledgement
+title:      Google Payment Acknowledgement
 date:       2020-05-13 14:50:11
 categories: info
 ---
