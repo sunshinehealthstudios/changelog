@@ -9,8 +9,7 @@ v6.8.12
 
 ## Overview
 We have a few bug fixes in this release. We are updating inconsistent BITE
-values when using calculators between iOS and Android apps, Keto Plan users were
-getting maxed out manual allowances, which is now fixed, private group posts
+values when using calculators between iOS and Android apps, private group posts
 will no longer show on user profiles, and we've fixed a bug where some fruits
 were no longer showing up in the search results when tracking.
 
@@ -18,7 +17,6 @@ were no longer showing up in the search results when tracking.
 ### android
 * Inconsistency with 'Bites' value using Calculators between iOS & Android --
   fixed
-* Keto Plan - Total calories maxed out to '600' for manual allowances. -- fixed
 ### api
 * Private group posts showing up on Profile screen publicly for both iOS/Android
   -- fixed
