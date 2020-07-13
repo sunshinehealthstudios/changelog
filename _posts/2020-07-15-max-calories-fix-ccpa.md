@@ -25,9 +25,13 @@ that they are up to date, accurate, and what our community expects.
 ### android
 * AppsFlyer SDK Update + CCPA -- Android
 * Keto Plan - Total calories maxed out to '600' for manual allowances.
+* Calculator Rounding - calculators now round accurately and are the same across
+  all platforms
 ### ios
 * Update Apptentive SDK 5.2.12 to avoid iOS 14 security warnings.
 * AppsFlyer SDK Update + CCPA
+* Calculator Rounding - calculators now round accurately and are the same across
+  all platforms
 ### api
 * Updating PocketGuide values for all search results. They should be very
   accurate now on all platforms (Android/iOS apps).
