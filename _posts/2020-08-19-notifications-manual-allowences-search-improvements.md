@@ -41,7 +41,7 @@ with any food search within iTrackBites, fixing duplicate notifications and more
 ### web
 * Added: CCPA Opt-Out for Web
 
-v6.9
+# v6.9
 
 ## Overview
 This release included a lot of internal updates, including a lot of server and
