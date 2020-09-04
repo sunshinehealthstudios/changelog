@@ -17,21 +17,25 @@ improved inviting your friends. On top of all of that, we have a few new bug
 fixes as well.
 
 ## Details
+
 ### web
 * Promo codes can be inputted into the web!
 * We fixed the original price formatting when upgrading. It was cutting off the
   last digit.
+
 ### api
 * Users who deleted their old accounts can sign back up without issue now.
 * New users will be opted into Smart Search.
 * Major updates to PocketGuide and other food items in the database.
 * Community posts were not being bumped to the top when they had updates, but
   now they are!
+
 ### android
 * "Net Carbs" is now getting updated on the "Tracker" page
 * Smart Search is now available on Android
 * Inviting users can now be done using the Android share sheet with any apps
   that the user has
+
 ### ios
 * Small copy change: Privacy -> PRIVACY in settings screen
 * Smart Search available for all iOS users
