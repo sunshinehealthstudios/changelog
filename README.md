@@ -6,5 +6,8 @@ The iTrackBites changelog is where I will be quickly documenting more of the tec
 
 Make new posts in the `_posts` directory.
 
+Use the product dashboard to generate changelogs
+https://product.itrackbites.com
+
 ### Credit
 Forked the [pixyll.com](http://www.pixyll.com) Jekyll theme
