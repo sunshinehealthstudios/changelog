@@ -40,3 +40,7 @@ mean from the Tracker screen.
   see all the details, but they cannot use the meal plan and cannot track an
 entire meal. Non-PRO can still track individual food items if they go through
 the Meal Plan details screens.
+* Added: Meal Plans can be shared to the community, and through social. In a
+  similar fashion to Recipes, users can use the share icon on the Meal Plan to
+send it to others using other apps on their devices, or straight to the
+iTrackBites community.
