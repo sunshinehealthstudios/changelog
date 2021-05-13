@@ -21,6 +21,41 @@ Best yet, you can talk with the community about your meal plan that you're using
 or you have created. Look for the "comments" tab within a meal plan to join the
 conversation.
 
+### Why
+* Community is a huge part of what makes iTrackBites successful
+* Community means people coming together for a reason. In this case, it’s to share, support, learn, and get motivated.
+* Meal Plans will help people plan out their journeys, and instead of just being created by nutritionists, we want real community members to share what actually worked with them.
+* Proof something works through science, but also through experience.
+* A meal plan is so credible when someone real has used the plan and hit similar goals.
+* It utilizes all of the power iTrackBites has, including our recipes, food items, custom recipes/foods, and most importantly, our community.
+
+### How
+* iTrackBites has worked with our team to create the first set of featured meal plans
+* The community is encouraged to create their own to use for themselves, but also to share with others.
+* Collaboration is key, and we believe nothing is static forever. Meals and their ingredients change over time, over seasons, and for good reason. That’s why we have comments built right in.
+* Sharing meals through the community or any other apps external to iTrackBites is also easy.
+* Custom recipes/foods can also be included, for a full customization
+* We make it easy to track each meal, by integrating meal plans right into the tracking features.
+
+### How we built it
+* Lots of brainstorming
+* Data
+* Talking to users
+* Comparing with other offerings
+* Looking at the uniqueness of our product and community to come up with the best solution
+* Designing, iterating, prototyping, developing, testing
+* Complexities of using meal plans, creating them, and modifying them. How do we keep track of all these different states?
+* This is a polished beautiful way to use meal plans with the community, more to come.
+
+### Meal Plan Features
+1. Use Meal Plans — plan your future meals, easily track them
+2. Modify — Modify any meal plan to your preference. You can modify the meal plan you’re using or one that you have created.
+3. Create — create a brand new meal plan
+4. Share — share your new meal plan that you created, or anyone else’s meal plan. Share via the community, or you can share it with any other apps like text, email, and more.
+5. Communicate — each meal plan is it’s own community group. Conversations can happen within each meal plan, with people commenting in the comment tab
+6. Grocery List — shop easily with our grocery list. It shows what you need. Aggregates similar ingredients across different recipes and foods.
+7. Browsing, discovery — Browse Meal Plans will show featured meal plans, top meal plan creators, popular and new ones. Featured is what we control, but everything else is done through algorithms that picks the best.
+
 ## Details
 ### android
 * Created meal plan: Missing pinned description on the `Comments` tab
