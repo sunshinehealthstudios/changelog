@@ -1,7 +1,7 @@
 <footer class="center">
   <div class="measure">
     <small>
-      © 2021 SUNSHINE HEALTH STUDIOS LLC.
+      © <span id="year">2021</span> SUNSHINE HEALTH STUDIOS LLC.
     </small>
   </div>
 </footer>
@@ -16,3 +16,10 @@
       navigator.serviceWorker.register("{{ '/sw.js' | relative_url }}")
     }
 </script>
+   <script type="text/javascript">
+     document.addEventListener('DOMContentLoaded', (event) => {
+      var d = new Date();
+      var n = d.getFullYear();
+      document.getElementById("year").innerHTML = n;
+    });
+   </script>
