@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Minor Fixes and Subscriptions
-date:       2021-05-13 18:45:58
+date:       2021-05-17 18:45:58
 categories: info
 ---
 
@@ -33,5 +33,5 @@ community images, and web subscription cancellations.
 * Fixed: Deeplinks do not always work
 
 ### api
-* API Stripe Renewals are not reflected in user's accounts
-* Users cannot cancel their web subscriptions
+* Fixed: API Stripe Renewals are not reflected in user's accounts
+* Fixed: Users cannot cancel their web subscriptions
