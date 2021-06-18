@@ -14,11 +14,9 @@ In this release, we’ve fixed some meal plan, tracking, and nagivational issues
 ## Details
 ### ios
 * Fixed: Unable to view custom recipe details from meal plan
-* Fixed: Add: Food Tracked event is measured three times whenever we track foods
 * Fixed: Tracked featured recipes open up different details screen
 * Fixed: New user receives a "Pro sale" pop-up which has no action redirected to "Upgrade"
 * Fixed: Export Logs displays older version names for weight loss plan
-### ios
 
 ### android
 * Fixed: Able to track a snack which has no meal item
@@ -30,5 +28,3 @@ In this release, we’ve fixed some meal plan, tracking, and nagivational issues
 * Fixed: Navigating to the "Browse Meal Plans" crashes the app for free users
 * Fixed: Food details shows "0" BITES for all the search results when creating a meal plan
 * Fixed: Export Logs displays older version names for weight loss plan
-* PRO feature screen changes
-### android
