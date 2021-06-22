@@ -28,3 +28,4 @@ In this release, we’ve fixed some meal plan, tracking, and nagivational issues
 * Fixed: Navigating to the "Browse Meal Plans" crashes the app for free users
 * Fixed: Food details shows "0" BITES for all the search results when creating a meal plan
 * Fixed: Export Logs displays older version names for weight loss plan
+* Fixed: Android 11: Crash after recent update
