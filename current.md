@@ -27,8 +27,8 @@ Please see our known issues below, as well as our next version release
 | ---                           | ---       | ---       | ---               |
 |On recipe page, mismatch between favorites carousel and “see all” favorite|iOS/Android|fixed| v7.5.2               |
 |Tapping on post in profile opens the previous post|iOS|in QA| v7.5.2               |
-|Notifications are duplicating  |iOS/Android|in QA| v7.6               |
-|Notifications are showing old notifications  |iOS/Android|in QA| v7.6               |
+|Notifications are duplicating  |iOS/Android|in QA| v7.5.2              |
+|Notifications are showing old notifications  |iOS/Android|in QA| v7.5.2               |
 |Notifications are marked unread as soon as you view the list |iOS/Android|to do| v7.6               |
 |The forgot password link on the log in screen does not prompt an email to reset password.|Android|to do| v7.6               |
 |Manual Calorie Allowance Increased After 7.5 Release |iOS/Android|investigating| TBD               |
