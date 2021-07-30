@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 07/29/2021 17:52 PT_
+_Updated 07/30/2021 13:46 PT_
 
 We are currently patching some bugs from our v7.5 release. This includes a few
 medium priority bugs and improvements for Notifications, as well as
@@ -30,6 +30,7 @@ Please see our known issues below, as well as our next version release
 |Notifications are marked unread as soon as you view the list |iOS/Android|in progress| v7.5.2               |
 |On recipe page, mismatch between favorites carousel and “see all” favorite|iOS/Android|in progress| v7.5.2               |
 |Tapping on post in profile opens the previous post|iOS|in progress| v7.6               |
+|The forgot password link on the log in screen does not prompt an email to reset password.|Android|in progress| v7.6               |
 |Manual Calorie Allowance Increased After 7.5 Release (TBD)|iOS/Android|investigating| TBD               |
 |Turning off app icon notifications doesn’t save|iOS|investigating| TBD               |
 |Calories counts on edited foods changed|?|investigating| TBD               |
