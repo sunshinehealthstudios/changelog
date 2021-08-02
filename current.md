@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 07/30/2021 16:20 PT_
+_Updated 08/02/2021 15:52 PT_
 
 We are currently patching some bugs from our v7.5 release. This includes a few
 medium priority bugs and improvements for Notifications, as well as
@@ -26,11 +26,23 @@ Please see our known issues below, as well as our next version release
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
 |On recipe page, mismatch between favorites carousel and “see all” favorite|iOS/Android|fixed| v7.5.2               |
-|Tapping on post in profile opens the previous post|iOS|in QA| v7.5.2               |
+|Tapping on post in profile opens the previous post|iOS|fixed| v7.5.2               |
+|New post: menu bar disappears  |iOS|fixed| v7.5.2      
+|Scanner: When food not found, creating a new food always shows as "Coffee Creamer" |iOS|fixed| v7.5.2 
+|Bell and Community icons are not showing badge when there are unread notifications  |Android|fixed| v7.5.2 
+|Android 11: Search meal plan keyboard blanks out the screen content |Android|fixed| v7.5.2 
+|Recipes: "Add to Meal Plan" option not available under "See All" |iOS/Android|fixed| v7.5.2 
+|"Add to Meal Plan" option not available when using recipe search |iOS|fixed| v7.5.2 
+|Email us does not respond any action  |iOS/Android|fixed| v7.5.2 
+|Invite Friends: Bad request error |iOS|fixed| v7.5.2 |
+|Android 10: App crash after tapping item from the food search list  |Android|fixed| v7.5.2              |
+|Chrome/Firefox/Android 11: Fitbit does not sync after first time  |Android|fixed| v7.5.2              |
+|Mismatch of meal plan details screen between search and current active meal plan |Android|fixed| v7.5.2              |
+|Change notification prefix for comments  |iOS/Android|done| v7.5.2              |
 |Notifications are duplicating  |iOS/Android|in QA| v7.5.2              |
 |Notifications are showing old notifications  |iOS/Android|in QA| v7.5.2               |
-|Notifications are marked unread as soon as you view the list |iOS/Android|to do| v7.6               |
-|The forgot password link on the log in screen does not prompt an email to reset password.|Android|to do| v7.6               |
+|Notifications are marked unread as soon as you view the list |iOS/Android|in progress| v7.6               |
+|The forgot password link on the log in screen does not prompt an email to reset password.|Android|in progress| v7.6               |
 |Manual Calorie Allowance Increased After 7.5 Release |iOS/Android|investigating| TBD               |
 |Turning off app icon notifications doesn’t save|iOS|investigating| TBD               |
 |Calories counts on edited foods changed|?|investigating| TBD               |
