@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 08/02/2021 15:52 PT_
+_Updated 08/03/2021 16:51 PT_
 
 We are currently patching some bugs from our v7.5 release. This includes a few
 medium priority bugs and improvements for Notifications, as well as
