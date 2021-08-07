@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 08/05/2021 9:50 PT_
+_Updated 08/07/2021 3:58 PT_
 
 We are currently patching some bugs from our v7.5 release. This includes a few
 medium priority bugs and improvements for Notifications, as well as
@@ -46,10 +46,11 @@ Please see our known issues below, as well as our next version release
 |Manual Calorie Allowance Increased After 7.5 Release |iOS/Android|investigating| TBD               |
 |Turning off app icon notifications doesn’t save|iOS|investigating| TBD               |
 |Calories counts on edited foods changed|?|investigating| TBD               |
+|Deep links not working|iOS|investigating| TBD               |
 |After uninstalling and reinstalling app, unable to login to existing account & access data|Android|investigating| TBD               |
 |Recipes created in recipe builder not saving even when all required fields are complete|Android|Not able to reproduce| closed               |
 |Favorites, My Foods, and Recipes are missing for some users|Android|not a bug| closed               |
 |Allocated daily calories too high|iOS/Android|not a bug| closed               |
-|Deep links not working|iOS|not a bug| closed               |
+
 
 
