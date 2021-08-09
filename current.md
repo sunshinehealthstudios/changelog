@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 08/07/2021 3:58 PT_
+_Updated 08/09/2021 10:27 PT_
 
 We are currently patching some bugs from our v7.5 release. This includes a few
 medium priority bugs and improvements for Notifications, as well as
@@ -43,6 +43,7 @@ Please see our known issues below, as well as our next version release
 |Notifications are showing old notifications  |iOS/Android|in QA| v7.5.2               |
 |Notifications are marked unread as soon as you view the list |iOS/Android|in progress| v7.6               |
 |The forgot password link on the log in screen does not prompt an email to reset password.|Android|in progress| v7.6               |
+|Fiber cap for Conquer Cravings not working when calculating food bites |iOS/Android|investigating| TBD               |
 |Manual Calorie Allowance Increased After 7.5 Release |iOS/Android|investigating| TBD               |
 |Turning off app icon notifications doesn’t save|iOS|investigating| TBD               |
 |Calories counts on edited foods changed|?|investigating| TBD               |
