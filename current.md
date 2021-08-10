@@ -4,14 +4,11 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 08/09/2021 10:27 PT_
+_Updated 08/10/2021 16:17 PT_
 
-We are currently patching some bugs from our v7.5 release. This includes a few
-medium priority bugs and improvements for Notifications, as well as
-investigating a few new issues we have heard about but have not yet confirmed
-are bugs.
-
-Please see our known issues below, as well as our next version release
+v7.5.2 will be released in a phased rollout over the next week. Beta testers
+will get the latest version, and all other users will slowly get the new version
+for the next week.
 
 ***
 
@@ -38,20 +35,19 @@ Please see our known issues below, as well as our next version release
 |Android 10: App crash after tapping item from the food search list  |Android|fixed| v7.5.2              |
 |Chrome/Firefox/Android 11: Fitbit does not sync after first time  |Android|fixed| v7.5.2              |
 |Mismatch of meal plan details screen between search and current active meal plan |Android|fixed| v7.5.2              |
-|Change notification prefix for comments  |iOS/Android|done| v7.5.2              |
-|Notifications are duplicating  |iOS/Android|in QA| v7.5.2              |
-|Notifications are showing old notifications  |iOS/Android|in QA| v7.5.2               |
+|Change notification prefix for comments  |iOS/Android|fixed| v7.5.2              |
+|Deep links not working from community posts|iOS|fixed| v7.5.2|
+|Notifications are duplicating  |iOS/Android|in QA| v7.6              |
+|Notifications are showing old notifications  |iOS/Android|in QA| v7.6               |
 |Notifications are marked unread as soon as you view the list |iOS/Android|in progress| v7.6               |
 |The forgot password link on the log in screen does not prompt an email to reset password.|Android|in progress| v7.6               |
-|Fiber cap for Conquer Cravings not working when calculating food bites |iOS/Android|investigating| TBD               |
+|Fiber cap for Conquer Cravings not working when calculating food bites |iOS/Android|in QA| v7.6|
+|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|investigating| TBD|
+|Restaurant foods do not adhere to zero bite ingredients |iOS/Android|investigating| TBD|
 |Manual Calorie Allowance Increased After 7.5 Release |iOS/Android|investigating| TBD               |
 |Turning off app icon notifications doesn’t save|iOS|investigating| TBD               |
 |Calories counts on edited foods changed|?|investigating| TBD               |
-|Deep links not working|iOS|investigating| TBD               |
 |After uninstalling and reinstalling app, unable to login to existing account & access data|Android|investigating| TBD               |
 |Recipes created in recipe builder not saving even when all required fields are complete|Android|Not able to reproduce| closed               |
 |Favorites, My Foods, and Recipes are missing for some users|Android|not a bug| closed               |
 |Allocated daily calories too high|iOS/Android|not a bug| closed               |
-
-
-
