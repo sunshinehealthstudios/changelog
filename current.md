@@ -15,6 +15,7 @@ for the next week.
 ### Upcoming Releases
 - v7.5.2 - August 11, 2021
 - v7.6   - September 1, 2021
+- v7.7   - September 22, 2021
 
 ***
 
