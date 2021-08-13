@@ -4,12 +4,11 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 08/11/2021 16:10 PT_
+_Updated 08/12/2021 17:38 PT_
 
 v7.5.2 all beta testers now have the latest version of the app on both iOS and
-Android. iOS has begun it's phased rollout for the next 7 days. You will see
-some existing users getting the updates on iOS. Android's phased rollout starts
-Friday early morning, so only beta testers have the latest at this time.
+Android. iOS and Android have begun phased rollouts, and will have 100% rollout
+by next Wednesday for existing users.
 
 Note: new users will always get the latest version, phased rollout only affects
 updating existing users' app.
@@ -17,11 +16,11 @@ updating existing users' app.
 ***
 
 ### Upcoming Releases
-- v7.5.2 - Android: August 13, 2021
 - v7.6   - September 1, 2021
 - v7.7   - September 22, 2021
 
 ### Past Releases
+- v7.5.2 - Android: August 12, 2021, phased rollout started for 5 days.
 - v7.5.2 - iOS: August 11, 2021 phased rollout started for 7 days. All users
   will get updated versions by August 18, 2021.
 
