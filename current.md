@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 08/12/2021 17:38 PT_
+_Updated 08/16/2021 16:41 PT_
 
 v7.5.2 all beta testers now have the latest version of the app on both iOS and
 Android. iOS and Android have begun phased rollouts, and will have 100% rollout
@@ -50,6 +50,12 @@ updating existing users' app.
 |Notifications are marked unread as soon as you view the list |iOS/Android|in progress| v7.6               |
 |The forgot password link on the log in screen does not prompt an email to reset password.|Android|in progress| v7.6               |
 |Fiber cap for Conquer Cravings not working when calculating food bites |iOS/Android|in QA| v7.6|
+|In Dark Mode the meal plan tabs are blank |Android|investigating| v7.7|
+|Meal Plan's meal titles do not show the first item in the meal plan, but the
+photo shows the first one. |Android|investigating| v7.7|
+|Users can't remove food items from RECENTS while searching, only when there is
+no active search |Android|investigating| v7.7|
+|Users can't remove food items from RECENTS list |iOS|investigating| v7.7|
 |Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|investigating| TBD|
 |Restaurant foods do not adhere to zero bite ingredients |iOS/Android|investigating| TBD|
 |Manual Calorie Allowance Increased After 7.5 Release |iOS/Android|investigating| TBD               |
