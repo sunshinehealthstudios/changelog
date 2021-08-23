@@ -12,7 +12,7 @@ v7.5.2 has been fully released. All users will now have the ability to update to
 
 ### Upcoming Releases
 - v7.6   - September 8, 2021
-- v7.7   - September 29, 2021
+- v7.7   - September 22, 2021
 
 ### Past Releases
 - v7.5.2 - Android: August 12, 2021, phased rollout started for 5 days.
