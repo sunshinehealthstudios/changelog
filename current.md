@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 08/24/2021 07:53 PT_
+_Updated 08/26/2021 15:52 PT_
 
-v7.5.2 has been fully released. All users will now have the ability to update to the latest version of the app on both iOS and Android.
+v7.5.2 has been fully released. All users will now have the ability to update to the latest version of the app on both iOS and Android. Changes to notification behavior have also been released as of 8/26.
 
 ***
 
@@ -25,16 +25,21 @@ v7.5.2 has been fully released. All users will now have the ability to update to
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Notifications are duplicating  |iOS/Android|ready for release| v7.6              |
+|Notifications are duplicating  |iOS/Android|released| v7.6              |
+|Notifications are showing old notifications  |iOS/Android|released| v7.6               |
 |Notifications are marked unread as soon as you view the list |iOS/Android|ready for release| v7.6               |
-|Notifications are showing old notifications  |iOS/Android|ready fo release| v7.6               |
-|The forgot password link on the log in screen does not prompt an email to reset password.|Android|in QA| v7.6               |
-|Fiber cap for Conquer Cravings not working when calculating food bites |iOS/Android|in progress| v7.6|
+|The forgot password link on the log in screen does not prompt an email to reset password.|Android|ready for release| v7.6               |
+|Fiber cap for Conquer Cravings not working when calculating food bites |iOS/Android|ready for release| v7.6|
 |In Dark Mode the meal plan tabs are blank |Android|ready for release| v7.6|
+|BITES for Hummus are inconsistent with Android |iOS|ready for QA| v7.6|
+|Android 11: "See All" Beers crashes the app |Android|in progress| v7.6|
+|Sometimes we get error message on saving recipe `recipe.id must not be null` |Android|in progress| v7.7|
 |Meal Plan's meal titles do not show the first item in the meal plan, but the photo shows the first one. |Android|investigating| v7.7|
+|"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|investigating| v7.7|
 |Users can't remove food items from RECENTS while searching, only when there is no active search |Android|investigating| v7.7|
 |Users can't remove food items from RECENTS list |iOS|investigating| v7.7|
-|Sometimes we get error message on saving recipe `recipe.id must not be null` |Android|investigating| v7.7|
+|Button not working on new IAM for tracking weight |Android|investigating| v7.8|
+|Tracker screen: ocassionally the tick mark is not updated appropriately on meals|Android|investigating| v7.8|
 |Restaurant foods do not adhere to zero bite ingredients |iOS/Android|in progress| TBD|
-|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|investigating| TBD|
+|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|in progress| TBD|
 |Turning off app icon notifications sometimes doesn’t save|iOS|investigating| TBD               |
