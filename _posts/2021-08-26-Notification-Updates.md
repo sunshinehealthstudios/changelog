@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      v7.6
+title:      Notification Updates
 date:       2021-08-26 21:01:57
 categories: info
 ---
