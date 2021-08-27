@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 08/26/2021 15:52 PT_
+_Updated 08/27/2021 12:43 PT_
 
 v7.5.2 has been fully released. All users will now have the ability to update to the latest version of the app on both iOS and Android. Changes to notification behavior have also been released as of 8/26.
 
@@ -32,7 +32,7 @@ v7.5.2 has been fully released. All users will now have the ability to update to
 |Fiber cap for Conquer Cravings not working when calculating food bites |iOS/Android|ready for release| v7.6|
 |In Dark Mode the meal plan tabs are blank |Android|ready for release| v7.6|
 |BITES for Hummus are inconsistent with Android |iOS|ready for QA| v7.6|
-|Android 11: "See All" Beers crashes the app |Android|in progress| v7.6|
+|Android 11: "See All" Beers crashes the app |Android|ready for QA| v7.6|
 |Sometimes we get error message on saving recipe `recipe.id must not be null` |Android|in progress| v7.7|
 |Meal Plan's meal titles do not show the first item in the meal plan, but the photo shows the first one. |Android|investigating| v7.7|
 |"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|investigating| v7.7|
