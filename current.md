@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 09/01/2021 10:19 PT_
+_Updated 09/03/2021 14:12 PT_
 
 v7.5.2 has been fully released. All users will now have the ability to update to the latest version of the app on both iOS and Android. Changes to notification behavior have also been released as of 8/26.
 
 ***
 
 ### Upcoming Releases
-- v7.6   - September 8, 2021
+- v7.6   - September 15, 2021
 - v7.7   - September 22, 2021
 
 ### Past Releases
@@ -38,13 +38,17 @@ v7.5.2 has been fully released. All users will now have the ability to update to
 |Default serving size values for recipes is not retrieved appropriately |iOS|ready for release| v7.6|
 |Add Zero BITES food shows non-zero value while modifying the serving size |Android|ready for release| v7.6|
 |Edit serving size dismisses the meal detail overlay |iOS|ready for release| v7.6|
-|Serving Size: Custom Recipe BITES mismatch |Android|ready for QA| v7.6|
-|Calories mismatch between "Edit Serving Size" screen and "Food Details" screen |iOS|in progress| v7.6|
-|Recipes: BITES mismatch between actual BITES and details screen |Android|in progress| v7.6|
-|Edited Serving Sizes of Searched Foods Not Saving in Meal Plan |iOS|in progress| v7.6|
-|Tracker: Serving size does not match the modified serving size|iOS|investigating| v7.6|
-|Edit Serving Size: Recipes BITES mismatch with meal detail and "Recipes" screen |iOS|investigating| v7.6|
-|Serving Size: Custom Recipe BITES mismatch |iOS|investigating| v7.6|
+|Calories mismatch between "Edit Serving Size" screen and "Food Details" screen |iOS|ready for release| v7.6|
+|Recipes: BITES mismatch between actual BITES and details screen |Android|ready for release| v7.6|
+|Edited Serving Sizes of Searched Foods Not Saving in Meal Plan |iOS|ready for release| v7.6|
+|Serving Size: Custom Recipe BITES mismatch |Android|ready for release| v7.6|
+|Edit Serving Size: Recipes BITES mismatch with meal detail and "Recipes" screen |iOS|ready for QA| v7.6|
+|Foods & Custom Foods do not close properly after tracking |iOS|ready for QA| v7.6|
+|Meal Plan Tabs disappear after tracking food or custom food |iOS|ready for QA| v7.6|
+|After tracking a meal, "tracked" message should appear |iOS/Android|ready for QA| v7.6|
+|Tracker: Serving size does not match the modified serving size|iOS|in progress| v7.6|
+|Serving Size: Custom Recipe BITES mismatch |iOS|in progress| v7.6|
+|Hitting "save" or "track" on a meal plan should redirect back to "Your Meal Plan" tab |Android|investigating| v7.6|
 |Sometimes we get error message on saving recipe `recipe.id must not be null` |Android|in progress| v7.7|
 |Meal Plan's meal titles do not show the first item in the meal plan, but the photo shows the first one. |Android|investigating| v7.7|
 |"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|investigating| v7.7|
