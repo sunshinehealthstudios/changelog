@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Notification Updates & Conquer Cravings Fiber Cap
+title:      Notification & Serving Size Updates
 date:       2021-09-10 21:01:57
 categories: info
 ---
@@ -8,7 +8,7 @@ categories: info
 v7.6
 
 ## Overview
-We have updated our notifications in order to notify users for only the most salient posts and comments. Please view the video linked below for an in-depth explanation of how notifications should work now. We have also fixed the 4g fiber cap for Conquer Cravings.
+We have updated our notifications in order to notify users for only the most salient posts and comments. Please view the video linked below for an in-depth explanation of how notifications should work now. We have also added a new feature that allows users to edit the serving size of an item before adding it to their meal plan. This solves the problem of having to add one food multiple times to the same meal in order to account for quantity. Lastly, we have also fixed the 4g fiber cap for Conquer Cravings.
 
 ## Details
 ### api
