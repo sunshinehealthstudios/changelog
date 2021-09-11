@@ -20,7 +20,7 @@ We have updated our notifications in order to notify users for only the most sal
 * Updated group notification logic so that members will only receive notifications for new group posts (not comments)
 
 Video explaining notification logic updates:
-https://drive.google.com/file/d/1L0cJA-Fewv5-YwkNlWrSca9I8AytH1S-/view?usp=sharing 
+[https://drive.google.com/file/d/1L0cJA-Fewv5-YwkNlWrSca9I8AytH1S-/view?usp=sharing](https://drive.google.com/file/d/1L0cJA-Fewv5-YwkNlWrSca9I8AytH1S-/view?usp=sharing)
 
 ### ios
 * Update notifications read/unread behavior
