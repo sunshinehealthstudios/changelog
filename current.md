@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 09/09/2021 15:29 PT_
+_Updated 09/10/2021 21:31 PT_
 
-v7.5.2 has been fully released. All users will now have the ability to update to the latest version of the app on both iOS and Android. Changes to notification behavior have also been released as of 8/26.
+v7.5.2 has been fully released. All users will now have the ability to update to the latest version of the app on both iOS and Android. Changes to notification behavior have also been released as of 8/26. Phased rollout of version 7.6 will be released on Wed, Sept 15.
 
 ***
 
@@ -47,9 +47,10 @@ v7.5.2 has been fully released. All users will now have the ability to update to
 |Edit Serving Size: Recipes BITES mismatch with meal detail and "Recipes" screen |iOS|ready for release| v7.6|
 |Tracker: Serving size does not match the modified serving size|iOS|ready for release| v7.6|
 |Hitting "save" or "track" on a meal plan should redirect back to "Your Meal Plan" tab |Android|ready for release| v7.6|
-|After tracking a meal, "tracked" message should appear |iOS/Android|ready for QA| v7.6|
-|Serving Size: Custom Recipe BITES mismatch |iOS|ready for QA| v7.6|
+|After tracking a meal, "tracked" message should appear |iOS/Android|ready for release| v7.6|
+|Serving Size: Custom Recipe BITES mismatch |iOS|ready for release| v7.6|
 |Sometimes we get error message on saving recipe `recipe.id must not be null` |Android|in progress| v7.7|
+|Snacks: BITES mismatch between overlay and details screen |Android|investigating| v7.7|
 |Meal Plan's meal titles do not show the first item in the meal plan, but the photo shows the first one. |Android|investigating| v7.8|
 |"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|investigating| v7.8|
 |Users can't remove food items from RECENTS while searching, only when there is no active search |Android|investigating| v7.8|
