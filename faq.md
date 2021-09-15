@@ -6,6 +6,8 @@ permalink: /faq/
 
 _Updated 09/14/2021 18:47 PT_
 
+## Sharing and Deeplinks
+
 ***
 
 ### To Note Before Troubleshooting
