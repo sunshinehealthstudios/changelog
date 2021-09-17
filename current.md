@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 09/15/2021 12:14 PT_
+_Updated 09/17/2021 12:14 PT_
 
 v7.6 has begun to rollout on iOS and Android. All users will now have the ability to manually update to the latest version of the app. Our new mentions feature is now currently in development. 
 
