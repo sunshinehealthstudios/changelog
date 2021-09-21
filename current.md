@@ -34,9 +34,9 @@ v7.6 has begun to rollout on iOS and Android. All users will now have the abilit
 |Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |Android|in progress| v7.8|
 |Users can't remove food items from RECENTS list |iOS|in progress| v7.8|
 |Meal Plan's meal titles do not show the first item in the meal plan, but the photo shows the first one. |Android|investigating| v7.8|
-|Results tab: Restaurant foods do not adhere to zero bite ingredients |iOS/Android|investigating| 7.8|
-|"Add to Meal Plan" option not available when using recent list (Recipes) |Android|investigating| 7.8|
-|Notification text not loading properly, says "false" |Android|investigating| 7.8|
-|Android 11: Export log does not trigger any option to select email |Android|investigating| 7.8|
+|Results tab: Restaurant foods do not adhere to zero bite ingredients |iOS/Android|investigating| v7.8|
+|"Add to Meal Plan" option not available when using recent list (Recipes) |Android|investigating| v7.8|
+|Notification text not loading properly, says "false" |Android|investigating| v7.8|
+|Android 11: Export log does not trigger any option to select email |Android|investigating| v7.8|
 |Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|in progress| TBD|
 |Turning off app icon notifications sometimes doesn’t save|iOS|investigating| TBD               |
