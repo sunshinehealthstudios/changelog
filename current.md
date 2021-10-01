@@ -4,15 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 09/24/2021 19:24 PT_
+_Updated 10/01/2021 16:57 PT_
 
-v7.6 is fully rolled out on iOS and Android. All users will now have the ability to manually update to the latest version of the app. Our new mentions feature is now currently in development. 
+v7.7 is on track for release on Wednesday 10/6. We will no longer be releasing a 7.7.1 patch. All those issues have been split between 7.7 and 7.8.
 
 ***
 
 ### Upcoming Releases
 - v7.7    - October 6, 2021
-- v7.7.1  - October 13, 2021
 - v7.8    - October 20, 2021
 
 ### Past Releases
@@ -30,20 +29,24 @@ v7.6 is fully rolled out on iOS and Android. All users will now have the ability
 |Tracker screen: ocassionally the tick mark is not updated appropriately on meals|Android|ready for release| v7.7|
 |Users can't remove food items from RECENTS while searching, only when there is no active search |Android|ready for release| v7.7|
 |Posting text only (no media or mentions) causes the app to crash|iOS|ready for release| v7.7|
-|Sometimes we get error message on saving recipe `recipe.id must not be null` |Android|ready for QA| v7.7|
-|Meal Plan Comments: Keyboard not to be dismissed after selecting the mentions|iOS|ready for QA| v7.7|
-|Hashtags does not filtered/redirected appropriately|iOS|ready for QA| v7.7|
-|Results tab: Zero BITE food items are displayed with non-Zero BITES|Android|ready for release| v7.7.1|
-|Custom Food: Input on default BITES and Calories does not calculate appropriate BITES after Saving|Android|in progress| v7.7.1|
-|Conquer Cravings Custom Food: Default BITES values are displayed as Zero after saving|iOS|investigating| v7.7.1|
-|"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|in progress| v7.8|
-|Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |Android|in progress| v7.8|
-|Users can't remove food items from RECENTS list |iOS|in progress| v7.8|
-|Share: Community needs a refresh to load posts |Android|in progress| v7.8|
+|Sometimes we get error message on saving recipe `recipe.id must not be null` |Android|ready for release| v7.7|
+|Meal Plan Comments: Keyboard not to be dismissed after selecting the mentions|iOS|ready for release| v7.7|
+|Hashtags does not filtered/redirected appropriately|iOS|ready for release| v7.7|
+|Results tab: Zero BITE food items are displayed with non-Zero BITES|Android|ready for release| v7.7|
+|Custom Food: Input on default BITES and Calories does not calculate appropriate BITES after Saving|Android|ready for release| v7.7|
+|Conquer Cravings Custom Food: Default BITES values are displayed as Zero after saving|iOS|ready for release| v7.7|
+|Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |Android|ready for QA| v7.8|
+|"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|ready for QA| v7.8|
+|Share: Community needs a refresh to load posts |Android|ready for QA| v7.8|
+|Results tab: Restaurant foods do not adhere to zero bite ingredients |iOS/Android|ready for QA| v7.8|
+|Android 11: Export log does not trigger any option to select email |Android|ready for QA| v7.8|
+|"Add to Meal Plan" option not available when using recent list (Recipes) |Android|ready for QA| v7.8|
+|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|in progress| 7.8|
 |Editing post does not retrieve the data on the same page |Android|in progress| v7.8|
-|Meal Plan's meal titles do not show the first item in the meal plan, but the photo shows the first one. |Android|investigating| v7.8|
-|Results tab: Restaurant foods do not adhere to zero bite ingredients |iOS/Android|investigating| v7.8|
-|"Add to Meal Plan" option not available when using recent list (Recipes) |Android|investigating| v7.8|
+|Users can't remove food items from RECENTS list |iOS|in progress| v7.8|
+|Click error on tapping video on the community |Android|in progress| v7.8|
+|Update serving size decimals to match iOS|Android|in progress| v7.8|
 |Notification text not loading properly, says "false" |Android|investigating| v7.8|
-|Android 11: Export log does not trigger any option to select email |Android|investigating| v7.8|
-|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|in progress| TBD|
+|Meal Plan's meal titles do not show the first item in the meal plan, but the photo shows the first one. |Android|investigating| v7.8|
+|iOS 15 UI Issues|iOS|investigating| v7.8|
+|Stay on the food search results page after tracking|iOS|investigating| v7.8|
