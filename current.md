@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/01/2021 16:57 PT_
+_Updated 10/01/2021 23:14 PT_
 
 v7.7 is on track for release on Wednesday 10/6. We will no longer be releasing a 7.7.1 patch. All those issues have been split between 7.7 and 7.8.
 
@@ -50,3 +50,4 @@ v7.7 is on track for release on Wednesday 10/6. We will no longer be releasing a
 |Meal Plan's meal titles do not show the first item in the meal plan, but the photo shows the first one. |Android|investigating| v7.8|
 |iOS 15 UI Issues|iOS|investigating| v7.8|
 |Stay on the food search results page after tracking|iOS|investigating| v7.8|
+|Password Reset Link Not Working |Android|investigating| TBD|
