@@ -10,7 +10,7 @@ v7.7
 ## Overview
 This release includes a new mentions feature on our community. Users will now be able to tag other uses in a mention and users will be notified when they are tagged in a mention. We have also fixed bugs on our Conquer Cravings plan that were causing incorrect bite counts on custom foods. Lastly, we have made improvements to hashtags and deep links.
 
-[Video explaining new mentions feature:](https://drive.google.com/file/d/1YfGniE4M2sxow0DFK0omtLuJ-vHZP-pB/view?usp=sharing)
+[Video explaining new mentions feature](https://drive.google.com/file/d/1YfGniE4M2sxow0DFK0omtLuJ-vHZP-pB/view?usp=sharing)
 
 ## Details
 ### api
