@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/01/2021 23:14 PT_
+_Updated 10/04/2021 22:40 PT_
 
-v7.7 is on track for release on Wednesday 10/6. We will no longer be releasing a 7.7.1 patch. All those issues have been split between 7.7 and 7.8.
+v7.7 is delayed due to the number of bugs found in the beta. We will provide an updated ETA as soon as we can. We will no longer be releasing a 7.7.1 patch. All those issues have been split between 7.7 and 7.8.
 
 ***
 
 ### Upcoming Releases
-- v7.7    - October 6, 2021
+- v7.7    - TBD, ASAP
 - v7.8    - October 20, 2021
 
 ### Past Releases
@@ -35,6 +35,14 @@ v7.7 is on track for release on Wednesday 10/6. We will no longer be releasing a
 |Results tab: Zero BITE food items are displayed with non-Zero BITES|Android|ready for release| v7.7|
 |Custom Food: Input on default BITES and Calories does not calculate appropriate BITES after Saving|Android|ready for release| v7.7|
 |Conquer Cravings Custom Food: Default BITES values are displayed as Zero after saving|iOS|ready for release| v7.7|
+|Handle mentions/tags when the Username has and Underscore|Android|ready for QA| v7.7|
+|Reduce the transparency ratio on the mentions overlay|Android|ready for QA| v7.7|
+|iOS 15: Allow App to Track doesn’t launch|iOS|ready for QA| v7.7|
+|Android 11: Show Progress Bar doesnt work as expected|Android|ready for QA| v7.7|
+|Community: Editing post does not retrieve the original content of the post|iOS|ready for QA| v7.7|
+|Community: Editing post with Emojis crashes the app|iOS|ready for QA| v7.7|
+|Community: See More does not respond on the posts|Android|investigating| v7.7|
+|Deleting post does not redirect appropriately |iOS|investigating| v7.7|
 |Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |Android|ready for QA| v7.8|
 |"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|ready for QA| v7.8|
 |Share: Community needs a refresh to load posts |Android|ready for QA| v7.8|
