@@ -38,7 +38,7 @@ On iOS, the version update will be released over a 7-day period to a percentage 
 
 ### Android Behavior
 
-On Android, the version update will be released over a 7-day period to a percentage of users selected at random. Users won't be notified if they receive a version of our app in a staged rollout. Users won't be able to manually download the latest version and must wait until they are in the group of users selected for the rollout. New users will also be randomly selected for the new version of the app according to the percentage of users the new version is available to on the day of phased release. 
+On Android, the version update will be released over a 7-day period to a percentage of users selected at random. Users will be notified if they receive a version of our app in a staged rollout. Users won't be able to manually download the latest version and must wait until they are in the group of users selected for the rollout. New users will also be randomly selected for the new version of the app according to the percentage of users the new version is available to on the day of phased release. 
 
 |Day of Phased Release      |Percentage of Users      |
 | ---                       | ---                     |
