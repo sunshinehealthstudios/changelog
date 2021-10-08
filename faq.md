@@ -4,7 +4,57 @@ title: FAQ
 permalink: /faq/
 ---
 
-_Updated 09/14/2021 18:47 PT_
+_Updated 10/08/2021 11:38 PT_
+
+## Phased Rollouts
+
+We release new versions of the app in phases to percentages of our users of the course of a week. We do this to ensure that any major bugs that we might have missed in QA are not immediately released en masse. Please read below for details on how phased rollout works on iOS and Android.
+
+***
+
+### iOS Behavior
+
+On iOS, the version update will be released over a 7-day period to a percentage of users (selected at random by their Apple ID) with automatic updates turned on. Users won't be notified if they receive a version of our app in a staged rollout. All users who have downloaded the app will still be able to update the app manually from the App Store at any time. New users who download the app will get the latest version of the app as well.
+
+|Day of Phased Release      |Percentage of Users      |
+| ---                       | ---                     |
+|1  |1% |
+|2  |2% |
+|3  |5% |
+|4  |10% |
+|5  |20% |
+|6  |50% |
+|7  |100% |
+
+### Android Behavior
+
+On Android, the version update will be released over a 7-day period to a percentage of users selected at random. Users won't be notified if they receive a version of our app in a staged rollout. Users won't be able to manually download the latest version and must wait until they are in the group of users selected for the rollout. New users will also be randomly selected for the new version of the app according to the percentage of users the new version is available to on the day of phased release. 
+
+|Day of Phased Release      |Percentage of Users      |
+| ---                       | ---                     |
+|1  |1% |
+|2  |2% |
+|3  |5% |
+|4  |10% |
+|5  |20% |
+|6  |50% |
+|7  |100% |
+
+***
+
+## Notification Limtis
+
+We currently cap the number of email and push notifications that can be sent within a certain time period in order to protect our users from spam.
+
+Please see the current time limit caps below:
+- Push = limit 1 push notification every **5** minutes
+- Email = limit 1 email notification every **10** minutes
+
+Note that if a push or email notification is triggered within the time limit, no notification will be sent (even after the time limit is up).
+
+These limitations do NOT apply to in-app community notifications! Users should receive notifications for every event triggered in their community notifications page.
+
+***
 
 ## Sharing and Deeplinks
 
