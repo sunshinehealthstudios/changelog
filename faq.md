@@ -16,7 +16,7 @@ We release new versions of the app in phases to percentages of our users of the 
   automatically get the latest update
 - At the end of the rollout, all users will get access
 - iOS users, even if they are not in the current rollout, **can manually update** from the AppStore, but not automatically
-- Android users **can not** get the update until they are part of the phased rollout
+- Android users **cannot** get the update until they are part of the phased rollout
 - Best practice: assume the stricter rules of Android when announcing to the
   general community, that there is no way to update.
 
