@@ -10,6 +10,16 @@ _Updated 10/08/2021 11:38 PT_
 
 We release new versions of the app in phases to percentages of our users of the course of a week. We do this to ensure that any major bugs that we might have missed in QA are not immediately released en masse. Please read below for details on how phased rollout works on iOS and Android.
 
+### Summary
+
+- Each day a percentage of new and existing users will have the opportunity to
+  automatically get the latest update
+- At the end of the rollout, all users will get access
+- iOS users, even if they are not in the current rollout, **can manually update** from the AppStore, but not automatically
+- Android users **can not** get the update until they are part of the phased rollout
+- Best practice: assume the stricter rules of Android when announcing to the
+  general community, that there is no way to update.
+
 ***
 
 ### iOS Behavior
