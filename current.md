@@ -31,7 +31,7 @@ v7.7 has begun a 7 day rollout on iOS and Android. 100% of users should receive 
 |Egg Whole: Calories modified recently|API|ready for QA| v7.7.1|
 |Existing Custom Recipes shows BITES for ZERO food items|Android|ready for QA| v7.7.1|
 |AppStore: Push notifications not redirecting to the app appropriately|iOS|investigating| v7.7.1|
-|Results tab: Zero BITE food items are displayed with non-Zero BITES|Android|investigating| v7.7.1|
+|Conquer Cravings: Zero BITE food items are counted as having BITES when Smart Search is OFF|Android|investigating| v7.7.1|
 |Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |Android|ready for QA| v7.8|
 |"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|ready for QA| v7.8|
 |Share: Community needs a refresh to load posts |Android|ready for QA| v7.8|
