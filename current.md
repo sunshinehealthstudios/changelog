@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/12/2021 14:04 PT_
+_Updated 10/13/2021 13:28 PT_
 
 v7.7 has begun a 7 day rollout on iOS and Android. 100% of users should receive the release by Thursday, Oct 14th. A 7.7.1 patch will follow shortly to address a few lower priority bugs as well. 
 
@@ -12,7 +12,7 @@ v7.7 has begun a 7 day rollout on iOS and Android. 100% of users should receive 
 
 ### Upcoming Releases
 - v7.7.1. - TBD, ASAP
-- v7.8    - October 20, 2021
+- v7.8    - October 27, 2021
  
 ### Past Releases
 - v7.7    - October 7, 2021
