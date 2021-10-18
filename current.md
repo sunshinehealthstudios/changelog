@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/13/2021 22:39 PT_
+_Updated 10/18/2021 1:07 PT_
 
-v7.7 has begun a 7 day rollout on iOS and Android. 100% of users should receive the release by Thursday, Oct 14th. A 7.7.1 patch will follow shortly to address a few lower priority bugs as well. 
+7.7 rollout is complete. 100% of users should have access to the release. A 7.7.1 patch will follow shortly to address a few bugs as well. 
 
 ***
 
@@ -26,13 +26,19 @@ v7.7 has begun a 7 day rollout on iOS and Android. 100% of users should receive 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
 |Mentions list not visible when tagging in the middle of the post|iOS|ready for release| v7.7.1|
+|Conquer Cravings: Lettuce when modifying serving sizes shows BITES instead of 0|iOS|ready for release| v7.7.1|
+|Page reload navigates to the top after commenting on a post|iOS|ready for release| v7.7.1|
+|Chick-fil-A Grilled Nuggets shows 0 BITES|iOS/Android|ready for release| v7.7.1|
 |Existing Custom Recipes shows BITES for ZERO food items|iOS|ready for release| v7.7.1|
 |Egg Whole: Calories modified recently|API|ready for release| v7.7.1|
 |Conquer Cravings: Zero BITE food items are counted as having BITES when Smart Search is OFF|iOS|ready for release| v7.7.1|
-|AppStore: Push notifications not redirecting to the app appropriately|iOS|ready for QA| v7.7.1|
+|AppStore: Push notifications not redirecting to the app appropriately|iOS|ready for release| v7.7.1|
+|Editing Comments with Emojis jumps to the end of the text always|iOS|ready for release| v7.7.1|
 |Existing Custom Recipes shows BITES for ZERO food items|Android|ready for QA| v7.7.1|
-|Editing Comments with Emojis jumps to the end of the text always|iOS|in progress| v7.7.1|
-|Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |Android|ready for QA| v7.8|
+|Favorites/Recent Tab: Zero BITE food items are displayed with BITES|iOS|ready for QA| v7.7.1|
+|Post fail error message while posting comments|iOS|in progress| v7.7.1|
+|Update Link for "Forgot My Password" |Web|released| v7.7.1|
+|Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |iOS/Android|ready for QA| v7.8|
 |"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|ready for QA| v7.8|
 |Share: Community needs a refresh to load posts |Android|ready for QA| v7.8|
 |Results tab: Restaurant foods do not adhere to zero bite ingredients |iOS/Android|ready for QA| v7.8|
@@ -43,9 +49,7 @@ v7.7 has begun a 7 day rollout on iOS and Android. 100% of users should receive 
 |Click error on tapping video on the community |Android|ready for QA| v7.8|
 |Stay on the food search results page after tracking|iOS|ready for QA| v7.8|
 |Update serving size decimals to match iOS|Android|ready for QA| v7.8|
-|iOS 15 UI Issues|iOS|in progress| v7.8|
+|iOS 15 UI Issues|iOS|ready for QA| v7.8|
 |Meal Plan's meal titles do not show the first item in the meal plan, but the photo shows the first one |Android|ready for QA| v7.8|
-|Page reload navigates to the top after commenting on a post |Android|in progress| v7.8|
-|Posts should include "close comments" option |iOS|in progress| v7.8|
-|Users can't remove food items from RECENTS list |iOS|investigating| v7.8|
-|Password Reset Link Not Working |Android|investigating| TBD|
+|Posts should include "close comments" option |iOS|ready for QA| v7.8|
+|Facebook & Facebook Messenger Sharing Options not shown  |Android|ready for QA| v7.8|
