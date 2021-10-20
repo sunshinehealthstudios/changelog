@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/19/2021 19:48 PT_
+_Updated 10/20/2021 13:00 PT_
 
-7.7 rollout is complete. 100% of users should have access to the release. A 7.7.1 patch will follow shortly to address a few bugs as well. 
+A 7.7.1 patch has been submitted to the app store. It will be released to 100% of users upon approval. 7.8 is now QA. Hopefully, we can stay on track for a 10/27 release.
 
 ***
 
 ### Upcoming Releases
-- v7.7.1. - TBD, ASAP
+- v7.7.1. - ASAP pending app store approval
 - v7.8    - October 27, 2021
 - v7.9    - November 17, 2021
  
@@ -37,8 +37,7 @@ _Updated 10/19/2021 19:48 PT_
 |AppStore: Push notifications not redirecting to the app appropriately|iOS|ready for release| v7.7.1|
 |Editing Comments with Emojis jumps to the end of the text always|iOS|ready for release| v7.7.1|
 |Existing Custom Recipes shows BITES for ZERO food items|Android|can't fix| N/A|
-|Favorites/Recent Tab: Zero BITE food items are displayed with BITES|iOS|caan't fix| N/A|
-|Post fail error message while posting comments|iOS|ready for QA| v7.7.1|
+|Favorites/Recent Tab: Zero BITE food items are displayed with BITES|iOS|can't fix| N/A|
 |Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |iOS/Android|ready for QA| v7.8|
 |"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|ready for QA| v7.8|
 |Share: Community needs a refresh to load posts |Android|ready for QA| v7.8|
