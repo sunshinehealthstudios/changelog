@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/20/2021 13:00 PT_
+_Updated 10/20/2021 14:19 PT_
 
 A 7.7.1 patch has been submitted to the app store. It will be released to 100% of users upon approval. 7.8 is now QA. Hopefully, we can stay on track for a 10/27 release.
 
@@ -31,12 +31,11 @@ A 7.7.1 patch has been submitted to the app store. It will be released to 100% o
 |Conquer Cravings: Lettuce when modifying serving sizes shows BITES instead of 0|iOS|ready for release| v7.7.1|
 |Page reload navigates to the top after commenting on a post|iOS|ready for release| v7.7.1|
 |Chick-fil-A Grilled Nuggets shows 0 BITES|iOS/Android|ready for release| v7.7.1|
-|Existing Custom Recipes shows BITES for ZERO food items|iOS|ready for release| v7.7.1|
 |Egg Whole: Calories modified recently|API|ready for release| v7.7.1|
 |Conquer Cravings: Zero BITE food items are counted as having BITES when Smart Search is OFF|iOS|ready for release| v7.7.1|
 |AppStore: Push notifications not redirecting to the app appropriately|iOS|ready for release| v7.7.1|
 |Editing Comments with Emojis jumps to the end of the text always|iOS|ready for release| v7.7.1|
-|Existing Custom Recipes shows BITES for ZERO food items|Android|can't fix| N/A|
+|Existing Custom Recipes shows BITES for ZERO food items|iOS/Android|can't fix| N/A|
 |Favorites/Recent Tab: Zero BITE food items are displayed with BITES|iOS|can't fix| N/A|
 |Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |iOS/Android|ready for QA| v7.8|
 |"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|ready for QA| v7.8|
