@@ -4,14 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/20/2021 14:19 PT_
+_Updated 10/20/2021 15:33 PT_
 
-A 7.7.1 patch has been submitted to the app store. It will be released to 100% of users upon approval. 7.8 is now QA. Hopefully, we can stay on track for a 10/27 release.
+A 7.7.1 patch has been submitted to the app store. It will be released to 100% of users upon approval. We are now dropping everything else to address the zero bites issues seen on custom foods/recipes and favorites in a 7.7.2 patch release. 7.8 is also in QA, but may be delayed so that we can priotitize 7.7.2.
 
 ***
 
 ### Upcoming Releases
-- v7.7.1. - ASAP pending app store approval
+- v7.7.1. - pending app store approval
+- 7.7.2.  - ASAP
 - v7.8    - October 27, 2021
 - v7.9    - November 17, 2021
  
@@ -35,8 +36,7 @@ A 7.7.1 patch has been submitted to the app store. It will be released to 100% o
 |Conquer Cravings: Zero BITE food items are counted as having BITES when Smart Search is OFF|iOS|ready for release| v7.7.1|
 |AppStore: Push notifications not redirecting to the app appropriately|iOS|ready for release| v7.7.1|
 |Editing Comments with Emojis jumps to the end of the text always|iOS|ready for release| v7.7.1|
-|Existing Custom Recipes shows BITES for ZERO food items|iOS/Android|can't fix| N/A|
-|Favorites/Recent Tab: Zero BITE food items are displayed with BITES|iOS|can't fix| N/A|
+|Existing Custom Recipes and favorites show BITES for ZERO food items|iOS/Android|investigating| v7.7.2|
 |Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |iOS/Android|ready for QA| v7.8|
 |"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|ready for QA| v7.8|
 |Share: Community needs a refresh to load posts |Android|ready for QA| v7.8|
