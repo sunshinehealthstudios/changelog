@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/18/2021 1:07 PT_
+_Updated 10/19/2021 19:48 PT_
 
 7.7 rollout is complete. 100% of users should have access to the release. A 7.7.1 patch will follow shortly to address a few bugs as well. 
 
@@ -13,6 +13,7 @@ _Updated 10/18/2021 1:07 PT_
 ### Upcoming Releases
 - v7.7.1. - TBD, ASAP
 - v7.8    - October 27, 2021
+- v7.9    - November 17, 2021
  
 ### Past Releases
 - v7.7    - October 7, 2021
@@ -25,6 +26,7 @@ _Updated 10/18/2021 1:07 PT_
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
+|Update Link for "Forgot My Password" |Web|released| v7.7.1|
 |Mentions list not visible when tagging in the middle of the post|iOS|ready for release| v7.7.1|
 |Conquer Cravings: Lettuce when modifying serving sizes shows BITES instead of 0|iOS|ready for release| v7.7.1|
 |Page reload navigates to the top after commenting on a post|iOS|ready for release| v7.7.1|
@@ -34,10 +36,9 @@ _Updated 10/18/2021 1:07 PT_
 |Conquer Cravings: Zero BITE food items are counted as having BITES when Smart Search is OFF|iOS|ready for release| v7.7.1|
 |AppStore: Push notifications not redirecting to the app appropriately|iOS|ready for release| v7.7.1|
 |Editing Comments with Emojis jumps to the end of the text always|iOS|ready for release| v7.7.1|
-|Existing Custom Recipes shows BITES for ZERO food items|Android|ready for QA| v7.7.1|
-|Favorites/Recent Tab: Zero BITE food items are displayed with BITES|iOS|ready for QA| v7.7.1|
-|Post fail error message while posting comments|iOS|in progress| v7.7.1|
-|Update Link for "Forgot My Password" |Web|released| v7.7.1|
+|Existing Custom Recipes shows BITES for ZERO food items|Android|can't fix| N/A|
+|Favorites/Recent Tab: Zero BITE food items are displayed with BITES|iOS|caan't fix| N/A|
+|Post fail error message while posting comments|iOS|ready for QA| v7.7.1|
 |Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |iOS/Android|ready for QA| v7.8|
 |"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|ready for QA| v7.8|
 |Share: Community needs a refresh to load posts |Android|ready for QA| v7.8|
