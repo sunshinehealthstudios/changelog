@@ -6,18 +6,15 @@ permalink: /current/
 
 _Updated 10/21/2021 15:12 PT_
 
-v7.7.1 has been released to the App Store and Google Play Store. Within hours,
-all users will be able to see and update.
+v7.7.1 has been released to the App Store and Google Play Store.
 
-v7.7.2 will address certain foods in custom recipes, favorites, and recents not
-showing zero bites. If users using v7.7.1 go to track their foods, the bite
-counts will be correct, and if they toggle the `0 Bite Food?`, this will also
-resolve the issue. We are working on a technical fix, but it's extremely
-difficult and will require a lot of work and testing to ensure we get it right.
+In v7.7.2, we will be addressing the issue of custom recipes/favorites/recents having some zero bite food items showing with bite counts in an upcoming v7.7.2 release. This is top priority and the next release will include the fix. The fix is extremely complex so it’s going to take a lot of engineering and testing to ensure it works on both iOS and Android. There’s no time estimate yet, because we haven’t found a viable solution yet, but once we do, we’ll be able to give a better estimate.
+I’m hoping we can get this done in 3 - 7 days, with a release shortly after full testing (and beta testing from all of you if possible!).
 
-Rest assured, nutritional information has not been lost, and this is only a zero
-bite feature issue for certain existing custom recipes/favorites/recents. Any
-new ones created now will not experience this same issue.
+- All new custom recipes, recents, and favorites will not be affected as long as users are on v7.1.1
+- Tracking from custom recipes/favorites/recents will still work correctly, even though the initial bite counts are showing as more than zero.
+- Users can toggle the 0 Bites? option when tracking or adding to recipes to trigger the re-calculation of bites correctly as a workaround for the time being.
+- The new fix will run a script through all recents/favorites/custom recipes on everyone’s devices to essentially recalculate and save those values so they will appear correctly when viewing.
 
 ***
 
