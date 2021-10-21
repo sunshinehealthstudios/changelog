@@ -6,7 +6,6 @@ permalink: /current/
 
 _Updated 10/21/2021 15:12 PT_
 
-A 7.7.1 patch has been submitted to the app store. It will be released to 100% of users upon approval. We are now dropping everything else to address the zero bites issues seen on custom foods/recipes and favorites in a 7.7.2 patch release. 7.8 is also in QA, but may be delayed so that we can priotitize 7.7.2.
 v7.7.1 has been released to the App Store and Google Play Store. Within hours,
 all users will be able to see and update.
 
