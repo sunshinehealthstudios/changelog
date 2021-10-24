@@ -10,7 +10,7 @@ v7.7.2
 ## Overview
 This patch release fixes a few issues introduced in v7.7 including:
 - Custom recipes/favorites/recents having some zero bite food items showing with bite counts
-- A bug seen on Better Balance when creating creating or editing custom recipes where the bite count changes after saving
+- A bug seen on Better Balance when creating or editing custom recipes where the bite count changes after saving
 
 
 ## Details
