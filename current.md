@@ -36,7 +36,7 @@ v7.7.2 has been released to the App Store and Google Play Store. This release ad
 |Results tab: Restaurant foods do not adhere to zero bite ingredients |iOS/Android|ready for QA| v7.8|
 |Android 11: Export log does not trigger any option to select email |Android|ready for QA| v7.8|
 |"Add to Meal Plan" option not available when using recent list (Recipes) |Android|ready for QA| v7.8|
-|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|ready for QA| 7.8|
+|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|ready for QA| v7.8|
 |Editing post does not retrieve the data on the same page |Android|ready for QA| v7.8|
 |Click error on tapping video on the community |Android|ready for QA| v7.8|
 |Stay on the food search results page after tracking|iOS|ready for QA| v7.8|
