@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Community Bug Fixes
+title:      Zero Bite Bug Fixes
 date:       2021-10-23 20:20:57
 categories: info
 ---
