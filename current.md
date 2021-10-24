@@ -6,7 +6,7 @@ permalink: /current/
 
 _Updated 10/23/2021 20:12 PT_
 
-v7.7.2 has been released to the App Store and Google Play Store. This release addresses the issue of custom recipes/favorites/recents having some zero bite food items showing with bite counts. The fix runs a script through all recents/favorites/custom recipes on everyone’s devices to essentially recalculate and save those values so they will appear correctly when viewing. The 7.7.2 release also fixes a bug seen on Better Balance when creating creating or editing custom recipes where the bite count changes after saving.
+v7.7.2 has been released to the App Store and Google Play Store. This release addresses the issue of custom recipes/favorites/recents having some zero bite food items showing with bite counts. The fix runs a script through all recents/favorites/custom recipes on everyone’s devices to essentially recalculate and save those values so they will appear correctly when viewing. The 7.7.2 release also fixes a bug seen on Better Balance when creating or editing custom recipes where the bite count changes after saving.
 
 ***
 
