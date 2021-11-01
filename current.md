@@ -11,7 +11,7 @@ The release of v7.8 is delayed due to the patch releases for v7.7 that took prio
 ***
 
 ### Upcoming Releases
-- v7.8    - November 3, 2021
+- v7.8    - November 10, 2021
 - v7.9    - November 17, 2021
  
 ### Past Releases
