@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/28/2021 19:38 PT_
+_Updated 11/1/2021 19:20 PT_
 
-The release of v7.8 is delayed due to the patch releases for v7.7 that took priority. New ETA on releasing v7.8 is Wednesday, November 3rd. The team is also investigating a few zero bite issues that may be persisting after v7.2.2. 
+The release of v7.8 is delayed due to the patch releases for v7.7 that took priority. New ETA on releasing v7.8 is Friday, November 5th. 
 
 ***
 
 ### Upcoming Releases
-- v7.8    - November 10, 2021
+- v7.8    - November 5, 2021
 - v7.9    - November 17, 2021
  
 ### Past Releases
@@ -27,6 +27,7 @@ The release of v7.8 is delayed due to the patch releases for v7.7 that took prio
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
+|Results tab: Restaurant foods do not adhere to zero bite ingredients |iOS/Android|released | v7.8|
 |Missing tabs: Results/Zero BITES/Favorites/My Food/My Recipes/Brands |iOS|ready for release| v7.8|
 |Stay on the food search results page after tracking|iOS|ready for release| v7.8|
 |Text jiggles when typing on Community|iOS|ready for release| v7.8|
@@ -39,16 +40,17 @@ The release of v7.8 is delayed due to the patch releases for v7.7 that took prio
 |Editing post does not retrieve the data on the same page |Android|ready for release| v7.8|
 |Meal Plan's meal titles do not show the first item in the meal plan, but the photo shows the first one |Android|ready for release| v7.8|
 |Facebook & Facebook Messenger Sharing Options not shown  |Android|ready for release| v7.8|
-|Results tab: Restaurant foods do not adhere to zero bite ingredients |iOS/Android|ready for QA| v7.8|
-|Update serving size decimals to match iOS|Android|ready for QA| v7.8|
-|Posts should include "close comments" option |iOS|ready for QA| v7.8|
-|iOS 15 UI Issues|iOS|ready for QA| v7.8|
-|Click error on tapping video on the community |Android|in progress| v7.8|
+|Update serving size decimals to match iOS|Android|ready for release| v7.8|
+|Posts should include "close comments" option |iOS|ready for release| v7.8|
+|iOS 15 UI Issues|iOS|ready for release| v7.8|
+|Click error on tapping video on the community |Android|ready for release| v7.8|
+|Meal plan shared from Android does not show images on iOS|iOS|in progress| v7.8|
+|5 Day Getting Started: App crashes while tracking recipes |iOS|ready for release| v7.9|
 |Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|ready for QA| v7.9|
 |New notifications appear at the bottom of the screen |iOS/Android|ready for QA| v7.9|
-|5 Day Getting Started: App crashes while tracking recipes |iOS|ready for QA| v7.9|
+|Meal Plan: Adding Favorite items updates as some other item|Android|ready for QA| v7.9|
+|Community: Share post does not show any options/share apps|Android|in progress| v7.9|
 |Meal Plan: Food item BITES gets modified after saving|iOS|investigating| v7.9|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|investigating| v7.9|
-|Meal Plan: Adding Favorite items updates as some other item|Android|investigating| v7.9|
 |Brands: Searching restaurant does not return results unless tapping "See All"|Android|investigating| v7.9|
-|Community: Share post does not show any options/share apps|Android|investigating| v7.9|
+|Blocking users doesn't work as expected|api|investigating| v7.10|
