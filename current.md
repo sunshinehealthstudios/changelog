@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/1/2021 19:20 PT_
+_Updated 11/2/2021 19:20 PT_
 
 The release of v7.8 is delayed due to the patch releases for v7.7 that took priority. New ETA on releasing v7.8 is Friday, November 5th. 
 
@@ -54,3 +54,4 @@ The release of v7.8 is delayed due to the patch releases for v7.7 that took prio
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|investigating| v7.9|
 |Brands: Searching restaurant does not return results unless tapping "See All"|Android|investigating| v7.9|
 |Blocking users doesn't work as expected|api|investigating| v7.10|
+|Severe latency on some android 9 models|android|investigating| TBD|
