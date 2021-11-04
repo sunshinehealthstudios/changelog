@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/2/2021 19:20 PT_
+_Updated 11/3/2021 19:37 PT_
 
 The release of v7.8 is delayed due to the patch releases for v7.7 that took priority. New ETA on releasing v7.8 is Friday, November 5th. 
 
@@ -44,14 +44,14 @@ The release of v7.8 is delayed due to the patch releases for v7.7 that took prio
 |Posts should include "close comments" option |iOS|ready for release| v7.8|
 |iOS 15 UI Issues|iOS|ready for release| v7.8|
 |Click error on tapping video on the community |Android|ready for release| v7.8|
-|Meal plan shared from Android does not show images on iOS|iOS|in progress| v7.8|
+|Meal plan shared from Android does not show images on iOS|Android|ready for release| v7.8|
 |5 Day Getting Started: App crashes while tracking recipes |iOS|ready for release| v7.9|
-|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|ready for QA| v7.9|
 |New notifications appear at the bottom of the screen |iOS/Android|ready for QA| v7.9|
 |Meal Plan: Adding Favorite items updates as some other item|Android|ready for QA| v7.9|
-|Community: Share post does not show any options/share apps|Android|in progress| v7.9|
-|Meal Plan: Food item BITES gets modified after saving|iOS|investigating| v7.9|
-|Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|investigating| v7.9|
-|Brands: Searching restaurant does not return results unless tapping "See All"|Android|investigating| v7.9|
+|Community: Share post does not show any options/share apps|Android|ready for QA| v7.9|
+|Meal Plan: Food item BITES gets modified after saving|iOS|in progress| v7.9|
+|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|in progress| v7.9|
+|Brands: Searching restaurant does not return results unless tapping "See All"|Android|in progress| v7.9|
 |Blocking users doesn't work as expected|api|investigating| v7.10|
+|Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|investigating| v7.10|
 |Severe latency on some android 9 models|android|investigating| TBD|
