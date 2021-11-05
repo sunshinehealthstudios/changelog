@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/3/2021 19:37 PT_
+_Updated 11/4/2021 17:37 PT_
 
 The release of v7.8 is delayed due to the patch releases for v7.7 that took priority. New ETA on releasing v7.8 is Friday, November 5th. 
 
