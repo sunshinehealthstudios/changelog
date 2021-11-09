@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/8/2021 20:05 PT_
+_Updated 11/9/2021 14:29 PT_
 
 v7.8 has begun rollout on iOS and Android. It will be rolled out to 100% of users by Thursday, November 11th. The team is now working on QA for v7.9, which will be released on November 17th.
 
