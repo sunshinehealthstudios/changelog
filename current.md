@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/5/2021 18:57 PT_
+_Updated 11/8/2021 20:05 PT_
 
 v7.8 has begun rollout on iOS and Android. It will be rolled out to 100% of users by Thursday, November 11th. The team is now working on QA for v7.9, which will be released on November 17th.
 
@@ -28,13 +28,13 @@ v7.8 has begun rollout on iOS and Android. It will be rolled out to 100% of user
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|5 Day Getting Started: App crashes while tracking recipes |iOS|ready for release| v7.9|
 |New notifications appear at the bottom of the screen |iOS/Android|ready for QA| v7.9|
 |Meal Plan: Adding Favorite items updates as some other item|Android|ready for QA| v7.9|
 |Community: Share post does not show any options/share apps|Android|ready for QA| v7.9|
-|Meal Plan: Food item BITES gets modified after saving|iOS|in progress| v7.9|
+|Brands: Searching restaurant does not return results unless tapping "See All"|Android|ready for QA| v7.9|
+|5 Day Getting Started: App crashes while tracking recipes |iOS|in progress| v7.9|
 |Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|in progress| v7.9|
-|Brands: Searching restaurant does not return results unless tapping "See All"|Android|in progress| v7.9|
 |Blocking users doesn't work as expected|api|investigating| v7.10|
+|Meal Plan: Food item BITES gets modified after saving|iOS|investigating| v7.9|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|investigating| v7.10|
 |Severe latency on some android 9 models|android|investigating| TBD|
