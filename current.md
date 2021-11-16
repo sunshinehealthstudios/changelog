@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/12/2021 19:00 PT_
+_Updated 11/15/2021 16:33 PT_
 
-v7.8 has rolled out to 100% of users on iOS and Android. The team has finished QA on v7.9, which will be released on November 16th. We are now working on v7.9.1.
+v7.8 has rolled out to 100% of users on iOS and Android. The team has finished QA on v7.9, which will be released on November 17th. We are now working on v7.9.1.
 
 ***
 
 ### Upcoming Releases
-- v7.9    - November 16, 2021
+- v7.9    - November 17, 2021
 - 7.9.1.  - November 24, 2021
 - v7.10.  - December 8, 2021
  
@@ -20,8 +20,6 @@ v7.8 has rolled out to 100% of users on iOS and Android. The team has finished Q
 - v7.7.2  - October 23, 2021
 - v7.7.1  - October 21, 2021
 - v7.7    - October 7, 2021
-- v7.6    - Android: September 17, 2021, phased rollout started for 5 days.
-- v7.6    - iOS: September 15, 2021 phased rollout started for 7 days.
 
 ***
 
@@ -39,8 +37,10 @@ v7.8 has rolled out to 100% of users on iOS and Android. The team has finished Q
 |5 Day Getting Started: App crashes while tracking recipes |iOS|ready for release| v7.9|
 |Profile page doesn’t open at top of the scroll |iOS|in progress| v7.9.1|
 |Tab bar in meal plan overlaps status bar |Android|investigating| v7.9.1|
+|Show progress toggle not saved in settings appropriately |iOS|investigating| v7.9.1|
+|Ingredients should show quantities in units|Android|investigating| v7.9.1|
+|Blocking users doesn't work as expected|api|in progress| v7.10|
 |Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|in progress| v7.10|
-|Blocking users doesn't work as expected|api|investigating| v7.10|
 |New notifications appear at the bottom of the screen |Android|investigating| v7.10|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|investigating| v7.10|
 |Severe latency on some android 9 models|android|investigating| TBD|
