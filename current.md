@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/15/2021 16:33 PT_
+_Updated 11/16/2021 19:02 PT_
 
 v7.8 has rolled out to 100% of users on iOS and Android. The team has finished QA on v7.9, which will be released on November 17th. We are now working on v7.9.1.
 
@@ -35,6 +35,7 @@ v7.8 has rolled out to 100% of users on iOS and Android. The team has finished Q
 |Brands: Searching restaurant does not return results unless tapping "See All"|Android|ready for release| v7.9|
 |Recipe filter produces error message |Android|ready for release| v7.9|
 |5 Day Getting Started: App crashes while tracking recipes |iOS|ready for release| v7.9|
+|Tracker Screen: today's highlight is not visible|Android|ready for release| v7.9|
 |Profile page doesn’t open at top of the scroll |iOS|in progress| v7.9.1|
 |Tab bar in meal plan overlaps status bar |Android|investigating| v7.9.1|
 |Show progress toggle not saved in settings appropriately |iOS|investigating| v7.9.1|
@@ -43,4 +44,4 @@ v7.8 has rolled out to 100% of users on iOS and Android. The team has finished Q
 |Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|in progress| v7.10|
 |New notifications appear at the bottom of the screen |Android|investigating| v7.10|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|investigating| v7.10|
-|Severe latency on some android 9 models|android|investigating| TBD|
+|Severe latency on some android 9 models|android|in progress| TBD|
