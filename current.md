@@ -4,22 +4,22 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/28/2021 19:38 PT_
+_Updated 11/16/2021 19:02 PT_
 
-The release of v7.8 is delayed due to the patch releases for v7.7 that took priority. New ETA on releasing v7.8 is Wednesday, November 3rd. The team is also investigating a few zero bite issues that may be persisting after v7.2.2. 
+v7.8 has rolled out to 100% of users on iOS and Android. The team has finished QA on v7.9, which will be released on November 17th. We are now working on v7.9.1.
 
 ***
 
 ### Upcoming Releases
-- v7.8    - November 10, 2021
 - v7.9    - November 17, 2021
+- 7.9.1.  - November 24, 2021
+- v7.10.  - December 8, 2021
  
 ### Past Releases
+- v7.8    - November 5, 2021
 - v7.7.2  - October 23, 2021
 - v7.7.1  - October 21, 2021
 - v7.7    - October 7, 2021
-- v7.6    - Android: September 17, 2021, phased rollout started for 5 days.
-- v7.6    - iOS: September 15, 2021 phased rollout started for 7 days.
 
 ***
 
@@ -27,28 +27,21 @@ The release of v7.8 is delayed due to the patch releases for v7.7 that took prio
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Missing tabs: Results/Zero BITES/Favorites/My Food/My Recipes/Brands |iOS|ready for release| v7.8|
-|Stay on the food search results page after tracking|iOS|ready for release| v7.8|
-|Text jiggles when typing on Community|iOS|ready for release| v7.8|
-|Recipes/Custom recipes: Serving sizes not displayed on meal detail overlay |iOS/Android|ready for release| v7.8|
-|"Add to Meal Plan" option to be shown right after adding custom food/recipes |iOS|ready for release| v7.8|
-|Community: posts not redirecting to the user profile appropriately |iOS|ready for release| v7.8|
-|Share: Community needs a refresh to load posts |Android|ready for release| v7.8|
-|Android 11: Export log does not trigger any option to select email |Android|ready for release| v7.8|
-|"Add to Meal Plan" option not available when using recent list (Recipes) |Android|ready for release| v7.8|
-|Editing post does not retrieve the data on the same page |Android|ready for release| v7.8|
-|Meal Plan's meal titles do not show the first item in the meal plan, but the photo shows the first one |Android|ready for release| v7.8|
-|Facebook & Facebook Messenger Sharing Options not shown  |Android|ready for release| v7.8|
-|Results tab: Restaurant foods do not adhere to zero bite ingredients |iOS/Android|ready for QA| v7.8|
-|Update serving size decimals to match iOS|Android|ready for QA| v7.8|
-|Posts should include "close comments" option |iOS|ready for QA| v7.8|
-|iOS 15 UI Issues|iOS|ready for QA| v7.8|
-|Click error on tapping video on the community |Android|in progress| v7.8|
-|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|ready for QA| v7.9|
-|New notifications appear at the bottom of the screen |iOS/Android|ready for QA| v7.9|
-|5 Day Getting Started: App crashes while tracking recipes |iOS|ready for QA| v7.9|
-|Meal Plan: Food item BITES gets modified after saving|iOS|investigating| v7.9|
-|Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|investigating| v7.9|
-|Meal Plan: Adding Favorite items updates as some other item|Android|investigating| v7.9|
-|Brands: Searching restaurant does not return results unless tapping "See All"|Android|investigating| v7.9|
-|Community: Share post does not show any options/share apps|Android|investigating| v7.9|
+|New notifications appear at the bottom of the screen |iOS|ready for release| v7.9|
+|iOS 15+: Search meal plan tabs not visibly selected/unselected |iOS|ready for release| v7.9|
+|Meal Plan: Adding Favorite items updates as some other item|Android|ready for release| v7.9|
+|Meal Plan: Food item BITES gets modified after saving|iOS|ready for release| v7.9|
+|Community: Share post does not show any options/share apps|Android|ready for release| v7.9|
+|Brands: Searching restaurant does not return results unless tapping "See All"|Android|ready for release| v7.9|
+|Recipe filter produces error message |Android|ready for release| v7.9|
+|5 Day Getting Started: App crashes while tracking recipes |iOS|ready for release| v7.9|
+|Tracker Screen: today's highlight is not visible|Android|ready for release| v7.9|
+|Profile page doesn’t open at top of the scroll |iOS|in progress| v7.9.1|
+|Tab bar in meal plan overlaps status bar |Android|investigating| v7.9.1|
+|Show progress toggle not saved in settings appropriately |iOS|investigating| v7.9.1|
+|Ingredients should show quantities in units|Android|investigating| v7.9.1|
+|Blocking users doesn't work as expected|api|in progress| v7.10|
+|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|in progress| v7.10|
+|New notifications appear at the bottom of the screen |Android|investigating| v7.10|
+|Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|investigating| v7.10|
+|Severe latency on some android 9 models|android|in progress| TBD|
