@@ -92,45 +92,45 @@ Device will navigate to our App Store page. When a user installs and opens the a
 
 |Platform                          |Behavior   | 
 | ---                           | ---       |
-|iTB community post  |iTrackBites App|
-|Safari Browser  |iTrackBites App|
+|iTB community post  |Healthi App|
+|Safari Browser  |Healthi App|
 |Safari Address Bar  |App Store (but there can be issues with the redirect, more info)|
-|Chrome Browser  |iTrackBites App|
+|Chrome Browser  |Healthi App|
 |Chrome Address Bar  |App Store|
-|Brave Browser  |iTrackBites App|
+|Brave Browser  |Healthi App|
 |Brave Address Bar  |App Store|
-|Gmail app  |iTrackBites App, but might show options to pick between in-app browser, Chrome, Safari, etc. depends on settings/experimentation group|
-|Slack  |iTrackBites App, but must configure Slack to open links with Safari|
+|Gmail app  |Healthi App, but might show options to pick between in-app browser, Chrome, Safari, etc. depends on settings/experimentation group|
+|Slack  |Healthi App, but must configure Slack to open links with Safari|
 |Facebook Newsfeed  |App Store|
-|Facebook Browser  |iTrackBites App|
+|Facebook Browser  |Healthi App|
 |Facebook Messenger  |App Store|
 |Instagram Profile  |App Store|
-|Instagram Browser  |iTrackBites App|
+|Instagram Browser  |Healthi App|
 |Instagram Stories  |App Store|
 |Instagram Messages  |App Store|
-|Threads  |iTrackBites App|
-|Twitter App  |iTrackBites App|
-|Twitter Browser  |iTrackBites App|
-|Tweetbot  |iTrackBites App (when Safari is chosen in browser settings, or when Deep Links is enabled)|
+|Threads  |Healthi App|
+|Twitter App  |Healthi App|
+|Twitter Browser  |Healthi App|
+|Tweetbot  |Healthi App (when Safari is chosen in browser settings, or when Deep Links is enabled)|
 |Snap Messages  |App Store|
 |Snap Stories  |App Store|
 |Reddit Messages  |App Store|
 |Reddit Chats  |App Store|
 |Apollo  |App Store|
 |Pinterest  |App Store|
-|Pinterest Browser  |iTrackBites App|
+|Pinterest Browser  |Healthi App|
 |Firefox Browser  |App Store|
 |Firefox Address Bar  |App Store|
-|LINE  |iTrackBites App|
-|WhatsApp  |iTrackBites App|
+|LINE  |Healthi App|
+|WhatsApp  |Healthi App|
 |Discord  |App Store|
-|Apple Mail |iTrackBites App|
-|GitHub app  |iTrackBites App|
+|Apple Mail |Healthi App|
+|GitHub app  |Healthi App|
 |TikTok  |App ads will send to App Store, other ads will open in-app browser|
-|Message.app  |iTrackBites App|
-|Google Hangout  |iTrackBites App|
-|Google Voice  |iTrackBites App|
-|Kakao  |iTrackBites App (it opens the deeplink in in-app browser, and then it launches app)|
+|Message.app  |Healthi App|
+|Google Hangout  |Healthi App|
+|Google Voice  |Healthi App|
+|Kakao  |Healthi App (it opens the deeplink in in-app browser, and then it launches app)|
 |WeChat  |App Store|
-|Signal  |iTrackBites App|
-|Telegram |iTrackBites App|
+|Signal  |Healthi App|
+|Telegram |Healthi App|

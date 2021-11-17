@@ -1,10 +1,10 @@
 # Site settings
 title:       changelog
-email:       art@itrackbites.com
+email:       art@healthiapp.com
 author:      Art Chang
-description: "The iTrackBites changelog"
+description: "The Healthi changelog"
 baseurl:     "/"
-url:         "https://changelog.itrackbites.com"
+url:         "https://changelog.healthiapp.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
