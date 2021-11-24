@@ -23,3 +23,4 @@ This release fixes issues with connecting to Fitbit on iOS, food quantity displa
 * Fixed: Ingredients should show quantities in units
 * Fixed: Unexpected behavior when tagging user in a mention
 * Fixed: Custom recipes: adding ingredient after directions duplicates the steps
+* Fixed: Severe latency on some android 9 models
