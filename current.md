@@ -4,15 +4,16 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/22/2021 23:49 PT_
+_Updated 11/24/2021 23:49 PT_
 
 v7.9 has been released to 100% of users on iOS and Android. The team is now finishing up QA on v7.9.1, which addresses a few urgent bugs and rebrand related bugs.
 
 ***
 
 ### Upcoming Releases
-- 7.9.1.  - November 26, 2021
-- v7.10.  - December 8, 2021
+- 7.9.1.  - December 1, 2021
+- 7.9.2.  - December 8, 2021
+- v7.10.  - December 15, 2021
  
 ### Past Releases
 - v7.9    - November 17, 2021
