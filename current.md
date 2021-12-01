@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/29/2021 23:47 PT_
+_Updated 11/30/2021 17:43 PT_
 
-v7.9.1 has been released to 100% of users on iOS and Android. The team is now finishing up QA on v7.9.2, which addresses issues with accessing weight progress.
+v7.9.2 has been submitted to the app store for approval. The team is now working on a few crashing fixes that will be released in a v7.9.3 patch and also continuing to work on v7.10.
 
 ***
 
@@ -28,8 +28,8 @@ v7.9.1 has been released to 100% of users on iOS and Android. The team is now fi
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Add weight progress to tracking screen |iOS/Android|ready for QA | v7.9.2|
-|Start using a meal plan from Better Balance updates to Sugar Smart meal plan |iOS|ready for QA | v7.9.2|
+|Add weight progress to tracking screen |iOS/Android|ready for release| v7.9.2|
+|Start using a meal plan from Better Balance updates to Sugar Smart meal plan |iOS|ready for release | v7.9.2|
 |App Crash: Deleting current meal plan shared on the Community |iOS|to do | v7.9.3|
 |Rebrand UI Bugs |iOS/Android|ready for QA | v7.10|
 |Tab bar in meal plan overlaps status bar |Android|ready for QA | v7.10|
@@ -41,12 +41,16 @@ v7.9.1 has been released to 100% of users on iOS and Android. The team is now fi
 |"Show progress bar" pop up doesn't work properly|Android|ready for QA| v7.10|
 |UI issue on upgrade promo screen |Android|ready for QA| v7.10|
 |Export logs are sent with default support template|Android|ready for QA| v7.10|
-|Restaurant Search should not be sensitive to special characters|Android|in progress| v7.10|
-|Meal plan bites don't consider decimal values|Android|in progress| v7.10|
-|Recent searches aren't clickable|iOS|in progress| v7.10|
+|Restaurant Search should not be sensitive to special characters|Android|ready for QA| v7.10|
+|Recent searches aren't clickable|iOS|ready for QA| v7.10|
 |Update Keywords in Better Better plan pop up|iOS|in progress | v7.10|
 |Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|in progress| v7.10|
 |Blocking users doesn't work as expected|api|in progress| v7.10|
-|Android 11: Some social sharing options are missing|Android|to do| v7.10|
+|Android 11: Some social sharing options are missing|Android|in progress| v7.10|
 |Members followed are not listed under "invite friends" to group|Android|to do| v7.10|
-|Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|investigating| v7.11|
+|Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|to do| v7.11|
+|Checkout page does not allow zip code field with alphaneumeric characters|web|to do| v7.11|
+|Edit meal plan dismissed & app closed out on screen timeout/device lock|android|to do| v7.11|
+|Sharing a milestone is overlapped by the invite prompt|android|to do| v7.11|
+|Create recipe: navigating back closes out the screen|android|to do| v7.11|
+|Community Sharing: insertion pointer not on focus while typing|android|to do| v7.11|
