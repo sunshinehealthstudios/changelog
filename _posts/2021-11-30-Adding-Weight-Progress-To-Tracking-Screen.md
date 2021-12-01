@@ -10,6 +10,11 @@ v7.9.2
 ## Overview
 This release introduces a new way for users to access their progress charts on the tracking screen and fixes a meal plan bug on iOS.
 
+Video walkthrough:
+
+https://user-images.githubusercontent.com/56040798/144322822-2ef14363-ba44-488d-8656-0c733b86ccff.MP4
+
+
 
 ## Details
 
