@@ -4,15 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/30/2021 17:43 PT_
+_Updated 12/1/2021 19:34 PT_
 
 v7.9.2 has been submitted to the app store for approval. The team is now working on a few crashing fixes that will be released in a v7.9.3 patch and also continuing to work on v7.10.
 
 ***
 
 ### Upcoming Releases
-- 7.9.2.  - December 1, 2021
-- 7.9.3.  - December 3, 2021
+- 7.9.2.  - December 2, 2021
+- 7.9.3.  - December 6, 2021
 - v7.10.  - December 15, 2021
  
 ### Past Releases
@@ -30,7 +30,7 @@ v7.9.2 has been submitted to the app store for approval. The team is now working
 | ---                           | ---       | ---       | ---               |
 |Add weight progress to tracking screen |iOS/Android|ready for release| v7.9.2|
 |Start using a meal plan from Better Balance updates to Sugar Smart meal plan |iOS|ready for release | v7.9.2|
-|App Crash: Deleting current meal plan shared on the Community |iOS|to do | v7.9.3|
+|App Crash: Deleting current meal plan shared on the Community |iOS|ready for QA | v7.9.3|
 |Rebrand UI Bugs |iOS/Android|ready for QA | v7.10|
 |Tab bar in meal plan overlaps status bar |Android|ready for QA | v7.10|
 |New notifications appear at the bottom of the screen |Android|ready for QA| v7.10|
