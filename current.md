@@ -4,23 +4,21 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/1/2021 19:34 PT_
+_Updated 12/3/2021 00:24 PT_
 
-v7.9.2 has been submitted to the app store for approval. The team is now working on a few crashing fixes that will be released in a v7.9.3 patch and also continuing to work on v7.10.
+v7.9.2 has been released to 100% of users on iOS and Android. The team is now working on a few crashing fixes that will be released in a v7.9.3 patch and also continuing to work on v7.10.
 
 ***
 
 ### Upcoming Releases
-- 7.9.2.  - December 2, 2021
 - 7.9.3.  - December 6, 2021
 - v7.10.  - December 15, 2021
  
 ### Past Releases
+- 7.9.2.  - December 2, 2021
 - 7.9.1.  - November 24, 2021
 - v7.9    - November 17, 2021
 - v7.8    - November 5, 2021
-- v7.7.2  - October 23, 2021
-- v7.7.1  - October 21, 2021
 
 ***
 
@@ -28,9 +26,8 @@ v7.9.2 has been submitted to the app store for approval. The team is now working
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Add weight progress to tracking screen |iOS/Android|ready for release| v7.9.2|
-|Start using a meal plan from Better Balance updates to Sugar Smart meal plan |iOS|ready for release | v7.9.2|
-|App Crash: Deleting current meal plan shared on the Community |iOS|ready for QA | v7.9.3|
+|App Crash: Top meal plan creators list shows blank item |Android|ready for release | v7.9.3|
+|App Crash: Deleting current meal plan shared on the Community |iOS|ready for QA | v7.10|
 |Rebrand UI Bugs |iOS/Android|ready for QA | v7.10|
 |Tab bar in meal plan overlaps status bar |Android|ready for QA | v7.10|
 |New notifications appear at the bottom of the screen |Android|ready for QA| v7.10|
@@ -43,8 +40,8 @@ v7.9.2 has been submitted to the app store for approval. The team is now working
 |Export logs are sent with default support template|Android|ready for QA| v7.10|
 |Restaurant Search should not be sensitive to special characters|Android|ready for QA| v7.10|
 |Recent searches aren't clickable|iOS|ready for QA| v7.10|
-|Update Keywords in Better Better plan pop up|iOS|in progress | v7.10|
-|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|in progress| v7.10|
+|Update Keywords in Better Better plan pop up|iOS|ready for QA | v7.10|
+|Alcohol bites not calculated correctly for Carb Conscious weight loss plan users |iOS/Android|ready for QA| v7.10|
 |Blocking users doesn't work as expected|api|in progress| v7.10|
 |Android 11: Some social sharing options are missing|Android|in progress| v7.10|
 |Members followed are not listed under "invite friends" to group|Android|to do| v7.10|
