@@ -46,7 +46,6 @@ v7.9.2 has been released to 100% of users on iOS and v7.9.3 has been released to
 |Android 11: Some social sharing options are missing|Android|ready for QA| v7.10|
 |Members followed are not listed under "invite friends" to group|Android|ready for QA| v7.10|
 |Blocking users doesn't work as expected|api|in progress| v7.10|
-|Create recipe: navigating back closes out the screen|android|ready for QA| v7.11|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|to do| v7.11|
 |Checkout page does not allow zip code field with alphaneumeric characters|web|to do| v7.11|
 |Edit meal plan dismissed & app closed out on screen timeout/device lock|android|to do| v7.11|
