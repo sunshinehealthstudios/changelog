@@ -11,7 +11,7 @@ v7.9.2 has been released to 100% of users on iOS and v7.9.3 has been released to
 ***
 
 ### Upcoming Releases
-- v7.10   - December 15, 2021
+- v7.10   - December 16, 2021
 - v7.11   - January 5, 2022
 - v7.12   - January 26, 2022
  
