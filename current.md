@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/14/2021 21:10 PT_
+_Updated 12/15/2021 15:19 PT_
 
-v7.9.2 has been released to 100% of users on iOS and v7.9.3 has been released to 100% of users on Android. The team is now working on QA of v7.10.
+v7.10 has passed QA on iOS and Android and is ready for rollout. The team is now working on v7.11.
 
 ***
 
@@ -27,7 +27,6 @@ v7.9.2 has been released to 100% of users on iOS and v7.9.3 has been released to
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Carb Conscious: Incorrect BITES for hard seltzer, beer, wine |api|ready for release| v7.10|
 |Recent searches aren't clickable|iOS|ready for release| v7.10|
 |Update Keywords in Better Balance plan pop up|iOS|ready for release | v7.10|
 |Create meal plan: Quick add & create custom food only shows "track"|iOS|ready for release| v7.10|
@@ -41,10 +40,11 @@ v7.9.2 has been released to 100% of users on iOS and v7.9.3 has been released to
 |Export logs are sent with default support template|Android|ready for release| v7.10|
 |"Show progress bar" pop up doesn't work properly|Android|ready for release| v7.10|
 |Blocking users doesn't work as expected|api|ready for release| v7.10|
-|Update Restaurant Data|api|ready for release | v7.10|
 |Rebrand UI Bugs |iOS/Android|ready for release | v7.10|
-|No in-app notifications are displayed for the user|android|ready for QA| v7.10|
-|Zero bites foods are outdated/incomplete|api|ready for QA| v7.10|
+|No in-app notifications are displayed for the user|android|ready for release| v7.10|
+|Zero bites foods are outdated/incomplete|api|ready for release| v7.10|
+|Carb Conscious: Incorrect BITES for hard seltzer, beer, wine |api|ready for release| v7.11|
+|Update Restaurant Data|api|ready for release | v7.11|
 |Custom food gets duplicated after adding to meal plan|api|ready for QA| v7.11|
 |New notifications appear at the bottom of the screen |Android|ready for QA| v7.11|
 |Community Sharing: insertion pointer not on focus while typing|android|ready for QA| v7.11|
