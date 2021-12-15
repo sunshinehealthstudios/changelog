@@ -27,6 +27,7 @@ v7.9.2 has been released to 100% of users on iOS and v7.9.3 has been released to
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
+|Carb Conscious: Incorrect BITES for hard seltzer, beer, wine |iOS|ready for release| v7.10|
 |Recent searches aren't clickable|iOS|ready for release| v7.10|
 |Update Keywords in Better Better plan pop up|iOS|ready for release | v7.10|
 |Create meal plan: Quick add & create custom food only shows "track"|iOS|ready for release| v7.10|
