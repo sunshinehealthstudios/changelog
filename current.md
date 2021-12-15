@@ -44,7 +44,7 @@ v7.9.2 has been released to 100% of users on iOS and v7.9.3 has been released to
 |Update Restaurant Data|api|ready for release | v7.10|
 |Rebrand UI Bugs |iOS/Android|ready for release | v7.10|
 |No in-app notifications are displayed for the user|android|ready for QA| v7.10|
-|Zero bites foods are outdated/incomplete|api|ready for QA| v7.11|
+|Zero bites foods are outdated/incomplete|api|ready for QA| v7.10|
 |Custom food gets duplicated after adding to meal plan|api|ready for QA| v7.11|
 |New notifications appear at the bottom of the screen |Android|ready for QA| v7.11|
 |Community Sharing: insertion pointer not on focus while typing|android|ready for QA| v7.11|
