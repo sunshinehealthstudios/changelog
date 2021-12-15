@@ -8,7 +8,7 @@ categories: info
 v7.10
 
 ## Overview
-This release includes updates to our pocket guide and restaurant data, improves search performance, and fixes several user interface bugs. It also improves sharing on Android 11 and fixes a voice tracking bug on Android 12.
+This release includes updates to our pocket guide and restaurant data, improves search performance, and fixes several user interface bugs. It also corrects the bite count for hard seltzers, beer, and wine for users on Carb Conscious.
 
 ## Details
 ### api
