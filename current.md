@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/13/2021 17:43 PT_
+_Updated 12/14/2021 21:10 PT_
 
 v7.9.2 has been released to 100% of users on iOS and v7.9.3 has been released to 100% of users on Android. The team is now working on QA of v7.10.
 
@@ -20,7 +20,6 @@ v7.9.2 has been released to 100% of users on iOS and v7.9.3 has been released to
 - 7.9.2.  - December 2, 2021
 - 7.9.1.  - November 24, 2021
 - v7.9    - November 17, 2021
-- v7.8    - November 5, 2021
 
 ***
 
@@ -42,8 +41,8 @@ v7.9.2 has been released to 100% of users on iOS and v7.9.3 has been released to
 |"Show progress bar" pop up doesn't work properly|Android|ready for release| v7.10|
 |Blocking users doesn't work as expected|api|ready for release| v7.10|
 |Update Restaurant Data|api|ready for release | v7.10|
-|Rebrand UI Bugs |iOS/Android|ready for QA | v7.10|
-|No in-app notifications are displayed for the user|android|to do| v7.10|
+|Rebrand UI Bugs |iOS/Android|ready for release | v7.10|
+|No in-app notifications are displayed for the user|android|ready for QA| v7.10|
 |Custom food gets duplicated after adding to meal plan|api|ready for QA| v7.11|
 |New notifications appear at the bottom of the screen |Android|ready for QA| v7.11|
 |Community Sharing: insertion pointer not on focus while typing|android|ready for QA| v7.11|
@@ -53,9 +52,10 @@ v7.9.2 has been released to 100% of users on iOS and v7.9.3 has been released to
 |Incorrect alerts for comments closed|android|ready for QA| v7.11|
 |App Crash: Deleting current meal plan shared on the Community |iOS|ready for QA | v7.11|
 |Editing comments with emojis jumps to the end of the text|iOS|ready for QA| v7.11|
-|Sign up: missing login with Google|iOS|in progress| v7.11|
-|Zero bites foods are outdated/incomplete|api|in progress| v7.11|
-|Blocking users doesn't work as expected|iOS/Android|to do| v7.11|
+|Zero bites foods are outdated/incomplete|api|ready for QA| v7.11|
+|Sign up: missing login with Google|iOS|to do| v7.11|
+|Blocking users doesn't work as expected|iOS/Android|in progress| v7.11|
+|Custom recipe: multi-selecting ingredients shows total bites as 0|Android|to do| v7.11|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|to do| v7.12|
 |Android mobile web browser: subscription layout/UI issues|web|to do| v7.12|
 |Tracker screen: recipes should show servings tracked instead of number of ingredients|iOS/Android|to do| v7.12|
