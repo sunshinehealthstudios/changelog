@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Data Updates, Wine/Beer/Hard Seltzer Bites & Bug Fixes
+title:      Food Data & Zero Bites Updates
 date:       2021-12-15 13:56:57
 categories: info
 ---
@@ -8,13 +8,11 @@ categories: info
 v7.10
 
 ## Overview
-This release includes updates to our food and restaurant data, improves search performance, and fixes several user interface bugs. It also corrects the bite count for hard seltzers, beer, and wine for users on Carb Conscious.
+This release includes updates to our food data (including zero bites items), improves search performance, and fixes several user interface bugs. 
 
 ## Details
 ### api
-* Updated: Restaurant Data
 * Updated: Food Data & Zero Bite Foods
-* Fixed: Incorrect BITES for hard seltzer, beer, wine on Carb Conscious
 
 ### ios
 * Fixed: Recent searches aren't clickable
