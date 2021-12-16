@@ -1,18 +1,19 @@
 ---
 layout:     post
-title:      Food Data & Zero Bites Updates
-date:       2021-12-15 13:56:57
+title:      Food & Restaurant Data Updates
+date:       2021-12-16 13:56:57
 categories: info
 ---
 
 v7.10
 
 ## Overview
-This release includes updates to our food data (including zero bites items), improves search performance, and fixes several user interface bugs. 
+This release includes updates to our restaurant and food data (including zero bites items), improves search performance, and fixes several user interface bugs. 
 
 ## Details
 ### api
 * Updated: Food Data & Zero Bite Foods
+* Updated: Restaurant Data
 
 ### ios
 * Fixed: Recent searches aren't clickable
