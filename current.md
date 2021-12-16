@@ -43,6 +43,7 @@ v7.10 has passed QA on iOS and Android and is ready for rollout. The team is now
 |Rebrand UI Bugs |iOS/Android|ready for release | v7.10|
 |No in-app notifications are displayed for the user|android|ready for release| v7.10|
 |Zero bites foods are outdated/incomplete|api|ready for release| v7.10|
+|App Crash: Deleting current meal plan shared on the Community |iOS|ready for release | v7.10|
 |Carb Conscious: Incorrect BITES for hard seltzer, beer, wine |api|ready for release| v7.11|
 |Update Restaurant Data|api|ready for release | v7.11|
 |Custom food gets duplicated after adding to meal plan|api|ready for QA| v7.11|
@@ -52,7 +53,6 @@ v7.10 has passed QA on iOS and Android and is ready for rollout. The team is now
 |Custom recipes: adding ingredients using multiselect does not show the total bites|api|ready for QA| v7.11|
 |Meal plan upgrade: wrong upgrade screen appears|android|ready for QA| v7.11|
 |Incorrect alerts for comments closed|android|ready for QA| v7.11|
-|App Crash: Deleting current meal plan shared on the Community |iOS|ready for QA | v7.11|
 |Editing comments with emojis jumps to the end of the text|iOS|ready for QA| v7.11|
 |Sign up: missing login with Google|iOS|to do| v7.11|
 |Blocking users doesn't work as expected|iOS/Android|in progress| v7.11|
