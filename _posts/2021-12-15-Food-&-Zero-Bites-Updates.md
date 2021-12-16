@@ -19,6 +19,7 @@ This release includes updates to our food data (including zero bites items), imp
 * Fixed: Outdated Keywords in Better Balance plan pop up
 * Fixed: Create meal plan: Quick add & create custom food only shows "track"
 * Fixed: UI Bugs from the Rebrand
+* Fixed: App Crash: Deleting current meal plan shared on the Community 
 
 ### android
 * Fixed: Old copyright info in app
