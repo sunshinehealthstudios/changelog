@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/16/2021 18:55 PT_
+_Updated 12/17/2021 17:05 PT_
 
 v7.10 has begun 7-day rollout to all users on iOS & Android. The team is now working on v7.11.
 
@@ -35,16 +35,15 @@ v7.10 has begun 7-day rollout to all users on iOS & Android. The team is now wor
 |Modified foods filters special characters on search results |iOS|ready for release| v7.11|
 |Barcode Scanner: keeps spinning when barcode incorrect or not found |iOS|ready for release| v7.11|
 |Edit meal plan dismessed & app closed out on screen timeout/device lock |android|ready for release| v7.11|
+|Email us displays incorrect app version|android|ready for release| v7.11|
+|Meal plan upgrade: wrong upgrade screen appears|android|ready for release| v7.11|
+|Rating rating: bad request message appears|iOS|ready for release| v7.11|
 |Custom food gets duplicated after adding to meal plan|api|ready for QA| v7.11|
 |Custom recipe: multi-selecting ingredients shows total bites as 0|Android|ready for QA| v7.11|
 |New notifications appear at the bottom of the screen |Android|ready for QA| v7.11|
 |Community Sharing: insertion pointer not on focus while typing|android|ready for QA| v7.11|
-|Email us displays incorrect app version|android|ready for QA| v7.11|
-|Meal plan upgrade: wrong upgrade screen appears|android|ready for QA| v7.11|
 |Incorrect alerts for comments closed|android|ready for QA| v7.11|
-|Rating rating: bad request message appears|iOS|ready for QA| v7.11|
 |Blocking users doesn't work as expected|iOS/Android|in progress| v7.11|
-|Sign up: missing login with Google|iOS|to do| v7.11|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|to do| v7.12|
 |Android mobile web browser: subscription layout/UI issues|web|to do| v7.12|
 |Tracker screen: recipes should show servings tracked instead of number of ingredients|iOS/Android|to do| v7.12|
