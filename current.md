@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/20/2021 18:01 PT_
+_Updated 12/21/2021 18:35 PT_
 
 v7.10 has begun 7-day rollout to all users on iOS & Android. The team is now working on v7.11.
 
@@ -41,9 +41,9 @@ v7.10 has begun 7-day rollout to all users on iOS & Android. The team is now wor
 |New notifications appear at the bottom of the screen |Android|ready for release| v7.11|
 |Community Sharing: insertion pointer not on focus while typing|android|ready for release| v7.11|
 |Incorrect alerts for comments closed|android|ready for release| v7.11|
+|Custom recipe: multi-selecting ingredients shows total bites as 0|Android|ready for release| v7.11|
 |Custom food gets duplicated after adding to meal plan|api|ready for QA| v7.11|
-|Custom recipe: multi-selecting ingredients shows total bites as 0|Android|ready for QA| v7.11|
-|Blocking users doesn't work as expected|iOS/Android|in progress| v7.11|
+|Blocking users doesn't work as expected|iOS/Android|ready for QA| v7.11|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|to do| v7.12|
 |Android mobile web browser: subscription layout/UI issues|web|to do| v7.12|
 |Tracker screen: recipes should show servings tracked instead of number of ingredients|iOS/Android|to do| v7.12|
