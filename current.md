@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/28/2021 00:30 PT_
+_Updated 12/28/2021 19:16 PT_
 
 v7.10 has rolled out to all users on iOS & Android. The team is now working on v7.11 and the final remaining app stabilization issues.
 
@@ -28,7 +28,7 @@ v7.10 has rolled out to all users on iOS & Android. The team is now working on v
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
 |Editing comments with emojis jumps to the end of the text|iOS|ready for release| v7.11|
-|Carb Conscious: Incorrect BITES for hard seltzer, beer, wine |api|ready for release| v7.11|
+|Carb Conscious: Incorrect BITES for alcohols |api|ready for release| v7.11|
 |Secondary metrics: PRO credentials are not reverted back to free user after cancelling subscription |iOS/Android|ready for release| v7.11|
 |App not advancing to thre next day automatically on the tracker page |iOS|ready for release| v7.11|
 |Occasionally tick mark does not appear when tracking meals |iOS|ready for release| v7.11|
@@ -42,7 +42,7 @@ v7.10 has rolled out to all users on iOS & Android. The team is now working on v
 |Community Sharing: insertion pointer not on focus while typing|android|ready for release| v7.11|
 |Incorrect alerts for comments closed|android|ready for release| v7.11|
 |Custom recipe: multi-selecting ingredients shows total bites as 0|Android|ready for release| v7.11|
-|Blocking users doesn't work as expected|iOS/Android|ready for QA| v7.11|
+|Blocking users doesn't work as expected|iOS/Android|in progress| v7.11|
 |Custom food gets duplicated after adding to meal plan|android|in progress| v7.11|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|to do| v7.12|
 |Android mobile web browser: subscription layout/UI issues|web|to do| v7.12|
