@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/28/2021 19:16 PT_
+_Updated 12/29/2021 18:18 PT_
 
-v7.10 has rolled out to all users on iOS & Android. The team is now working on v7.11 and the final remaining app stabilization issues.
+v7.10 has rolled out to all users on iOS & Android. We have also released the new calculation for alcohols on carb conscious. The team is now working on v7.11 and the final remaining app stabilization issues.  
 
 ***
 
@@ -28,7 +28,6 @@ v7.10 has rolled out to all users on iOS & Android. The team is now working on v
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
 |Editing comments with emojis jumps to the end of the text|iOS|ready for release| v7.11|
-|Carb Conscious: Incorrect BITES for alcohols |api|ready for release| v7.11|
 |Secondary metrics: PRO credentials are not reverted back to free user after cancelling subscription |iOS/Android|ready for release| v7.11|
 |App not advancing to thre next day automatically on the tracker page |iOS|ready for release| v7.11|
 |Occasionally tick mark does not appear when tracking meals |iOS|ready for release| v7.11|
