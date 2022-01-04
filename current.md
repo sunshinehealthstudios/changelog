@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/30/2021 21:01 PT_
+_Updated 1/3/2022 21:01 PT_
 
 v7.10 has rolled out to all users on iOS & Android. We have also released the new calculation for alcohols on carb conscious. The team is now working on v7.11 and the final remaining app stabilization issues.  
 
@@ -43,6 +43,7 @@ v7.10 has rolled out to all users on iOS & Android. We have also released the ne
 |Custom recipe: multi-selecting ingredients shows total bites as 0|Android|ready for release| v7.11|
 |Blocking users doesn't work as expected|iOS/Android|ready for QA| v7.11|
 |Custom food gets duplicated after adding to meal plan|android|ready for QA| v7.11|
+|PRO banner not shown for free user|iOS|ready for QA| v7.11|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|to do| v7.12|
 |Android mobile web browser: subscription layout/UI issues|web|to do| v7.12|
 |Tracker screen: recipes should show servings tracked instead of number of ingredients|iOS/Android|to do| v7.12|
