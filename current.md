@@ -4,22 +4,21 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/4/2022 22:24 PT_
+_Updated 1/5/2022 21:52 PT_
 
 v7.10 has rolled out to all users on iOS & Android. We have also released the new calculation for alcohols on carb conscious. The team is now working on v7.11 and the final remaining app stabilization issues.  
 
 ***
 
 ### Upcoming Releases
-- v7.11   - January 7, 2022
-- v7.12   - January 26, 2022
+- v7.11   - January 12, 2022
+- v7.12   - February 2, 2022
  
 ### Past Releases
 - v7.10   - December 16, 2021
 - 7.9.3.  - December 3, 2021
 - 7.9.2.  - December 2, 2021
 - 7.9.1.  - November 24, 2021
-- v7.9    - November 17, 2021
 
 ***
 
@@ -41,10 +40,10 @@ v7.10 has rolled out to all users on iOS & Android. We have also released the ne
 |Community Sharing: insertion pointer not on focus while typing|android|ready for release| v7.11|
 |Incorrect alerts for comments closed|android|ready for release| v7.11|
 |Custom recipe: multi-selecting ingredients shows total bites as 0|Android|ready for release| v7.11|
-|PRO banner not shown for free user|iOS|ready for release| v7.11|
+|Custom food gets duplicated after adding to meal plan|android|ready for release| v7.11|
 |Blocking users doesn't work as expected|iOS/Android|ready for QA| v7.11|
-|Custom food gets duplicated after adding to meal plan|android|ready for QA| v7.11|
-|Improve deep link sharing on facebook apps|iOS/Android|in progress| v7.11|
+|Improve deep link sharing on facebook apps|iOS/Android|ready for QA| v7.11|
+|PRO banner not shown for free user|iOS|in progress| v7.11|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|to do| v7.12|
 |Android mobile web browser: subscription layout/UI issues|web|to do| v7.12|
 |Tracker screen: recipes should show servings tracked instead of number of ingredients|iOS/Android|to do| v7.12|
