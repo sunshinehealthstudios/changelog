@@ -11,7 +11,7 @@ We discovered 1 more bug on iOS and Android during regression for v7.11. We are 
 ***
 
 ### Upcoming Releases
-- v7.11   - January 14, 2022
+- v7.11   - January 13, 2022
 - v7.12   - February 2, 2022
  
 ### Past Releases
