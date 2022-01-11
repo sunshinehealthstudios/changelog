@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/7/2022 23:31 PT_
+_Updated 1/10/2022 19:31 PT_
 
-We discovered 1 more bug on iOS during regression for v7.11. We will retest and resubmit on Monday. Regression for Android is now underway.
+We discovered 1 more bug on iOS and Android during regression for v7.11. We are hoping we can retest and resubmit by Wednesday. 
 
 ***
 
 ### Upcoming Releases
-- v7.11   - January 12, 2022
+- v7.11   - January 14, 2022
 - v7.12   - February 2, 2022
  
 ### Past Releases
@@ -27,7 +27,6 @@ We discovered 1 more bug on iOS during regression for v7.11. We will retest and 
 | ---                           | ---       | ---       | ---               |
 |Editing comments with emojis jumps to the end of the text|iOS|ready for release| v7.11|
 |Secondary metrics: PRO credentials are not reverted back to free user after cancelling subscription |iOS/Android|ready for release| v7.11|
-|App not advancing to thre next day automatically on the tracker page |iOS|ready for release| v7.11|
 |Occasionally tick mark does not appear when tracking meals |iOS|ready for release| v7.11|
 |Modified foods filters special characters on search results |iOS|ready for release| v7.11|
 |Barcode Scanner: keeps spinning when barcode incorrect or not found |iOS|ready for release| v7.11|
@@ -43,9 +42,12 @@ We discovered 1 more bug on iOS during regression for v7.11. We will retest and 
 |Blocking users doesn't work as expected|iOS/Android|ready for release| v7.11|
 |PRO banner not shown for free user|iOS|ready for release| v7.11|
 |Improve deep link sharing on facebook apps|iOS/Android|ready for release| v7.11|
-|Custom meal plans are not displayed on user's profile|iOS|ready for QA| v7.11|
-|Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|to do| v7.12|
-|Android mobile web browser: subscription layout/UI issues|web|to do| v7.12|
-|Tracker screen: recipes should show servings tracked instead of number of ingredients|iOS/Android|to do| v7.12|
+|Custom meal plans are not displayed on user's profile|iOS|ready for release| v7.11|
+|App not advancing to thre next day automatically on the tracker page |iOS|in progress| v7.11|
+|Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|ready for release| v7.12|
+|Tracker screen: recipes should show servings tracked instead of number of ingredients|iOS/Android|ready for QA| v7.12|
+|Hide "follow" option from the ... menu on user's own comment|iOS|ready for QA| v7.12|
+|Android mobile web browser: subscription layout/UI issues|web|in progress| v7.12|
+|Tracked weight shows today's date instead of the selected calendar date|iOS|in progress| v7.12|
 |Turning off zero bites toggle doesn't calculate bites|iOS/Android|investigating| TBD|
 |Latency issues on some android devices|Android|investigating| TBD|
