@@ -21,7 +21,6 @@ This release includes fixes to user blocking, sharing links on Meta apps, and im
 * Fixed: Editing comments with emojis jumps to the end of the text
 * Fixed: Secondary metrics still show for free user after cancelling subscription
 * Fixed: Rating rating: bad request message appears
-* Fixed: App not advancing to thre next day automatically on the tracker page	
 * Fixed: Barcode scanner keeps spinning when barcode incorrect or not found
 * Fixed: Occasionally tick mark does not appear when tracking meals
 * Fixed: PRO banner not shown for free user
