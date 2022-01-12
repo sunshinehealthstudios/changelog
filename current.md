@@ -4,17 +4,18 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/10/2022 19:31 PT_
+_Updated 1/11/2022 16:49 PT_
 
-We discovered 1 more bug on iOS and Android during regression for v7.11. We are hoping we can retest and resubmit by Wednesday. 
+v7.11 has begun to rollout on iOS and Android. It will rollout to 100% of users by 1/19. The team is now working on development for v7.12. 
 
 ***
 
 ### Upcoming Releases
-- v7.11   - January 13, 2022
 - v7.12   - February 2, 2022
+- v7.13   - February 23, 2022
  
 ### Past Releases
+- v7.11   - January 11, 2022
 - v7.10   - December 16, 2021
 - 7.9.3.  - December 3, 2021
 - 7.9.2.  - December 2, 2021
@@ -43,11 +44,14 @@ We discovered 1 more bug on iOS and Android during regression for v7.11. We are 
 |PRO banner not shown for free user|iOS|ready for release| v7.11|
 |Improve deep link sharing on facebook apps|iOS/Android|ready for release| v7.11|
 |Custom meal plans are not displayed on user's profile|iOS|ready for release| v7.11|
-|App not advancing to thre next day automatically on the tracker page |iOS|in progress| v7.11|
+|App crashes when creating an invite link via contact list|iOS|ready for release| v7.11|
 |Conquer Cravings: BITES not showing appropriately on modifying the serving size|api|ready for release| v7.12|
 |Tracker screen: recipes should show servings tracked instead of number of ingredients|iOS/Android|ready for QA| v7.12|
 |Hide "follow" option from the ... menu on user's own comment|iOS|ready for QA| v7.12|
+|Unexpected search results when brand name contains special characters|api|ready for QA| v7.12|
+|On tracker screen, recipes & custom recipes should show servings tracked instead of number of ingredients|iOS/Android|ready for QA| v7.12|
 |Android mobile web browser: subscription layout/UI issues|web|in progress| v7.12|
 |Tracked weight shows today's date instead of the selected calendar date|iOS|in progress| v7.12|
+|App not advancing to the next day automatically on the tracker page |iOS|to do| v7.12|
 |Turning off zero bites toggle doesn't calculate bites|iOS/Android|investigating| TBD|
 |Latency issues on some android devices|Android|investigating| TBD|
