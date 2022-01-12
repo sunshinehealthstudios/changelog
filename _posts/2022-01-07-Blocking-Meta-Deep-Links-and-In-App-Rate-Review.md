@@ -8,7 +8,7 @@ categories: info
 v7.11
 
 ## Overview
-This release includes fixes to user blocking, sharing links on Meta apps, and improves how users rate and review the app. On iOS, it also fixes a bug where the date in the app would not automatically advance to the next day. On android, fixes an issue with ingredients/directions appearing on spoonacular recipes. 
+This release includes fixes to user blocking, sharing links on Meta apps, and improves how users rate and review the app. On android, fixes an issue with ingredients/directions appearing on spoonacular recipes. 
 
 ## Details
 ### api
