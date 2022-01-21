@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/19/2022 16:41 PT_
+_Updated 1/20/2022 17:27 PT_
 
 v7.11 has been rolled out to 100% of users. The team is now working on development and QA for v7.12. 
 
@@ -32,7 +32,7 @@ v7.11 has been rolled out to 100% of users. The team is now working on developme
 |On tracker screen, recipes & custom recipes should show servings tracked instead of number of ingredients|iOS/Android|ready for QA| v7.12|
 |Android mobile web browser: subscription layout/UI issues|web|in progress| v7.12|
 |Tracked weight shows today's date instead of the selected calendar date|iOS|in progress| v7.12|
-|Tracked items from the previous day appear when the calendar date advances |iOS|to do| v7.12|
+|Tracked items from the previous day appear when the calendar date advances |iOS|to do| TBD|
 |Latency issues on some android devices|Android|in progress| TBD|
 |New feature: adding photos/videos to comments|iOS/Android|in progress| TBD|
 |Bad request error appears when editing a saved recipe|iOS|to do| TBD|
