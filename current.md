@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/20/2022 17:27 PT_
+_Updated 1/24/2022 16:19 PT_
 
 v7.11 has been rolled out to 100% of users. The team is now working on development and QA for v7.12. 
 
@@ -29,10 +29,10 @@ v7.11 has been rolled out to 100% of users. The team is now working on developme
 |Hide "follow" option from the ... menu on user's own comment|iOS|ready for release| v7.12|
 |Unexpected search results when brand name contains special characters|api|ready for release| v7.12|
 |Hide zero bites guide on keto and calorie command|ios|ready for release| v7.12|
-|On tracker screen, recipes & custom recipes should show servings tracked instead of number of ingredients|iOS/Android|ready for QA| v7.12|
-|Android mobile web browser: subscription layout/UI issues|web|in progress| v7.12|
-|Tracked weight shows today's date instead of the selected calendar date|iOS|in progress| v7.12|
-|Tracked items from the previous day appear when the calendar date advances |iOS|to do| TBD|
+|On tracker screen, recipes & custom recipes should show servings tracked instead of number of ingredients|iOS/Android|ready for release| v7.12|
+|Tracked weight shows today's date instead of the selected calendar date|iOS|ready for release| v7.12|
+|Android mobile web browser: subscription layout/UI issues|web|ready for QA| v7.12|
+|Tracked items from the previous day appear when the calendar date advances |iOS|in progress| TBD|
 |Latency issues on some android devices|Android|in progress| TBD|
 |New feature: adding photos/videos to comments|iOS/Android|in progress| TBD|
 |Bad request error appears when editing a saved recipe|iOS|to do| TBD|
