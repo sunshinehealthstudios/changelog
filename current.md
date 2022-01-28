@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/26/2022 21:20 PT_
+_Updated 1/27/2022 23:24 PT_
 
 v7.11 has been rolled out to 100% of users. The team is now working on development and QA for v7.12. 
 
