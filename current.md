@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/27/2022 23:24 PT_
+_Updated 1/28/2022 23:24 PT_
 
 v7.11 has been rolled out to 100% of users. The team is now working on development and QA for v7.12. 
 
@@ -31,7 +31,7 @@ v7.11 has been rolled out to 100% of users. The team is now working on developme
 |Hide zero bites guide on keto and calorie command|ios|ready for release| v7.12|
 |On tracker screen, recipes & custom recipes should show servings tracked instead of number of ingredients|iOS/Android|ready for release| v7.12|
 |Tracked weight shows today's date instead of the selected calendar date|iOS|ready for release| v7.12|
-|Android mobile web browser: subscription layout/UI issues|web|in progress| v7.12|
+|Android mobile web browser: subscription layout/UI issues|web|ready for release| v7.12|
 |Tracked items from the previous day appear when the calendar date advances |iOS|in progress| TBD|
 |Latency issues on some android devices|Android|in progress| v7.13|
 |New feature: adding photos/videos to comments|iOS/Android|in progress| TBD|
