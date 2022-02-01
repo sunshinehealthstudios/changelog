@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/28/2022 23:24 PT_
+_Updated 1/31/2022 17:05 PT_
 
-v7.11 has been rolled out to 100% of users. The team is now working on development and QA for v7.12. 
+v7.12 has passed QA on iOS and Android and will begin rollout on February 2nd. The team is now working on development for v7.13. 
 
 ***
 
@@ -35,7 +35,7 @@ v7.11 has been rolled out to 100% of users. The team is now working on developme
 |Tracked items from the previous day appear when the calendar date advances |iOS|in progress| TBD|
 |Latency issues on some android devices|Android|in progress| v7.13|
 |New feature: adding photos/videos to comments|iOS/Android|in progress| TBD|
-|Bad request error appears when editing a saved recipe|iOS|to do| TBD|
+|Bad request error appears when editing a saved recipe|iOS|in progress| TBD|
 |Conquer Cravings: duplicate items displayed|iOS|to do| TBD|
 |On recipes, "see all" page returns blank screen when navigating back |android|to do| TBD|
 |Tracking items through voice adds it to the next day |android|to do| TBD|
