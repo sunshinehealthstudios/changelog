@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/31/2022 17:05 PT_
+_Updated 2/1/2022 19:36 PT_
 
 v7.12 has passed QA on iOS and Android and will begin rollout on February 2nd. The team is now working on development for v7.13. 
 
@@ -32,8 +32,8 @@ v7.12 has passed QA on iOS and Android and will begin rollout on February 2nd. T
 |On tracker screen, recipes & custom recipes should show servings tracked instead of number of ingredients|iOS/Android|ready for release| v7.12|
 |Tracked weight shows today's date instead of the selected calendar date|iOS|ready for release| v7.12|
 |Android mobile web browser: subscription layout/UI issues|web|ready for release| v7.12|
+|Latency issues on some android devices|Android|ready for QA| v7.13|
 |Tracked items from the previous day appear when the calendar date advances |iOS|in progress| TBD|
-|Latency issues on some android devices|Android|in progress| v7.13|
 |New feature: adding photos/videos to comments|iOS/Android|in progress| TBD|
 |Bad request error appears when editing a saved recipe|iOS|in progress| TBD|
 |Conquer Cravings: duplicate items displayed|iOS|to do| TBD|
