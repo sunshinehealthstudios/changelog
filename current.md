@@ -32,7 +32,7 @@ v7.12 has begun 7 day rollout on iOS and Android. It will be rolled out to 100% 
 |Conquer Cravings: duplicate items displayed|iOS|to do| v7.13|
 |Bad request error appears when editing a saved recipe|iOS|to do| TBD|
 |Net Carbs on Keeping Keto are modified after saving|iOS/Android|to do| TBD|
-|Tracked items from the previous day appear when the calendar date advances |iOS|in progress| TBD|
+|Tracked items from the previous day appear when the calendar date advances |iOS|to do| TBD|
 |On recipes, "see all" page returns blank screen when navigating back |android|to do| TBD|
 |Tracking items through voice adds it to the next day |android|to do| TBD|
 |Multiselect: favorited recipe not removed when selected |android|to do| TBD|
