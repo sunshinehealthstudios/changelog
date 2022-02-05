@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/3/2022 17:20 PT_
+_Updated 2/4/2022 17:49 PT_
 
 v7.12 has begun 7 day rollout on iOS and Android. It will be rolled out to 100% of users on Tuesday, February 8th. The team is now working on development for v7.13. 
 
@@ -25,7 +25,8 @@ v7.12 has begun 7 day rollout on iOS and Android. It will be rolled out to 100% 
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Latency issues on some android devices|Android|ready for QA| v7.13|
+|PRO banner not shown on all screens|iOS|ready for QA| v7.13|
+|Latency issues on some android devices|Android|in progress| v7.13|
 |New feature: adding photos/videos to comments|iOS/Android|in progress| v7.13|
 |Apple health steps not syncing appropriately|iOS|in progress| v7.13|
 |Weight tracked on apple health doesn't sync to Healthi app|iOS|in progress| v7.13|
