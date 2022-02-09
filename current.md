@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/7/2022 23:00 PT_
+_Updated 2/8/2022 19:00 PT_
 
-v7.12 has begun 7 day rollout on iOS and Android. It will be rolled out to 100% of users on Tuesday, February 8th. The team is now working on development for v7.13. 
+v7.12 will be rolled out to 100% of users by EOD today. The team is now working on development for v7.13. 
 
 ***
 
