@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/10/2022 12:27 PT_
+_Updated 2/10/2022 17:45 PT_
 
 v7.12 has been rolled out to 100% of users on iOS and Android. The team is now working on development for v7.13. 
 
@@ -26,8 +26,8 @@ v7.12 has been rolled out to 100% of users on iOS and Android. The team is now w
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
 |PRO banner not shown on all screens|iOS|ready for release| v7.13|
-|Latency issues on some android devices|Android|ready for QA| v7.13|
 |New feature: adding photos/videos to comments|iOS/Android|ready for QA| v7.13|
+|Latency issues on some android devices|Android|in progress| v7.13|
 |Apple health steps not syncing appropriately|iOS|in progress| v7.13|
 |Conquer Cravings: duplicate items displayed|iOS|in progress| v7.13|
 |Bad request error appears when editing a saved recipe|iOS|to do| TBD|
