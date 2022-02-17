@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/15/2022 23:26 PT_
+_Updated 2/16/2022 20:56 PT_
 
 v7.12 has been rolled out to 100% of users on iOS and Android. The team is now working on development and QA for v7.13. 
 
