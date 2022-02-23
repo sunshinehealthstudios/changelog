@@ -4,15 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/20/2022 12:53 PT_
+_Updated 2/22/2022 17:47 PT_
 
-v7.12 has been rolled out to 100% of users on iOS and Android. The team is working on development and QA for v7.13. We are delayed a few days due to the extensive QA required for the new photo/video feature.
+v7.12 has been rolled out to 100% of users on iOS and Android. The team is working on development and QA for v7.13. We are delayed about 1 week to the extensive QA required for the new photo/video feature.
 
 ***
 
 ### Upcoming Releases
-- v7.13   - February 25, 2022
-- v7.14.  - March 16, 2022
+- v7.13   - March 2, 2022
+- v7.14.  - March 23, 2022
  
 ### Past Releases
 - v7.12   - February 2, 2022
