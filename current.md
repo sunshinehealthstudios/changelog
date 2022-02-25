@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/24/2022 18:48 PT_
+_Updated 2/25/2022 14:15 PT_
 
 v7.12 has been rolled out to 100% of users on iOS and Android. The team is working on development and QA for v7.13. We are delayed about 1 week to the extensive QA required for the new photo/video feature.
 
@@ -27,8 +27,8 @@ v7.12 has been rolled out to 100% of users on iOS and Android. The team is worki
 | ---                           | ---       | ---       | ---               |
 |PRO banner not shown on all screens|iOS|ready for release| v7.13|
 |Apple health steps not syncing appropriately|iOS|ready for release| v7.13|
-|New feature: adding photos/videos to comments|iOS/Android|in progress| v7.13|
-|Latency issues on some android devices|Android|ready for QA| v7.14|
+|New feature: adding photos/videos to comments|iOS/Android|ready for QA| v7.13|
+|Latency issues on some android devices|Android|in progress| v7.14|
 |Net Carbs on Keeping Keto are modified after saving meal plan|Android|ready for QA| v7.14|
 |Conquer Cravings: duplicate items displayed|iOS|in progress| v7.14|
 |Bad request error appears when editing a saved recipe|iOS|to do| TBD|
