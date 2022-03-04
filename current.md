@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/03/2022 01:14 PT_
+_Updated 3/03/2022 11:38 PT_
 
 The team is working on QA for v7.13 and development for v7.14. We will be delayed 1 more week due to the extensive QA required for the new photo/video feature. The new ETA for the release is Wednesday, March 9th. 
 
@@ -29,12 +29,12 @@ The team is working on QA for v7.13 and development for v7.14. We will be delaye
 |Apple health steps not syncing appropriately|iOS|ready for release| v7.13|
 |Free user is allowed to add media without upgrade|iOS|ready for release| v7.13|
 |Grey text appears sometimes when commenting|iOS|ready for release| v7.13|
+|iPad Pro: app crashes when adding media|iOS|ready for release| v7.13|
+|Video has no audio after uploading|iOS|ready for release| v7.13|
 |New feature: adding photos/videos to comments|iOS/Android|ready for QA| v7.13|
-|iPad Pro: app crashes when adding media|iOS|ready for QA| v7.13|
-|Video has no audio after uploading|iOS|ready for QA| v7.13|
-|Free user is allowed to add media without upgrade|Android|in progress| v7.13|
-|Comments not added consistently when comment thread is long|Android|in progress| v7.13|
-|Edited comments are added as duplicates|iOS|in progress| v7.13|
+|Free user is allowed to add media without upgrade|Android|ready for QA| v7.13|
+|Comments not added consistently when comment thread is long|Android|ready for QA| v7.13|
+|Edited comments are added as duplicates|iOS/Android|in progress| v7.13|
 |Latency issues on some android devices|Android|in progress| v7.14|
 |Net Carbs on Keeping Keto are modified after saving meal plan|Android|ready for QA| v7.14|
 |Conquer Cravings: duplicate items displayed|iOS|in progress| v7.14|
