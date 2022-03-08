@@ -4,14 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/06/2022 16:42 PT_
+_Updated 3/08/2022 00:03 PT_
 
-The team is working on QA for v7.13 and development for v7.14. We will be delayed 1 more week due to the extensive QA required for the new photo/video feature. The new ETA for the release is Wednesday, March 9th. 
+The team is working on QA for v7.13 and development for v7.14. We will be delayed a few more days due to the extensive QA required for the new photo/video feature. The new ETA for the release is Thursday, March 10th. 
 
 ***
 
 ### Upcoming Releases
-- v7.13   - March 9, 2022 
+- v7.13   - March 10, 2022 
+- v7.13.1 - March 16, 2022
 - v7.14.  - March 30, 2022
  
 ### Past Releases
@@ -33,8 +34,10 @@ The team is working on QA for v7.13 and development for v7.14. We will be delaye
 |Video has no audio after uploading|iOS|ready for release| v7.13|
 |New feature: adding photos/videos to comments|iOS/Android|ready for release| v7.13|
 |Free user is allowed to add media without upgrade|Android|ready for release| v7.13|
-|Comments not added consistently when comment thread is long|Android|ready for QA| v7.13|
-|Edited comments are added as duplicates|iOS/Android|ready for QA| v7.13|
+|Comments not added consistently when comment thread is long|Android|ready for release| v7.13|
+|Edited comments are added as duplicates|iOS/Android|ready for release| v7.13|
+|Comment field not expanding properly|Android|in progress| v7.13|
+|PRO banner not shown across all screens|iOS|in progress| v7.13|
 |Latency issues on some android devices|Android|in progress| v7.14|
 |Net Carbs on Keeping Keto are modified after saving meal plan|Android|ready for QA| v7.14|
 |Conquer Cravings: duplicate items displayed|iOS|in progress| v7.14|
