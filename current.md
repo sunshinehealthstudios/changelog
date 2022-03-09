@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/08/2022 00:03 PT_
+_Updated 3/08/2022 17:47 PT_
 
 The team is working on QA for v7.13 and development for v7.14. We will be delayed a few more days due to the extensive QA required for the new photo/video feature. The new ETA for the release is Thursday, March 10th. 
 
@@ -36,11 +36,14 @@ The team is working on QA for v7.13 and development for v7.14. We will be delaye
 |Free user is allowed to add media without upgrade|Android|ready for release| v7.13|
 |Comments not added consistently when comment thread is long|Android|ready for release| v7.13|
 |Edited comments are added as duplicates|iOS/Android|ready for release| v7.13|
-|Comment field not expanding properly|Android|in progress| v7.13|
-|PRO banner not shown across all screens|iOS|in progress| v7.13|
+|Comment field not expanding properly|Android|ready for release| v7.13|
+|PRO banner not shown across all screens|iOS|ready for release| v7.13|
+|Sound should be muted by default on videos autoplayed on feed|android|to do| v7.13.1|
+|iPad portrait mode settings not applied when adding media|iOS|to do| v7.13.1|
+|Text size appears small when custom text display settings applied|iOS|to do| v7.13.1|
+|Mute/Unmute not functioning on autoplayed videos on feed|iOS|to do| v7.13.1|
 |Latency issues on some android devices|Android|in progress| v7.14|
 |Net Carbs on Keeping Keto are modified after saving meal plan|Android|ready for QA| v7.14|
-|Conquer Cravings: duplicate items displayed|iOS|in progress| v7.14|
 |Bad request error appears when editing a saved recipe|iOS|to do| TBD|
 |Net Carbs on Keeping Keto are modified after saving meal plam|iOS|to do| TBD|
 |On recipes, "see all" page returns blank screen when navigating back |android|to do| TBD|
