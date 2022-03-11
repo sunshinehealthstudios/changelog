@@ -4,21 +4,20 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/09/2022 18:16 PT_
+_Updated 3/10/2022 23:42 PT_
 
-v7.13 has passed QA and will be released tomorrow morning. The team is working on QA for v7.13.1 and development for v7.14. 
+v7.13 has begun 7 day rollout on iOS. Due to a crashing bug found in Android, rollout has been paused for that platform. The team is working quickly to resolve the issue and resubmit. Hopefully this will be done by EOD Friday, March 11th. Apart from that, the team is also working on QA for v7.13.1 and development for v7.14. 
 
 ***
 
 ### Upcoming Releases
-- v7.13   - March 10, 2022 
 - v7.13.1 - March 16, 2022
 - v7.14.  - March 30, 2022
  
 ### Past Releases
+- v7.13   - March 10, 2022 
 - v7.12   - February 2, 2022
 - v7.11   - January 11, 2022
-- v7.10   - December 16, 2021
 
 ***
 
@@ -26,18 +25,6 @@ v7.13 has passed QA and will be released tomorrow morning. The team is working o
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|PRO banner not shown on all screens|iOS|ready for release| v7.13|
-|Apple health steps not syncing appropriately|iOS|ready for release| v7.13|
-|Free user is allowed to add media without upgrade|iOS|ready for release| v7.13|
-|Grey text appears sometimes when commenting|iOS|ready for release| v7.13|
-|iPad Pro: app crashes when adding media|iOS|ready for release| v7.13|
-|Video has no audio after uploading|iOS|ready for release| v7.13|
-|New feature: adding photos/videos to comments|iOS/Android|ready for release| v7.13|
-|Free user is allowed to add media without upgrade|Android|ready for release| v7.13|
-|Comments not added consistently when comment thread is long|Android|ready for release| v7.13|
-|Edited comments are added as duplicates|iOS/Android|ready for release| v7.13|
-|Comment field not expanding properly|Android|ready for release| v7.13|
-|PRO banner not shown across all screens|iOS|ready for release| v7.13|
 |Text size appears small when custom text display settings applied|iOS|ready for QA| v7.13.1|
 |Mute/Unmute not functioning on autoplayed videos on feed|iOS|ready for QA| v7.13.1|
 |Sound should be muted by default on videos autoplayed on feed|android|to do| v7.13.1|
