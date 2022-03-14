@@ -4,15 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/10/2022 23:42 PT_
+_Updated 3/13/2022 23:28 PT_
 
-v7.13 has begun 7 day rollout on iOS. Due to a crashing bug found in Android, rollout has been paused for that platform. The team is working quickly to resolve the issue and resubmit. Hopefully this will be done by EOD Friday, March 11th. Apart from that, the team is also working on QA for v7.13.1 and development for v7.14. 
+v7.13 has begun 7 day rollout on iOS. Due to a few critical bugs found in Android, rollout has been paused for that platform. The team is working quickly to resolve the issues and resubmit. Hopefully this will be done by EOD Wednesday, March 16th. Apart from that, the team is also working on QA for v7.13.1 and development for v7.14. 
 
 ***
 
 ### Upcoming Releases
-- v7.13.1 - March 16, 2022
-- v7.14.  - March 30, 2022
+- v7.13.1 - March 23, 2022
+- v7.14.  - April 6, 2022
  
 ### Past Releases
 - v7.13   - March 10, 2022 
@@ -25,6 +25,10 @@ v7.13 has begun 7 day rollout on iOS. Due to a crashing bug found in Android, ro
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
+|Crash on Community feed - less than 9 favs|android|ready for QA| v7.13|
+|Crash on Community feed - scrolling|android|to do| v7.13|
+|Notifications for media comments are blank|api|ready for QA| v7.13.1|
+|Sort comments in reverse chronological order|api|ready for QA| v7.13.1|
 |Text size appears small when custom text display settings applied|iOS|ready for QA| v7.13.1|
 |Mute/Unmute not functioning on autoplayed videos on feed|iOS|ready for QA| v7.13.1|
 |Sound should be muted by default on videos autoplayed on feed|android|to do| v7.13.1|
