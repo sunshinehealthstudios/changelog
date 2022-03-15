@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/14/2022 23:11 PT_
+_Updated 3/15/2022 10:49 PT_
 
 v7.13 has begun 7 day rollout on iOS. Due to a few critical bugs found in Android, rollout has been paused for that platform. The team is working quickly to resolve the issues and resubmit. Hopefully this will be done by EOD Wednesday, March 16th. Apart from that, the team is also working on QA for v7.13.1 and development for v7.14. 
 
@@ -27,7 +27,7 @@ v7.13 has begun 7 day rollout on iOS. Due to a few critical bugs found in Androi
 | ---                           | ---       | ---       | ---               |
 |Crash on Community feed - less than 9 favs|android|ready for release| v7.13|
 |Crash on Community feed - scrolling|android|ready for QA| v7.13|
-|Error Message on Community Feed when Scrolling|android|to do| v7.13|
+|Error Message on Community Feed when Scrolling|android|ready for QA| v7.13|
 |Notifications for media comments are blank|api|ready for QA| v7.13.1|
 |Sort comments in reverse chronological order|api|ready for QA| v7.13.1|
 |Text size appears small when custom text display settings applied|iOS|ready for QA| v7.13.1|
