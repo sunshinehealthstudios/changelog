@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/15/2022 10:49 PT_
+_Updated 3/16/2022 18:40 PT_
 
 v7.13 has begun 7 day rollout on iOS. Due to a few critical bugs found in Android, rollout has been paused for that platform. The team is working quickly to resolve the issues and resubmit. Hopefully this will be done by EOD Wednesday, March 16th. Apart from that, the team is also working on QA for v7.13.1 and development for v7.14. 
 
@@ -26,12 +26,13 @@ v7.13 has begun 7 day rollout on iOS. Due to a few critical bugs found in Androi
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
 |Crash on Community feed - less than 9 favs|android|ready for release| v7.13|
-|Crash on Community feed - scrolling|android|ready for QA| v7.13|
+|Crash on Community feed - scrolling|android|ready for release| v7.13|
 |Error Message on Community Feed when Scrolling|android|ready for QA| v7.13|
-|Notifications for media comments are blank|api|ready for QA| v7.13.1|
+|Text size appears small when custom text display settings applied|iOS|ready for release| v7.13.1|
+|Mute/Unmute not functioning on autoplayed videos on feed|iOS|ready for release| v7.13.1|
 |Sort comments in reverse chronological order|api|ready for QA| v7.13.1|
-|Text size appears small when custom text display settings applied|iOS|ready for QA| v7.13.1|
-|Mute/Unmute not functioning on autoplayed videos on feed|iOS|ready for QA| v7.13.1|
+|Send button disabled on meal plan comments|iOS|in progress| v7.13.1|
+|Notifications for media comments are blank|api|in progress| v7.13.1|
 |Sound should be muted by default on videos autoplayed on feed|android|to do| v7.13.1|
 |Keyboard not dismissed when editing posts with photos/videos|android|to do| v7.13.1|
 |"Media Lost" pop up missing when editing comment|android|to do| v7.13.1|
