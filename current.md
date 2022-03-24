@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/22/2022 20:17 PT_
+_Updated 3/24/2022 00:17 PT_
 
 v7.13 has completed rollout on iOS and will complete rollout on Android on Thursday, 3/24. The team is now working on QA for v7.13.1 and development for v7.14. 
 
@@ -32,13 +32,14 @@ v7.13 has completed rollout on iOS and will complete rollout on Android on Thurs
 |Notifications for media comments are blank|api|ready for release| v7.13.1|
 |Sound should be muted by default on videos autoplayed on feed|android|ready for release| v7.13.1|
 |"Media Lost" pop up missing when editing comment|android|ready for release| v7.13.1|
+|Invite friends via phone number produces error message|api|ready for release| v7.13.1|
 |Sort comments in reverse chronological order|api|ready for QA| v7.13.1|
 |Keyboard not dismissed when editing posts with photos/videos|android|ready for QA| v7.13.1|
-|Invite friends via phone number produces error message|api|ready for QA| v7.13.1|
-|Add comments in reverse chronological order|iOS/Android|in progress| v7.13.1|
-|PRO paywall flashes on tracked recipes|Android|in progress| v7.13.1|
+|Add comments in reverse chronological order|iOS/Android|ready for QA| v7.13.1|
+|PRO paywall flashes on tracked recipes|Android|ready for QA| v7.13.1|
 |Highlight comments on community notifications|api|in progress| v7.13.1|
-|Upgrade Screen shows on meal planned pinned post for PRO user|Android|to do| v7.13.1|
+|Upgrade Screen shows on meal planned pinned post for PRO user|Android|in progress| v7.13.1|
+|Transcoder error appears on some videos|Android|to do| v7.13.1|
 |Update pinned posts on the community|iOS/Android|ready for QA| v7.14|
 |Like button animation|iOS/Android|ready for QA| v7.14|
 |Quick emoji reactions|iOS/Android|ready for QA| v7.14|
