@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/25/2022 19:34 PT_
+_Updated 3/29/2022 09:52 PT_
 
-v7.13 has completed rollout on iOS and Android. The team is now working on QA for v7.13.1 and development for v7.14. 
+v7.13 has completed rollout on iOS and Android. v7.13.1 has passed regression on iOS and regression for Android is in progress. ETA on the release is tomorrow, March 30th. The engineers are working on development for v7.14 and v7.15.
 
 ***
 
@@ -36,8 +36,8 @@ v7.13 has completed rollout on iOS and Android. The team is now working on QA fo
 |Sort comments in reverse chronological order|api|ready for release| v7.13.1|
 |Keyboard not dismissed when editing posts with photos/videos|android|ready for release| v7.13.1|
 |Add comments in reverse chronological order|iOS/Android|ready for release| v7.13.1|
-|Upgrade Screen shows on meal planned pinned post for PRO user|Android|ready for release| v7.13.1|
-|Transcoder error appears on some videos|Android|ready for QA| v7.13.1|
+|Upgrade Screen shows on meal plan pinned post for PRO user|Android|ready for release| v7.13.1|
+|Transcoder error appears on some videos|Android|ready for release| v7.13.1|
 |Update pinned posts on the community|iOS/Android|ready for release| v7.14|
 |Change in weight loss plan not displayed right away|Android|ready for release| v7.14|
 |Meal plan bites modified after saving|iOS|ready for QA| v7.14|
@@ -46,9 +46,9 @@ v7.13 has completed rollout on iOS and Android. The team is now working on QA fo
 |Android 12: Voice feature doesn't work|Android|ready for QA| v7.14|
 |Typo in milestone badge|iOS|ready for QA| v7.14|
 |Meal type displayed as "function" on export logs|iOS|ready for QA| v7.14|
-|Like button animation|iOS/Android|in progress| v7.14|
-|Quick emoji reactions|iOS/Android|in progress| v7.14|
-|UI Updates on Community|iOS/Android|in progress| v7.14|
+|Like button animation|iOS/Android|ready for QA| v7.14|
+|Quick emoji reactions|iOS/Android|ready for QA| v7.14|
+|UI Updates on Community|iOS/Android|ready for QA| v7.14|
 |Favoriting custom recipes shared to community doesn't work|Android|in progress| v7.14|
 |Unexpected results returned when searching favorites|Android|to do| v7.15|
 |Restaurant search filter should not include special characters|Android|to do| v7.15|
