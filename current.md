@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/07/2022 17:34 PT_
+_Updated 4/08/2022 17:22 PT_
 
-v7.13.1 has completed rollout on iOS and Android. The team is now working on QA for v7.14 and development for v7.15.
+The team is now working on QA for v7.14 and development for v7.15.
 
 ***
 
@@ -41,11 +41,11 @@ v7.13.1 has completed rollout on iOS and Android. The team is now working on QA 
 |Username ends with 'dot' after following|Android|ready for release| v7.14|
 |Add reply button on comments|iOS/Android|ready for release| v7.14|
 |Reply: Notification count not updated when there is a reply with mention tag|iOS|ready for release| v7.14|
-|On recipes, "see all" page returns blank screen when navigating back |android|ready for QA| v7.14|
+|On recipes, "see all" page returns blank screen when navigating back |android|ready for release| v7.14|
+|Favoriting custom recipes shared to community doesn't work|Android|ready for release| v7.14|
+|Error message on restoring subscription|Android|ready for release| v7.14|
 |Latency issues on some android devices|Android|ready for QA| v7.14|
 |Remove pagination dots on media comments |to do|ready for QA| v7.14|
-|Favoriting custom recipes shared to community doesn't work|Android|in progress| v7.14|
-|Error message on restoring subscription|Android|to do| v7.14|
 |Unexpected results returned when searching favorites|Android|ready for QA| v7.15|
 |Some mention notification deep links do not properly load comments|iOS|ready for QA| v7.15|
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|iOS/Android|ready for QA| v7.15|
