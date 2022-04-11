@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/08/2022 17:22 PT_
+_Updated 4/11/2022 17:52 ET_
 
 The team is now working on QA for v7.14 and development for v7.15.
 
@@ -49,7 +49,7 @@ The team is now working on QA for v7.14 and development for v7.15.
 |Unexpected results returned when searching favorites|Android|ready for QA| v7.15|
 |Some mention notification deep links do not properly load comments|iOS|ready for QA| v7.15|
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|iOS/Android|ready for QA| v7.15|
-|Restaurant search filter should not include special characters|Android|in progress| v7.15|
+|Restaurant search filter should not include special characters|Android|ready for QA| v7.15|
 |Update UI of add media menu|iOS/Android|in progress| v7.15|
 |Update UX/UI of adding media to posts|iOS/Android|in progress| v7.15|
 |Update reply button UI|iOS/Android|in progress| v7.15|
