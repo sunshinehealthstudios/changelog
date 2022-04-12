@@ -44,8 +44,8 @@ The team is now working on QA for v7.14 and development for v7.15.
 |On recipes, "see all" page returns blank screen when navigating back |android|ready for release| v7.14|
 |Favoriting custom recipes shared to community doesn't work|Android|ready for release| v7.14|
 |Error message on restoring subscription|Android|ready for release| v7.14|
-|Latency issues on some android devices|Android|ready for QA| v7.14|
-|Remove pagination dots on media comments |to do|ready for QA| v7.14|
+|Latency issues on some android devices|Android|ready for release| v7.14|
+|Remove pagination dots on media comments |to do|ready for release| v7.14|
 |Unexpected results returned when searching favorites|Android|ready for QA| v7.15|
 |Some mention notification deep links do not properly load comments|iOS|ready for QA| v7.15|
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|iOS/Android|ready for QA| v7.15|
