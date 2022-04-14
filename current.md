@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/11/2022 17:52 ET_
+_Updated 4/14/2022 00:04 ET_
 
-The team is now working on QA for v7.14 and development for v7.15.
+Due to bugs caught in regression, we need to push the release back a few days. iOS is ready for regression and Android has 1 pending issue. The rest of the team is working on development for v7.15.
 
 ***
 
 ### Upcoming Releases
-- v7.14.  - April 13, 2022
+- v7.14.  - April 15, 2022
 - v7.15   - May 4, 2022
 - v7.16   - May 25, 2022
  
@@ -45,7 +45,8 @@ The team is now working on QA for v7.14 and development for v7.15.
 |Favoriting custom recipes shared to community doesn't work|Android|ready for release| v7.14|
 |Error message on restoring subscription|Android|ready for release| v7.14|
 |Latency issues on some android devices|Android|ready for release| v7.14|
-|Remove pagination dots on media comments |to do|ready for release| v7.14|
+|Remove pagination dots on media comments |Android|ready for release| v7.14|
+|Show progress: Tracked weight is lost & goal icon modified |Android|in progress| v7.14|
 |Unexpected results returned when searching favorites|Android|ready for QA| v7.15|
 |Some mention notification deep links do not properly load comments|iOS|ready for QA| v7.15|
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|iOS/Android|ready for QA| v7.15|
