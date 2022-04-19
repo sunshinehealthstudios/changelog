@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/16/2022 11:43 ET_
+_Updated 4/18/2022 23:05 ET_
 
-Due to bugs caught in regression, we need to push the release back a few days. iOS is ready for regression and Android has 5 pending issues. The rest of the team is working on development for v7.15.
+Due to bugs caught in regression, we need to push the release back a few days. iOS is ready for regression and Android has 2 pending issues. The rest of the team is working on development for v7.15.
 
 ***
 
@@ -46,11 +46,11 @@ Due to bugs caught in regression, we need to push the release back a few days. i
 |Error message on restoring subscription|Android|ready for release| v7.14|
 |Latency issues on some android devices|Android|ready for release| v7.14|
 |Remove pagination dots on media comments |Android|ready for release| v7.14|
+|Track: Activity Bites are missing |Android|ready for release| v7.14|
+|Add/edit meal plan: save button missing when adding/removing day |Android|ready for release| v7.14|
+|Create food: default bites does not allow to save |Android|ready for release| v7.14|
 |Show progress: Tracked weight is lost & goal icon modified |Android|ready for QA| v7.14|
-|Add/edit meal plan: save button missing when adding/removing day |Android|ready for QA| v7.14|
-|Create food: default bites does not allow to save |Android|ready for QA| v7.14|
 |Fitbit not disconnecting as expected |Android|ready for QA| v7.14|
-|Track: Activity Bites are missing |Android|in progress| v7.14|
 |Unexpected results returned when searching favorites|Android|ready for QA| v7.15|
 |Some mention notification deep links do not properly load comments|iOS|ready for QA| v7.15|
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|iOS/Android|ready for QA| v7.15|
