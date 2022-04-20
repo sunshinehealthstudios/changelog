@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/18/2022 23:05 ET_
+_Updated 4/19/2022 18:20 ET_
 
-Due to bugs caught in regression, we need to push the release back a few days. iOS is ready for regression and Android has 2 pending issues. The rest of the team is working on development for v7.15.
+Due to an app store rejection, the release is delayed. iOS and Android have both passed regression. The rest of the team is working on development for v7.15.
 
 ***
 
@@ -49,8 +49,7 @@ Due to bugs caught in regression, we need to push the release back a few days. i
 |Track: Activity Bites are missing |Android|ready for release| v7.14|
 |Add/edit meal plan: save button missing when adding/removing day |Android|ready for release| v7.14|
 |Create food: default bites does not allow to save |Android|ready for release| v7.14|
-|Show progress: Tracked weight is lost & goal icon modified |Android|ready for QA| v7.14|
-|Fitbit not disconnecting as expected |Android|ready for QA| v7.14|
+|Show progress: Tracked weight is lost & goal icon modified |Android|ready for release| v7.14|
 |Unexpected results returned when searching favorites|Android|ready for QA| v7.15|
 |Some mention notification deep links do not properly load comments|iOS|ready for QA| v7.15|
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|iOS/Android|ready for QA| v7.15|
@@ -58,7 +57,7 @@ Due to bugs caught in regression, we need to push the release back a few days. i
 |Update UI of add media menu|iOS/Android|in progress| v7.15|
 |Update UX/UI of adding media to posts|iOS/Android|in progress| v7.15|
 |Update reply button UI|iOS/Android|in progress| v7.15|
-|Update UX/UI of adding before/after to posts|iOS/Android|to do| v7.15|
+|Update UX/UI of adding before/after to posts|iOS/Android|in progress| v7.15|
 |Bad request error appears when editing a saved recipe|iOS|to do| TBD|
 |Tracking items through voice adds it to the next day |android|to do| TBD|
 |Multiselect: favorited recipe not removed when selected |android|to do| TBD|
