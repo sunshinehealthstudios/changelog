@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/21/2022 00:14 ET_
+_Updated 4/21/2022 23:55 ET_
 
-Due to an app store rejection, the release is delayed. iOS and Android have both passed regression. The rest of the team is working on development for v7.15.
+v7.14 is ready for release and will begin rollout tomorrow. The team is now working on development for v7.15.
 
 ***
 
@@ -58,7 +58,8 @@ Due to an app store rejection, the release is delayed. iOS and Android have both
 |Update UX/UI of adding media to posts|iOS/Android|in progress| v7.15|
 |Update reply button UI|iOS/Android|in progress| v7.15|
 |Update UX/UI of adding before/after to posts|iOS/Android|in progress| v7.15|
-|Update UX/UI of meal plan posts & comments|iOS/Android|to do| v7.15|
+|Update UX/UI of meal plan posts & comments|iOS/Android|in progress| v7.15|
+|Error states for posts with media attached|iOS/Android|in progress| v7.15|
 |Bad request error appears when editing a saved recipe|iOS|to do| TBD|
 |Tracking items through voice adds it to the next day |android|to do| TBD|
 |Multiselect: favorited recipe not removed when selected |android|to do| TBD|
