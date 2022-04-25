@@ -4,18 +4,18 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/21/2022 23:55 ET_
+_Updated 4/25/2022 11:07 PT_
 
-v7.14 is ready for release and will begin rollout tomorrow. The team is now working on development for v7.15.
+v7.14 began rollout on iOS and Android on Friday 4/22. The team is now working on development and QA for v7.15.
 
 ***
 
 ### Upcoming Releases
-- v7.14.  - April 25, 2022
-- v7.15   - May 4, 2022
-- v7.16   - May 25, 2022
+- v7.15   - May 11, 2022
+- v7.16   - June 1, 2022
  
 ### Past Releases
+- v7.14   - April 22, 2022
 - v7.13.1 - March 30, 2022
 - v7.13   - March 10, 2022 (iOS); March 18, 2022 (Android)
 - v7.12   - February 2, 2022
@@ -26,30 +26,6 @@ v7.14 is ready for release and will begin rollout tomorrow. The team is now work
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Update pinned posts on the community|iOS/Android|ready for release| v7.14|
-|Change in weight loss plan not displayed right away|Android|ready for release| v7.14|
-|Typo in milestone badge|iOS|ready for release| v7.14|
-|Meal type displayed as "function" on export logs|iOS|ready for release| v7.14|
-|Meal plan bites modified after saving|iOS|ready for release| v7.14|
-|Net Carbs on Keeping Keto are modified after saving meal plan|iOS/Android|ready for release| v7.14|
-|Like button animation|iOS/Android|ready for release| v7.14|
-|Android 12: Voice feature doesn't work|Android|ready for release| v7.14|
-|Missing 'PRO' keyword in Upgrade screens|iOS|ready for release| v7.14|
-|After posting a comment, menu shows "Close Comments" option|Android|ready for release| v7.14|
-|Quick emoji reactions|iOS/Android|ready for release| v7.14|
-|UI Updates on Community|iOS/Android|ready for release| v7.14|
-|Username ends with 'dot' after following|Android|ready for release| v7.14|
-|Add reply button on comments|iOS/Android|ready for release| v7.14|
-|Reply: Notification count not updated when there is a reply with mention tag|iOS|ready for release| v7.14|
-|On recipes, "see all" page returns blank screen when navigating back |android|ready for release| v7.14|
-|Favoriting custom recipes shared to community doesn't work|Android|ready for release| v7.14|
-|Error message on restoring subscription|Android|ready for release| v7.14|
-|Latency issues on some android devices|Android|ready for release| v7.14|
-|Remove pagination dots on media comments |Android|ready for release| v7.14|
-|Track: Activity Bites are missing |Android|ready for release| v7.14|
-|Add/edit meal plan: save button missing when adding/removing day |Android|ready for release| v7.14|
-|Create food: default bites does not allow to save |Android|ready for release| v7.14|
-|Show progress: Tracked weight is lost & goal icon modified |Android|ready for release| v7.14|
 |Unexpected results returned when searching favorites|Android|ready for QA| v7.15|
 |Some mention notification deep links do not properly load comments|iOS|ready for QA| v7.15|
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|iOS/Android|ready for QA| v7.15|
