@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/25/2022 19:21 PT_
+_Updated 4/26/2022 10:00 PT_
 
-v7.14 began rollout on iOS and Android on Friday 4/22. The team is now working on development and QA for v7.15.
+v7.14 began rollout on iOS on Friday 4/22. Shortly after Android began rollout, a few urgent bugs were found and rollout had to be halted. The team is now working to resolve those issues as well as working on development for v7.15.
 
 ***
 
