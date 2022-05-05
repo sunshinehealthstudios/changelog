@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 5/3/2022 17:41 PT_
+_Updated 5/5/2022 00:03 PT_
 
-v7.14 will complete rollout on Android on Thursday, May 5th. The team is now working on development and QA for v7.15.
+v7.14 will complete rollout on Android today. The team is working on development and QA for v7.15.
 
 ***
 
@@ -35,10 +35,10 @@ v7.14 will complete rollout on Android on Thursday, May 5th. The team is now wor
 |Update UX/UI of adding before/after to posts|iOS/Android|in progress| v7.15|
 |Error states for posts with media attached|iOS/Android|in progress| v7.15|
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|iOS|in progress| v7.15|
-|Remove reference to "iTB" in onboarding|iOS/Android|to do| v7.15|
+|Remove reference to "iTB" in onboarding|iOS/Android|in progress| v7.15|
 |Investigate restaurant data issues|api|to do| v7.15|
 |Remove duplicate notifications for comment replies|api|to do| v7.15|
-|Reminders not working|Android|to do| v7.15|
+|Reminders not working|Android|to do| v7.16|
 |Deleting weight from progress chart doesn't function consistently|Android|to do| v7.16|
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|Android|to do| v7.16|
 |Spinner keeps spinning after posting meal plan comment|Android|to do| v7.16|
