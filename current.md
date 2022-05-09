@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 5/5/2022 19:07 PT_
+_Updated 5/8/2022 20:30 PT_
 
-v7.14 rollout is complete on Android. The team is working on development and QA for v7.15.
+The team is working on development and QA for v7.15.
 
 ***
 
