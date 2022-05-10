@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 5/8/2022 20:30 PT_
+_Updated 5/9/2022 19:12 PT_
 
 The team is working on development and QA for v7.15.
 
@@ -34,8 +34,8 @@ The team is working on development and QA for v7.15.
 |Update UX/UI of adding media to posts|iOS/Android|ready for QA| v7.15|
 |Error states for posts with media attached|iOS/Android|ready for QA| v7.15|
 |Remove reference to "iTB" in onboarding|iOS/Android|ready for QA| v7.15|
-|Update UX/UI of meal plan posts & comments|iOS/Android|in progress| v7.15|
-|Update UX/UI of adding before/after to posts|iOS/Android|in progress| v7.15|
+|Update UX/UI of meal plan posts & comments|iOS/Android|ready for QA| v7.15|
+|Update UX/UI of adding before/after to posts|iOS/Android|ready for QA| v7.15|
 |Investigate restaurant data issues|api|to do| v7.15|
 |Remove duplicate notifications for comment replies|api|to do| v7.15|
 |Reminders not working|Android|to do| v7.16|
