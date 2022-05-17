@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 5/13/2022 20:11 PT_
+_Updated 5/17/2022 9:59 PT_
 
 The team is working on development and QA for v7.15. The new ETA for the v7.15 release is Friday, May 20th.
 
