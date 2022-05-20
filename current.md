@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 5/17/2022 9:59 PT_
+_Updated 5/19/2022 18:21 PT_
 
-The team is working on development and QA for v7.15. The new ETA for the v7.15 release is Friday, May 20th.
+The team is working on development and QA for v7.15. The new ETA for the v7.15 release is Wednesday, May 25th.
 
 ***
 
 ### Upcoming Releases
-- v7.15   - May 20, 2022
+- v7.15   - May 25, 2022
 - v7.16   - June 15, 2022
  
 ### Past Releases
@@ -25,6 +25,8 @@ The team is working on development and QA for v7.15. The new ETA for the v7.15 r
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
+|Fix mySQL query performance|api|released| N/A|
+|Community: Favorited posts not loading after 9 count|Api|released| N/A|
 |Restaurant search filter should not include special characters|Android|ready for release| v7.15|
 |Update reply button UI|iOS/Android|ready for release| v7.15|
 |Unexpected results returned when searching favorites|Android|ready for release| v7.15|
@@ -34,11 +36,22 @@ The team is working on development and QA for v7.15. The new ETA for the v7.15 r
 |Update UX/UI of adding media to posts|iOS/Android|release| v7.15|
 |Update UX/UI of meal plan posts & comments|iOS/Android|ready for release| v7.15|
 |Extra allowance not showing on tracker screen|Android|ready for release| v7.15|
-|Update UI of add media menu|iOS/Android|ready for QA| v7.15|
-|Error states for posts with media attached|iOS/Android|ready for QA| v7.15|
+|Update UI of add media menu|iOS/Android|ready for release| v7.15|
+|Tracker screen sometimes appears blank|Android|ready for release| v7.15|
+|Tracker: Daily Remaining not updated consistently while navigating|Android|ready for release| v7.15|
+|My Profile screen is blank with no data|Android|ready for release| v7.15|
+|Previously added Quick Emojis gets accompanied while adding media|Android|ready for release| v7.15|
+|Community: All user's image displays "Sugar Smart" as weight loss icon|iOS|ready for release| v7.15|
+|Community: Missing weight loss plan icon from user's display image|Android|ready for release| v7.15|
 |Update UX/UI of adding before/after to posts|iOS/Android|ready for QA| v7.15|
-|Tracker screen sometimes appears blank|Android|ready for QA| v7.15|
-|Fix mySQL query performance|api|ready for QA| v7.15|
+|Coach tags are not displayed for the user on the Community Feed|iOS/Android|ready for QA| v7.15|
+|Add text/media: Unable to scroll to the bottom of the context|iOS|ready for QA| v7.15|
+|Error states for posts with media attached|iOS/Android|in progress| v7.15|
+|App Crash on editing a media post/media not retrieved while editing|Android|in progress| v7.15|
+|Android 11: Export log does not trigger any option to select email|Android|in progress| v7.15|
+|Track: Activity BITES are missing|Android|to do| v7.15|
+|Add text/media: Unable to scroll to the bottom of the context|Android|to do| v7.15|
+|My Profile: Following/Followers screen shows an error|Android|to do| v7.15|
 |Apple steps are not advancing to the next day|iOS|ready for QA| v7.16|
 |Post links in the community don't redirect as expected|iOS|ready for QA| v7.16|
 |Favorited custom recipe from the community does not show up in the recipes tab|iOS|in progress| v7.16|
