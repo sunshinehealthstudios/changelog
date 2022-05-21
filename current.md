@@ -33,7 +33,7 @@ The team is working on development and QA for v7.15. The new ETA for the v7.15 r
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|iOS|ready for release| v7.15|
 |Some mention notification deep links do not properly load comments|iOS|ready for release| v7.15|
 |Remove reference to "iTB" in onboarding|iOS/Android|ready for release| v7.15|
-|Update UX/UI of adding media to posts|iOS/Android|release| v7.15|
+|Update UX/UI of adding media to posts|iOS/Android|ready for release| v7.15|
 |Update UX/UI of meal plan posts & comments|iOS/Android|ready for release| v7.15|
 |Extra allowance not showing on tracker screen|Android|ready for release| v7.15|
 |Update UI of add media menu|iOS/Android|ready for release| v7.15|
