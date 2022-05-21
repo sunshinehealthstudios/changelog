@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 5/19/2022 18:21 PT_
+_Updated 5/20/2022 22:52 PT_
 
 The team is working on development and QA for v7.15. The new ETA for the v7.15 release is Wednesday, May 25th.
 
@@ -26,7 +26,7 @@ The team is working on development and QA for v7.15. The new ETA for the v7.15 r
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
 |Fix mySQL query performance|api|released| N/A|
-|Community: Favorited posts not loading after 9 count|Api|released| N/A|
+|Community: Favorited posts not loading after 9 count|API|released| N/A|
 |Restaurant search filter should not include special characters|Android|ready for release| v7.15|
 |Update reply button UI|iOS/Android|ready for release| v7.15|
 |Unexpected results returned when searching favorites|Android|ready for release| v7.15|
@@ -43,20 +43,22 @@ The team is working on development and QA for v7.15. The new ETA for the v7.15 r
 |Previously added Quick Emojis gets accompanied while adding media|Android|ready for release| v7.15|
 |Community: All user's image displays "Sugar Smart" as weight loss icon|iOS|ready for release| v7.15|
 |Community: Missing weight loss plan icon from user's display image|Android|ready for release| v7.15|
-|Update UX/UI of adding before/after to posts|iOS/Android|ready for QA| v7.15|
-|Coach tags are not displayed for the user on the Community Feed|iOS/Android|ready for QA| v7.15|
-|Add text/media: Unable to scroll to the bottom of the context|iOS|ready for QA| v7.15|
+|Coach tags are not displayed for the user on the Community Feed|iOS/Android|ready for release| v7.15|
+|Add text/media: Unable to scroll to the bottom of the context|iOS|ready for release| v7.15|
+|Android 11: Export log does not trigger any option to select email|Android|ready for release| v7.15|
+|Track: Activity BITES are missing|Android|ready for release| v7.15|
+|My Profile: Following/Followers screen shows an error|Android|ready for release| v7.15|
+|Add text/media: Unable to scroll to the bottom of the context|Android|ready for QA| v7.15|
+|App Crash on editing a media post/media not retrieved while editing|Android|ready for QA| v7.15|
+|Update UX/UI of adding before/after to posts|iOS/Android|in progress| v7.15|
 |Error states for posts with media attached|iOS/Android|in progress| v7.15|
-|App Crash on editing a media post/media not retrieved while editing|Android|in progress| v7.15|
-|Android 11: Export log does not trigger any option to select email|Android|in progress| v7.15|
-|Track: Activity BITES are missing|Android|to do| v7.15|
-|Add text/media: Unable to scroll to the bottom of the context|Android|to do| v7.15|
-|My Profile: Following/Followers screen shows an error|Android|to do| v7.15|
+|iPad - App crashes when sharing a post from the "..." top right menu|iOS|in progress| v7.15|
 |Apple steps are not advancing to the next day|iOS|ready for QA| v7.16|
 |Post links in the community don't redirect as expected|iOS|ready for QA| v7.16|
-|Favorited custom recipe from the community does not show up in the recipes tab|iOS|in progress| v7.16|
-|Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|Android|in progress| v7.16|
-|Menu panel exapnds after upgrading to PRO|iOS|in progress| v7.16|
+|Menu panel exapnds after upgrading to PRO|iOS|ready for QA| v7.16|
+|Edit Post: On editing a post, the comment count is modified/inappropriate|iOS|ready for QA| v7.16|
+|Groups - Searching private group doesn't display|API|in progress| v7.16|
+|Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|Android|to do| v7.16|
 |Reminders not working|Android|to do| v7.16|
 |Deleting weight from progress chart doesn't function consistently|Android|to do| v7.16|
 |Spinner keeps spinning after posting meal plan comment|Android|to do| v7.16|
