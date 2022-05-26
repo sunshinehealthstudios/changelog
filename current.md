@@ -4,15 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 5/23/2022 21:53 PT_
+_Updated 5/25/2022 17:26 PT_
 
-The team is working on development and QA for v7.15. The new ETA for the v7.15 release is Friday, May 27th.
+The team is working on development and QA for v7.15. The new ETA for the v7.15 release is Tuesday, May 31st.
 
 ***
 
 ### Upcoming Releases
-- v7.15   - May 27, 2022
-- v7.16   - June 15, 2022
+- v7.15   - May 31, 2022
+- v7.16   - June 22, 2022
  
 ### Past Releases
 - v7.14   - April 29, 2022 (Android)
@@ -46,16 +46,18 @@ The team is working on development and QA for v7.15. The new ETA for the v7.15 r
 |Coach tags are not displayed for the user on the Community Feed|iOS/Android|ready for release| v7.15|
 |Add text/media: Unable to scroll to the bottom of the context|iOS|ready for release| v7.15|
 |Android 11: Export log does not trigger any option to select email|Android|ready for release| v7.15|
-|Track: Activity BITES are missing|Android|ready for release| v7.15|
 |My Profile: Following/Followers screen shows an error|Android|ready for release| v7.15|
 |Add text/media: Unable to scroll to the bottom of the context|Android|ready for release| v7.15|
 |iPad - App crashes when sharing a post from the "..." top right menu|iOS|ready for release| v7.15|
-|App Crash on editing a media post/media not retrieved while editing|Android|ready for QA| v7.15|
-|Error states for posts with media attached|iOS/Android|ready for QA| v7.15|
-|Tracked weight is lost after uninstall/reinstall |Android|ready for QA| v7.15|
-|App not opening properly |Android|ready for QA| v7.15|
+|App Crash on editing a media post/media not retrieved while editing|Android|ready for release| v7.15|
+|Error states for posts with media attached|iOS/Android|ready for release| v7.15|
+|Tracked weight is lost after uninstall/reinstall |Android|ready for release| v7.15|
+|App not opening properly |Android|ready for release| v7.15|
+|Deleting a private group post doesn't work|Android|ready for release| v7.15|
 |Update UX/UI of adding before/after to posts|iOS/Android|in progress| v7.15|
-|Deleting a private group post doesn't work|Android|in progress| v7.15|
+|Edit post with media does not get updated properly|iOS/Android|in progress| v7.15|
+|Mentions list not visible when text area is large|iOS/Android|in progress| v7.15|
+|Track Activity: problems with interface|Android|in progress| v7.15|
 |Apple steps are not advancing to the next day|iOS|ready for QA| v7.16|
 |Post links in the community don't redirect as expected|iOS|ready for QA| v7.16|
 |Menu panel exapnds after upgrading to PRO|iOS|ready for QA| v7.16|
