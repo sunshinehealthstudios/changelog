@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 5/25/2022 17:26 PT_
+_Updated 5/27/2022 00:10 PT_
 
-The team is working on development and QA for v7.15. The new ETA for the v7.15 release is Tuesday, May 31st.
+The team is working on development and QA for v7.15. The new ETA for the v7.15 release is Wednesday, June 1st.
 
 ***
 
@@ -54,19 +54,19 @@ The team is working on development and QA for v7.15. The new ETA for the v7.15 r
 |Tracked weight is lost after uninstall/reinstall |Android|ready for release| v7.15|
 |App not opening properly |Android|ready for release| v7.15|
 |Deleting a private group post doesn't work|Android|ready for release| v7.15|
-|Update UX/UI of adding before/after to posts|iOS/Android|in progress| v7.15|
-|Edit post with media does not get updated properly|iOS/Android|in progress| v7.15|
-|Mentions list not visible when text area is large|iOS/Android|in progress| v7.15|
-|Track Activity: problems with interface|Android|in progress| v7.15|
+|Update UX/UI of adding before/after to posts|iOS/Android|ready for QA| v7.15|
+|Edit post with media does not get updated properly|iOS/Android|ready for QA| v7.15|
+|Mentions list not visible when text area is large|iOS/Android|ready for QA| v7.15|
+|Track Activity: problems with interface|Android|ready for QA| v7.15|
 |Apple steps are not advancing to the next day|iOS|ready for QA| v7.16|
 |Post links in the community don't redirect as expected|iOS|ready for QA| v7.16|
 |Menu panel exapnds after upgrading to PRO|iOS|ready for QA| v7.16|
 |Edit Post: On editing a post, the comment count is modified/inappropriate|iOS|ready for QA| v7.16|
+|Investigate restaurant data issues|api|ready for QA| TBD|
 |Groups - Searching private group doesn't display|API|in progress| v7.16|
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|Android|to do| v7.16|
 |Reminders not working|Android|to do| v7.16|
 |Deleting weight from progress chart doesn't function consistently|Android|to do| v7.16|
 |Spinner keeps spinning after posting meal plan comment|Android|to do| v7.16|
 |Changing time zone moves tracked items to the previous day|iOS|to do| v7.16|
-|Investigate restaurant data issues|api|to do| TBD|
 |Remove duplicate notifications for comment replies|api|to do| TBD|
