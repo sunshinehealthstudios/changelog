@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 5/31/2022 15:57 PT_
+_Updated 6/2/2022 01:29 PT_
 
-The team is working on development and QA for v7.15. The new ETA for the v7.15 release is Thursday, June 2nd.
+The team is working on development and QA for v7.15. The new ETA for the v7.15 release is Friday, June 3rd.
 
 ***
 
 ### Upcoming Releases
-- v7.15   - June 2, 2022
+- v7.15   - June 3, 2022
 - v7.16   - June 22, 2022
  
 ### Past Releases
@@ -55,9 +55,10 @@ The team is working on development and QA for v7.15. The new ETA for the v7.15 r
 |Deleting a private group post doesn't work|Android|ready for release| v7.15|
 |Edit post with media does not get updated properly|iOS|ready for release| v7.15||
 |Mentions list not visible when text area is large|Android|ready for release| v7.15|
-|Update UX/UI of adding before/after to posts|iOS/Android|ready for QA| v7.15|
-|Track Activity: problems with interface|Android|ready for QA| v7.15
-|Tracked weight is lost after uninstall/reinstall |Android|ready for QA| v7.15|
+|Update UX/UI of adding before/after to posts|iOS/Android|ready for release| v7.15|
+|Track Activity: problems with interface|Android|ready for release| v7.15|
+|Tracked weight is lost after uninstall/reinstall |Android|ready for release| v7.15|
+|App crashes on recipes tab|Android|in progress| v7.15|
 |Deleting weight from progress chart doesn't function consistently|Android|ready for release| v7.16|
 |Infinity loop when trying to navigate from weight tracker|Android|ready for release| v7.16|
 |Spinner keeps spinning after posting meal plan comment|Android|ready for release| v7.16|
@@ -74,6 +75,5 @@ The team is working on development and QA for v7.15. The new ETA for the v7.15 r
 |Fitbit no disconntecting as expected|API|in progress| v7.16|
 |Reminders not working|Android|in progress| v7.16|
 |Tracking items through voice adds it to the next day|Android|in progress| v7.16|
-|App crashes on recipes tab|Android|in progress| v7.16|
 |Changing time zone moves tracked items to the previous day|iOS|to do| v7.16|
 |Remove duplicate notifications for comment replies|api|to do| TBD|
