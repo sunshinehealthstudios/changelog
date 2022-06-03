@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 6/2/2022 01:29 PT_
+_Updated 6/2/2022 22:53 PT_
 
-The team is working on development and QA for v7.15. The new ETA for the v7.15 release is Friday, June 3rd.
+v7.15 has passed QA and will be released tomorrow, June 3rd. The team is now working on development and QA for v7.16. 
 
 ***
 
@@ -58,7 +58,7 @@ The team is working on development and QA for v7.15. The new ETA for the v7.15 r
 |Update UX/UI of adding before/after to posts|iOS/Android|ready for release| v7.15|
 |Track Activity: problems with interface|Android|ready for release| v7.15|
 |Tracked weight is lost after uninstall/reinstall |Android|ready for release| v7.15|
-|App crashes on recipes tab|Android|in progress| v7.15|
+|App crashes on recipes tab|Android|ready for release| v7.15|
 |Deleting weight from progress chart doesn't function consistently|Android|ready for release| v7.16|
 |Infinity loop when trying to navigate from weight tracker|Android|ready for release| v7.16|
 |Spinner keeps spinning after posting meal plan comment|Android|ready for release| v7.16|
