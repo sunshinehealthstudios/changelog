@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 6/3/2022 16:49 PT_
+_Updated 6/6/2022 22:19 PT_
 
-v7.15 has begun 7 day rollout on iOS and Android. The team is now working on development and QA for v7.16. 
+v7.15 will compete 7-day rollout on Thursday, June 9th. The team is now working on development and QA for v7.16. 
 
 ***
 
@@ -31,10 +31,12 @@ v7.15 has begun 7 day rollout on iOS and Android. The team is now working on dev
 |Infinity loop when trying to navigate from weight tracker|Android|ready for release| v7.16|
 |Spinner keeps spinning after posting meal plan comment|Android|ready for release| v7.16|
 |Tracking items through voice adds it to the next day|Android|ready for release| v7.16|
+|Menu panel exapnds after upgrading to PRO|iOS|ready for release| v7.16|
+|Multiselect: favorited recipe not removed when selected|Android|ready for release| v7.16|
+|Secondary metrics not displayed on discover PRO screen|iOS/Android|ready for QA| v7.16|
 |Investigate restaurant data issues|API|ready for QA| v7.16|
 |Apple steps are not advancing to the next day|iOS|ready for QA| v7.16|
 |Post links in the community don't redirect as expected|iOS|ready for QA| v7.16|
-|Menu panel exapnds after upgrading to PRO|iOS|ready for QA| v7.16|
 |Edit Post: On editing a post, the comment count is modified/inappropriate|iOS|ready for QA| v7.16|
 |Favorites/My Foods/Recipes: Certain food items not filtered appriopriately|Android|ready for QA| v7.16|
 |Community posts are not loading properly|iOS/Android|ready for QA| v7.16|
@@ -44,12 +46,14 @@ v7.15 has begun 7 day rollout on iOS and Android. The team is now working on dev
 |Long username breaks UI on profile complete screen|Android|ready for QA| v7.16|
 |Free users can comment using the reply button |Android|ready for QA| v7.16|
 |Private group posts are not displayed under user's profile |iOS/Android|ready for QA| v7.16|
-|Fitbit no disconntecting as expected|Android|ready for QA| v7.16|
+|Fitbit no disconntecting as expected|Android|ready for QA| v7.16| 
 |After posting meal plan comment, it keeps loading/spinning|Android|in progress| v7.16|
 |UI error on unread notifications|Android|ready for QA| v7.16|
 |Activity: UI issues with multiselect and edit menu|Android|ready for QA| v7.16|
 |App crashes when user selects camera to take profile picture|Android|ready for QA| v7.16|
-|Post with long text scrolls up/down when navigating from notifications|Android|in progress| v7.16|
+|Make all secondary metrics available on the tracker screen|iOS/Android|in progress| v7.16|
+|Brands filter shows blank screen when there are no results|iOS/Android|in progress| v7.16|
+|"Following" text gets truncated|iOS/Android|in progress| v7.16|
 |Groups - Searching private group doesn't display|API|in progress| v7.16|
 |Tony Roma's items are showing as 0 bites on carb conscious|API|in progress| v7.16|
 |Reminders not working|Android|to do| v7.16|
