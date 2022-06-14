@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 6/11/2022 17:11 PT_
+_Updated 6/14/2022 00:00 PT_
 
 The team is working on development and QA for v7.16, which will be released on June 22nd.
 
@@ -52,14 +52,17 @@ The team is working on development and QA for v7.16, which will be released on J
 |Groups - Searching private group doesn't display|API|ready for release| v7.16|
 |Remove duplicate notifications for comment replies|api|ready for release| v7.16|
 |"Create Food" to be aligned under "Favorites" tab|iOS|ready for release| v7.16|
-|Community posts are not loading properly|iOS/Android|ready for QA| v7.16|
-|Fitbit no disconntecting as expected|Android|ready for QA| v7.16| 
-|Investigate restaurant data issues|API|ready for QA| v7.16|
-|Make all secondary metrics available on the tracker screen|iOS/Android|ready for QA| v7.16|
+|Post links in the community don't redirect as expected|iOS|ready for release| v7.16|
+|Toggle app icon badge crashes the app|iOS|ready for release| v7.16|
+|Toggle smart search crashes the app|iOS|ready for release| v7.16|
+|Toggle CCPA opt out crashes the app|iOS|ready for release| v7.16|
+|Investigate restaurant data issues|API|ready for release| v7.16|
+|Make all secondary metrics available on the tracker screen|iOS/Android|ready for release| v7.16|
+|Tapping on user profile refreshes the community screen|Android|ready for release| v7.16|
 |Reminders not working|Android|ready for QA| v7.16|
-|Tapping on user profile refreshes the community screen|Android|ready for QA| v7.16|
-|Post links in the community don't redirect as expected|iOS|in progress| v7.16|
+|Fitbit no disconntecting as expected|Android|in progress| v7.16| 
+|Community posts are not loading properly|iOS/Android|in progress| v7.16|
+|Brank links & emails don't link properly|Android|in progress| v7.16|
 |Tony Roma's items are showing as 0 bites on carb conscious|API|in progress| v7.16|
-|Toggle app icon badge crashes the app|iOS|to do| v7.16|
-|Toggle smart search crashes the app|iOS|to do| v7.16|
-|Toggle CCPA opt out crashes the app|iOS|to do| v7.16|
+|Post links in the community don't redirect as expected|iOS|in progress| v7.16|
+|Unable to tap on shared deep links in comments|Android|to do| v7.16|
