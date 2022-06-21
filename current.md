@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 6/14/2022 23:31 PT_
+_Updated 6/21/2022 9:54 PT_
 
-The team is working on development and QA for v7.16, which will be released on June 22nd.
+v7.16 has passed regression on iOS and Android regression is underway. We are still tenatively on track to release tomorrow. Most of the team is now working on development for v7.17.
 
 ***
 
@@ -49,22 +49,22 @@ The team is working on development and QA for v7.16, which will be released on J
 |Activity: UI issues with multiselect and edit menu|Android|ready for release| v7.16|
 |App crashes when user selects camera to take profile picture|Android|ready for release| v7.16|
 |Edit Post: On editing a post, the comment count is modified/inappropriate|iOS|ready for release| v7.16|
-|Groups - Searching private group doesn't display|API|ready for release| v7.16|
-|Remove duplicate notifications for comment replies|api|ready for release| v7.16|
+|Groups - Searching private group doesn't display|API|ready for release| N/A|
+|Remove duplicate notifications for comment replies|api|ready for release| N/A|
 |"Create Food" to be aligned under "Favorites" tab|iOS|ready for release| v7.16|
 |Post links in the community don't redirect as expected|iOS|ready for release| v7.16|
 |Toggle app icon badge crashes the app|iOS|ready for release| v7.16|
 |Toggle smart search crashes the app|iOS|ready for release| v7.16|
 |Toggle CCPA opt out crashes the app|iOS|ready for release| v7.16|
-|Investigate restaurant data issues|API|ready for release| v7.16|
-|Make all secondary metrics available on the tracker screen|iOS/Android|ready for release| v7.16|
+|Investigate restaurant data issues|API|ready for release| N/A|
 |Tapping on user profile refreshes the community screen|Android|ready for release| v7.16|
 |Fitbit no disconntecting as expected|Android|ready for release| v7.16| 
 |Post links in the community don't redirect as expected|iOS|ready for release| v7.16|
+|Brank links & emails don't link properly|Android|ready for release| v7.16|
+|Unable to tap on shared deep links in comments|Android|ready for release| v7.16|
+|Reminders not working|Android|ready for release| v7.16|
+|Manual allowance/weeklies applied only to the current week|Android|ready for release| v7.16|
 |Community posts are not loading properly|iOS/Android|ready for QA| v7.16|
-|Brank links & emails don't link properly|Android|ready for QA| v7.16|
-|Unable to tap on shared deep links in comments|Android|ready for QA| v7.16|
-|Reminders not working|Android|in progress| v7.16|
-|Tony Roma's items are showing as 0 bites on carb conscious|API|in progress| v7.16|
-|Manual allowance/weeklies applied only to the current week|Android|in progress| v7.16|
-
+|Make all secondary metrics available on the tracker screen|iOS/Android|ready for QA| v7.16|
+|Tony Roma's items are showing as 0 bites on carb conscious|API|ready for QA| N/A|
+|Update food data|API|in progress| N/A|
