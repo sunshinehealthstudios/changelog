@@ -73,6 +73,6 @@ v7.16 has passed regression on iOS and Android regression is underway. We are on
 |Reminders not working|Android|in progress| v7.17|
 |Add ability to pay for PRO using Stripe|Android|in progress| v7.17|
 |Community // New navigation bar|iOS/Android|in progress| v7.17|
-|Community // New UI for group category pages|iOS/Androidto do| v7.17|
-|Community // New UI for groups page|iOS/Androidto do| v7.17|
-|With smart search on, results returned are not complete |Androidto do| v7.17|
+|Community // New UI for group category pages|iOS/Android |to do| v7.17|
+|Community // New UI for groups page|iOS/Android |to do| v7.17|
+|With smart search on, results returned are not complete |Android |to do| v7.17|
