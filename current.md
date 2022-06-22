@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 6/21/2022 9:54 PT_
+_Updated 6/21/2022 17:30 PT_
 
-v7.16 has passed regression on iOS and Android regression is underway. We are still tenatively on track to release tomorrow. Most of the team is now working on development for v7.17.
+v7.16 has passed regression on iOS and Android regression is underway. We are on track to release Thursday, June 21st. Most of the team is now working on development for v7.17.
 
 ***
 
 ### Upcoming Releases
-- v7.16   - June 22, 2022
+- v7.16   - June 23, 2022
 - v7.17   - July 13, 2022
  
 ### Past Releases
@@ -62,9 +62,17 @@ v7.16 has passed regression on iOS and Android regression is underway. We are st
 |Post links in the community don't redirect as expected|iOS|ready for release| v7.16|
 |Brank links & emails don't link properly|Android|ready for release| v7.16|
 |Unable to tap on shared deep links in comments|Android|ready for release| v7.16|
-|Reminders not working|Android|ready for release| v7.16|
 |Manual allowance/weeklies applied only to the current week|Android|ready for release| v7.16|
-|Community posts are not loading properly|iOS/Android|ready for QA| v7.16|
-|Make all secondary metrics available on the tracker screen|iOS/Android|ready for QA| v7.16|
+|Community posts are not loading properly|iOS/Android|ready for release| v7.16|
 |Tony Roma's items are showing as 0 bites on carb conscious|API|ready for QA| N/A|
+|Make all secondary metrics available on the tracker screen|iOS/Android|in progress| v7.16|
 |Update food data|API|in progress| N/A|
+|Bites on custom foods automatically become overrides|iOS/Android|ready for QA| v7.17|
+|See more link doesns't respond on private group posts|Android|ready for QA| v7.17|
+|Display grams for all nutritionix foods|iOSAndroid|ready for QA| v7.17|
+|Reminders not working|Android|in progress| v7.17|
+|Add ability to pay for PRO using Stripe|Android|in progress| v7.17|
+|Community // New navigation bar|iOS/Android|in progress| v7.17|
+|Community // New UI for group category pages|iOS/Androidto do| v7.17|
+|Community // New UI for groups page|iOS/Androidto do| v7.17|
+|With smart search on, results returned are not complete |Androidto do| v7.17|
