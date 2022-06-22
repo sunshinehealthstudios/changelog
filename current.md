@@ -65,7 +65,7 @@ v7.16 has passed regression on iOS and Android regression is underway. We are on
 |Manual allowance/weeklies applied only to the current week|Android|ready for release| v7.16|
 |Community posts are not loading properly|iOS/Android|ready for release| v7.16|
 |Tony Roma's items are showing as 0 bites on carb conscious|API|ready for QA| N/A|
-|Make all secondary metrics available on the tracker screen|iOS/Android|in progress| v7.16|
+|Make all secondary metrics available on the tracker screen|iOS/Android|ready for QA| v7.16|
 |Update food data|API|in progress| N/A|
 |Bites on custom foods automatically become overrides|iOS/Android|ready for QA| v7.17|
 |See more link doesns't respond on private group posts|Android|ready for QA| v7.17|
