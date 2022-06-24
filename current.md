@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 6/21/2022 17:30 PT_
+_Updated 6/23/2022 22:54 PT_
 
-v7.16 has passed regression on iOS and Android regression is underway. We are on track to release Thursday, June 21st. Most of the team is now working on development for v7.17.
+Due to additional bugs found, a new fix has been added to iOS and it is in regression again. A bug was also found on Android during regression and a fix in progress.  We are now on track to release Monday, June 27th. Most of the team is now working on development for v7.17.
 
 ***
 
 ### Upcoming Releases
-- v7.16   - June 23, 2022
+- v7.16   - June 27, 2022
 - v7.17   - July 13, 2022
  
 ### Past Releases
@@ -64,9 +64,12 @@ v7.16 has passed regression on iOS and Android regression is underway. We are on
 |Unable to tap on shared deep links in comments|Android|ready for release| v7.16|
 |Manual allowance/weeklies applied only to the current week|Android|ready for release| v7.16|
 |Community posts are not loading properly|iOS/Android|ready for release| v7.16|
-|Tony Roma's items are showing as 0 bites on carb conscious|API|ready for QA| N/A|
-|Make all secondary metrics available on the tracker screen|iOS/Android|ready for QA| v7.16|
-|Update food data|API|in progress| N/A|
+|Mentions list not displayed while creating posts|Android|ready for release| v7.16|
+|Posts repeat on the main feed|Android|ready for release| v7.16|
+|Make all secondary metrics available on the tracker screen|iOS/Android|ready for release| v7.16|
+|Update food data|API|ready for QA| N/A|
+|Tony Roma's items are showing as 0 bites on carb conscious|API|in progress| N/A|
+|Before/after overlaps when adding media from gallery|Android|in progress| v7.16|
 |Bites on custom foods automatically become overrides|iOS/Android|ready for QA| v7.17|
 |See more link doesns't respond on private group posts|Android|ready for QA| v7.17|
 |Display grams for all nutritionix foods|iOSAndroid|ready for QA| v7.17|
