@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 6/23/2022 22:54 PT_
+_Updated 6/26/2022 14:27 PT_
 
-Due to additional bugs found, a new fix has been added to iOS and it is in regression again. A bug was also found on Android during regression and a fix in progress.  We are now on track to release Monday, June 27th. Most of the team is now working on development for v7.17.
+Two additional bugs were found on Android and fixes are in progress. We are now on track to release Tuesday, June 28th. 
 
 ***
 
 ### Upcoming Releases
-- v7.16   - June 27, 2022
+- v7.16   - June 28, 2022
 - v7.17   - July 13, 2022
  
 ### Past Releases
@@ -67,9 +67,11 @@ Due to additional bugs found, a new fix has been added to iOS and it is in regre
 |Mentions list not displayed while creating posts|Android|ready for release| v7.16|
 |Posts repeat on the main feed|Android|ready for release| v7.16|
 |Make all secondary metrics available on the tracker screen|iOS/Android|ready for release| v7.16|
+|Tony Roma's items are showing as 0 bites on carb conscious|API|ready for release| N/A|
+|Before/after overlaps when adding media from gallery|Android|ready for release| v7.16|
 |Update food data|API|ready for QA| N/A|
-|Tony Roma's items are showing as 0 bites on carb conscious|API|in progress| N/A|
-|Before/after overlaps when adding media from gallery|Android|in progress| v7.16|
+|App crash when sharing recipes to the community|Android|to do| v7.16|
+|Unable to share active meal plan to community|Android|to do| v7.16|
 |Bites on custom foods automatically become overrides|iOS/Android|ready for QA| v7.17|
 |See more link doesns't respond on private group posts|Android|ready for QA| v7.17|
 |Display grams for all nutritionix foods|iOSAndroid|ready for QA| v7.17|
