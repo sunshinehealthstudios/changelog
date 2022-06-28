@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 6/26/2022 14:27 PT_
+_Updated 6/27/2022 22:34 PT_
 
-Two additional bugs were found on Android and fixes are in progress. We are now on track to release Tuesday, June 28th. 
+Another two bugs were found on Android in the latest round of regression. New ETA to release is Wednesday, June 29th. 
 
 ***
 
 ### Upcoming Releases
-- v7.16   - June 28, 2022
+- v7.16   - June 29, 2022
 - v7.17   - July 13, 2022
  
 ### Past Releases
@@ -69,9 +69,11 @@ Two additional bugs were found on Android and fixes are in progress. We are now 
 |Make all secondary metrics available on the tracker screen|iOS/Android|ready for release| v7.16|
 |Tony Roma's items are showing as 0 bites on carb conscious|API|ready for release| N/A|
 |Before/after overlaps when adding media from gallery|Android|ready for release| v7.16|
+|Unable to share active meal plan to community|Android|ready for release| v7.16|
+|App crash when sharing recipes to the community|Android|ready for release| v7.16|
 |Update food data|API|ready for QA| N/A|
-|App crash when sharing recipes to the community|Android|to do| v7.16|
-|Unable to share active meal plan to community|Android|to do| v7.16|
+|Grocery list is empty for featured meal plans|Android|to do| v7.16|
+|Free User: Following list not updated appropriately|Android|to do| v7.16|
 |Bites on custom foods automatically become overrides|iOS/Android|ready for QA| v7.17|
 |See more link doesns't respond on private group posts|Android|ready for QA| v7.17|
 |Display grams for all nutritionix foods|iOSAndroid|ready for QA| v7.17|
@@ -80,4 +82,3 @@ Two additional bugs were found on Android and fixes are in progress. We are now 
 |Community // New navigation bar|iOS/Android|in progress| v7.17|
 |Community // New UI for group category pages|iOS/Android |to do| v7.17|
 |Community // New UI for groups page|iOS/Android |to do| v7.17|
-|With smart search on, results returned are not complete |Android |to do| v7.17|
