@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 6/27/2022 22:34 PT_
+_Updated 6/28/2022 22:35 PT_
 
-Another two bugs were found on Android in the latest round of regression. New ETA to release is Wednesday, June 29th. 
+One more bug was found on Android in the latest round of regression. New ETA to release is Thursday, June 30th. 
 
 ***
 
 ### Upcoming Releases
-- v7.16   - June 29, 2022
+- v7.16   - June 30, 2022
 - v7.17   - July 13, 2022
  
 ### Past Releases
@@ -71,9 +71,10 @@ Another two bugs were found on Android in the latest round of regression. New ET
 |Before/after overlaps when adding media from gallery|Android|ready for release| v7.16|
 |Unable to share active meal plan to community|Android|ready for release| v7.16|
 |App crash when sharing recipes to the community|Android|ready for release| v7.16|
+|Grocery list is empty for featured meal plans|Android|ready for release| v7.16|
+|Free User: Following list not updated appropriately|Android|ready for release| v7.16|
 |Update food data|API|ready for QA| N/A|
-|Grocery list is empty for featured meal plans|Android|to do| v7.16|
-|Free User: Following list not updated appropriately|Android|to do| v7.16|
+|Cannot save or edit meal plans|Android|to do| v7.16|
 |Bites on custom foods automatically become overrides|iOS/Android|ready for QA| v7.17|
 |See more link doesns't respond on private group posts|Android|ready for QA| v7.17|
 |Display grams for all nutritionix foods|iOSAndroid|ready for QA| v7.17|
