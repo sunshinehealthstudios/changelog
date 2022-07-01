@@ -40,7 +40,6 @@ This release includes an update to our tracker that allows users to view both ca
 * Fixed: Community posts are not loading properly
 * Fixed: Deleting weight from progress chart doesn't function consistently
 * Fixed: Infinity loop when trying to navigate from weight tracker
-* Fixed: Spinner keeps spinning after posting meal plan comment
 * Fixed: Tracking items through voice adds it to the next day
 * Fixed: Multiselect: favorited recipe not removed when selected
 * Fixed: Secondary metrics not displayed on discover PRO screen
@@ -52,7 +51,6 @@ This release includes an update to our tracker that allows users to view both ca
 * Fixed: Some notifications links do not properly load comments
 * Fixed: Long username breaks UI on profile complete screen
 * Fixed: Private group posts are not displayed under user's profile
-* Fixed: After posting meal plan comment, it keeps loading/spinning
 * Fixed: UI error on unread notifications
 * Fixed: Activity: UI issues with multiselect and edit menu
 * Fixed: App crashes when user selects camera to take profile picture
