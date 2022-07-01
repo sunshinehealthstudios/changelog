@@ -72,7 +72,7 @@ More bugs were found on Android in the latest round of regression. Most concern 
 |Update food data|API|ready for release| N/A|
 |Cannot save or edit meal plans|Android|ready for release| v7.16|
 |Track food on checklist not working properly|Android|ready for release| v7.16|
-|Stop using meal plan does not work properly|in progress| v7.16|
+|Stop using meal plan does not work properly|Android |in progress| v7.16|
 |Bites on custom foods automatically become overrides|iOS/Android|ready for QA| v7.17|
 |See more link doesns't respond on private group posts|Android|ready for QA| v7.17|
 |Comment count incorrect when editing a post|Android|ready for QA| v7.17|
