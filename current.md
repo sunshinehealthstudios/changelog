@@ -4,15 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 6/28/2022 22:35 PT_
+_Updated 6/30/2022 20:57 PT_
 
-One more bug was found on Android in the latest round of regression. New ETA to release is Thursday, June 30th. 
+More bugs were found on Android in the latest round of regression. Most concern meal plans and will be addressed on a later sprint. New ETA to release is Tuesday, July 5th. 
 
 ***
 
 ### Upcoming Releases
-- v7.16   - June 30, 2022
-- v7.17   - July 13, 2022
+- v7.16   - July 5, 2022
+- v7.17   - July 20, 2022
  
 ### Past Releases
 - v7.15   - June 3, 2022 (Android)
@@ -29,7 +29,6 @@ One more bug was found on Android in the latest round of regression. New ETA to 
 | ---                           | ---       | ---       | ---               |
 |Deleting weight from progress chart doesn't function consistently|Android|ready for release| v7.16|
 |Infinity loop when trying to navigate from weight tracker|Android|ready for release| v7.16|
-|Spinner keeps spinning after posting meal plan comment|Android|ready for release| v7.16|
 |Tracking items through voice adds it to the next day|Android|ready for release| v7.16|
 |Menu panel exapnds after upgrading to PRO|iOS|ready for release| v7.16|
 |Multiselect: favorited recipe not removed when selected|Android|ready for release| v7.16|
@@ -44,11 +43,9 @@ One more bug was found on Android in the latest round of regression. New ETA to 
 |My Posts: when the user has no posts, the UI overlaps|iOS|ready for release| v7.16|
 |Long username breaks UI on profile complete screen|Android|ready for release| v7.16|
 |Private group posts are not displayed under user's profile |iOS/Android|ready for release| v7.16|
-|After posting meal plan comment, it keeps loading/spinning|Android|ready for release| v7.16|
 |UI error on unread notifications|Android|ready for release| v7.16|
 |Activity: UI issues with multiselect and edit menu|Android|ready for release| v7.16|
 |App crashes when user selects camera to take profile picture|Android|ready for release| v7.16|
-|Edit Post: On editing a post, the comment count is modified/inappropriate|iOS|ready for release| v7.16|
 |Groups - Searching private group doesn't display|API|ready for release| N/A|
 |Remove duplicate notifications for comment replies|api|ready for release| N/A|
 |"Create Food" to be aligned under "Favorites" tab|iOS|ready for release| v7.16|
@@ -69,17 +66,21 @@ One more bug was found on Android in the latest round of regression. New ETA to 
 |Make all secondary metrics available on the tracker screen|iOS/Android|ready for release| v7.16|
 |Tony Roma's items are showing as 0 bites on carb conscious|API|ready for release| N/A|
 |Before/after overlaps when adding media from gallery|Android|ready for release| v7.16|
-|Unable to share active meal plan to community|Android|ready for release| v7.16|
 |App crash when sharing recipes to the community|Android|ready for release| v7.16|
 |Grocery list is empty for featured meal plans|Android|ready for release| v7.16|
 |Free User: Following list not updated appropriately|Android|ready for release| v7.16|
-|Update food data|API|ready for QA| N/A|
-|Cannot save or edit meal plans|Android|to do| v7.16|
+|Update food data|API|ready for release| N/A|
+|Cannot save or edit meal plans|Android|ready for release| v7.16|
+|Track food on checklist not working properly|Android|ready for release| v7.16|
+|Stop using meal plan does not work properly|in progress| v7.16|
 |Bites on custom foods automatically become overrides|iOS/Android|ready for QA| v7.17|
 |See more link doesns't respond on private group posts|Android|ready for QA| v7.17|
-|Display grams for all nutritionix foods|iOSAndroid|ready for QA| v7.17|
+|Comment count incorrect when editing a post|Android|ready for QA| v7.17|
+|Display grams for all nutritionix foods|iOS/Android|ready for QA| v7.17|
 |Reminders not working|Android|in progress| v7.17|
 |Add ability to pay for PRO using Stripe|Android|in progress| v7.17|
 |Community // New navigation bar|iOS/Android|in progress| v7.17|
+|Community // New UI for groups page|iOS/Android |in progress| v7.17|
+|Community // New UI for filters page|iOS/Android |in progress| v7.17|
 |Community // New UI for group category pages|iOS/Android |to do| v7.17|
-|Community // New UI for groups page|iOS/Android |to do| v7.17|
+|iPad: app crashes when sharing a post|iOS |to do| v7.17|
