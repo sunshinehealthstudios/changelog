@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 7/18/2022 18:27 PT_
+_Updated 7/21/2022 18:54 PT_
 
-The team is now working on v7.17. Ayn and Martiniano will be covering for Manuel on iOS while he is out.
+The team is now working on v7.17. Martiniano will be covering for Manuel on iOS while he is out. We are going to be delayed by at least a few days due to Ayn focusing on the blog.
 
 ***
 
@@ -38,11 +38,12 @@ The team is now working on v7.17. Ayn and Martiniano will be covering for Manuel
 |Display grams for all nutritionix and pocket guide foods|iOS/Android|ready for release| v7.17|
 |Missing "My Groups" category on the "Community" Groups screen|API|ready for release| v7.17|
 |App Crashes on Tablets running Android 11/12 |Android |ready for release| v7.17|
-|Community // New navigation bar|iOS/Android|ready for QA| v7.17|
+|Community // New navigation bar|iOS/Android|ready for release| v7.17|
+|Community // New UI for filters page|iOS/Android |ready for release| v7.17|
 |Delete all recipes that are missing intstructions|API|ready for QA| N/A|
-|Reminders not working|Android|in progress| v7.17|
-|Community // New UI for filters page|iOS/Android |in progress| v7.17|
-|Community // New UX/UI for groups page|iOS/Android |in progress| v7.17|
-|App Crashes when editing custom recipes on Android 12 |Android |in progress| v7.17|
+|Reminders not working|Android|ready for QA| v7.17|
+|Community // New UX/UI for groups page|iOS/Android |ready for QA| v7.17|
+|App Crashes when editing custom recipes on Android 12 |Android |ready for QA| v7.17|
 |Grocery list quantities do not update after changing meal plan serving sizes|API|in progress| v7.18|
 |Items do not fully load with smart search ON |Android |to do| v7.18|
+|Groups with 0 members are being displayed in the Group's list |API |to do| N/A|
