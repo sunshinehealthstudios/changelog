@@ -4,15 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 7/25/2022 22:26 PT_
+_Updated 8/01/2022 01:10 PT_
 
-The team is now working on v7.17. Martiniano will be covering for Manuel on iOS while he is out. We are going to be delayed by at least a few days due to Ayn focusing on the blog.
+The team is now working on v7.17. Manuel is back from PTO and we are playing catch up on iOS. We are now on track to release v7.17 by middle to end of this week.
 
 ***
 
 ### Upcoming Releases
 - v7.17   - TBD
-- v7.18.  - August 17, 2022
+- v7.18.  - August 24, 2022
  
 ### Past Releases
 - v7.16   - July 1, 2022
@@ -41,13 +41,14 @@ The team is now working on v7.17. Martiniano will be covering for Manuel on iOS 
 |Community // New navigation bar|iOS/Android|ready for release| v7.17|
 |Community // New UI for filters page|iOS/Android |ready for release| v7.17|
 |Delete all recipes that are missing intstructions|API|ready for release| N/A|
-|Community // New UX/UI for groups page|iOS/Android |ready for QA| v7.17|
-|App Crashes when editing custom recipes on Android 12 |Android |ready for QA| v7.17|
-|Sign up: user cannot pass the second PRO screen |Android |ready for QA| v7.17|
-|Onboarding checklist: explore PRO keeps loading |Android |ready for QA| v7.17|
-|Sign up: pagination dots get duplicated |Android |ready for QA| v7.17|
-|Reminders not working|Android|in progress| v7.17|
+|Community // New UX/UI for groups page|iOS/Android |ready for release| v7.17|
+|App Crashes when editing custom recipes on Android 12 |Android |ready for release| v7.17|
+|Sign up: pagination dots get duplicated |Android |ready for release| v7.17|
+|Sign up: user cannot pass the second PRO screen |Android |ready for release| v7.17|
+|Onboarding checklist: explore PRO keeps loading |Android |ready for release| v7.17|
+|Reminders not working|Android|ready for release| v7.17|
+|Clear calculator button not visible|iOS|ready for QA| v7.17|
+|Notification badges should be round|Android|to do| v7.17|
 |Groups with 0 members are being displayed in the Group's list |API |in progress| N/A|
 |Grocery list quantities do not update after changing meal plan serving sizes|API|in progress| v7.18|
 |Items do not fully load with smart search ON |Android |to do| v7.18|
-
