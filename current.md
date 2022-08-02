@@ -49,6 +49,7 @@ The team is now working on v7.17. Manuel is back from PTO and we are playing cat
 |Reminders not working|Android|ready for release| v7.17|
 |Clear calculator button not visible|iOS|ready for QA| v7.17|
 |Notification badges should be round|Android|to do| v7.17|
+|Edit/Save Custom recipe throws an error|API|to do| v7.17|
 |Groups with 0 members are being displayed in the Group's list |API |in progress| N/A|
 |Grocery list quantities do not update after changing meal plan serving sizes|API|in progress| v7.18|
 |Items do not fully load with smart search ON |Android |to do| v7.18|
