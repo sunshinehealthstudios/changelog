@@ -6,7 +6,7 @@ permalink: /current/
 
 _Updated 8/01/2022 20:10 PT_
 
-The team is now working on v7.17. Manuel is back from PTO and we are playing catch up on iOS. We are now on track to release v7.17 by middle to end of this week.
+The team is working on v7.17. Manuel is back from PTO and we've caught up on iOS. One android and one api bug remain to be fixed. We are now on track to release v7.17 by end of this week.
 
 ***
 
