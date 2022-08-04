@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 8/02/2022 17:56 PT_
+_Updated 8/03/2022 23:40 PT_
 
 The team is working on v7.17. Manuel is back from PTO and we've caught up on iOS. Two iOS bugs and one Android bug remain to be fixed. We are tentatively on track to release v7.17 by end of this week.
 
@@ -50,19 +50,19 @@ The team is working on v7.17. Manuel is back from PTO and we've caught up on iOS
 |Clear calculator button not visible|iOS|ready for release| v7.17|
 |Notification badges should be round|Android|ready for release| v7.17|
 |Edit/Save Custom recipe throws an error|API|ready for release| v7.17|
+|Price test with monthly option|iOS/Android|ready for QA| v7.17|
 |FB Messenger deeplinks open app store|iOS|in progress| v7.17|
 |Slack deeplinks are broken|iOS|in progress| v7.17|
-|Price test with monthly option|iOS/Android|in progress| v7.17|
 |Groups with 0 members are being displayed in the Group's list |API |in progress| N/A|
 |Grocery list quantities do not update after changing meal plan serving sizes|API|in progress| N/A|
 |Items do not fully load with smart search ON |Android |in progress| v7.18|
+|UI Updates on Custom Recipes Screen |iOS/Android |in progress| v7.18|
 |Groups: members without names are being displaed in the member's group list|API|to do| N/A|
 |Improve loading on group search |iOS |to do| v7.18|
 |Update upgrade screens to be contextual |iOS/Android |to do| v7.18|
 |Update brands tab paywall |iOS/Android |to do| v7.18|
 |Replace Explore PRO upgrade screens |iOS/Android |to do| v7.18|
 |Free users are able to access restaurant foods on brands tab|Android |to do| v7.18|
-|UI Updates on Custom Recipes Screen |iOS/Android |to do| v7.18|
 |Fix broken Privacy Policy/ToS links |iOS/Android |to do| v7.18|
 |Update badge images & milestones |iOS/Android |to do| v7.18|
 |Free users are able to access restaurant foods on results tab|iOS/Android |to do| TBD|
