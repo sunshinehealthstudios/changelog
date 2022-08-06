@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 8/05/2022 11:04 PT_
+_Updated 8/05/2022 18:37 PT_
 
 The team is working on v7.17. Manuel is back from PTO and we've caught up on iOS. Two Android bugs remain to be fixed. ETA for the release is now Wednesday, August 10th.
 
@@ -54,8 +54,9 @@ The team is working on v7.17. Manuel is back from PTO and we've caught up on iOS
 |FB Messenger deeplinks open app store|iOS|ready for release| v7.17|
 |Slack deeplinks are broken|iOS/Android|ready for release| v7.17|
 |Fix broken Privacy Policy/ToS links |iOS/Android |ready for release| v7.17|
-|Timeout when saving a recipe |Android |in progress| v7.17|
-|Groups are duplicated after editing |Android |in progress| v7.17|
+|Groups are duplicated after editing |Android |ready for QA| v7.17|
+|Timeout when saving a recipe |Android |to do| v7.17|
+|My Foods/Favorites are missing |Android |to do| v7.17|
 |Groups with 0 members are being displayed in the Group's list |API |in progress| N/A|
 |Grocery list quantities do not update after changing meal plan serving sizes|API|in progress| N/A|
 |Items do not fully load with smart search ON |Android |in progress| v7.18|
