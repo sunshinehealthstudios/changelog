@@ -19,11 +19,11 @@ This release improves the user experience of the community by making it easier t
 * Fixed: Tony Roma's Items Showing as 0 Bites on Carb Conscious
 
 ### ios
-* Update: Price test with 6 month option
-* Update: New UX/UI for groups page
-* Update: New UI for group category pages
-* Update: New navigation bar on community
-* Update: New UI for filters page
+* Updated: Price test with 6 month option
+* Updated: New UX/UI for groups page
+* Updated: New UI for group category pages
+* Updated: New navigation bar on community
+* Updated: New UI for filters page
 * Updated: Display grams for all nutritionix and pocket guide foods
 * Fixed: Bites on custom foods automatically become overrides
 * Fixed: Slack deeplinks are broken
@@ -35,11 +35,11 @@ This release improves the user experience of the community by making it easier t
 * Fixed: FB Messenger deeplinks open app store
 
 ### android
-* Update: Price test with 6 month option
-* Update: New UX/UI for groups page
-* Update: New UI for group category pages
-* Update: New navigation bar on community
-* Update: New UI for filters page
+* Updated: Price test with 6 month option
+* Updated: New UX/UI for groups page
+* Updated: New UI for group category pages
+* Updated: New navigation bar on community
+* Updated: New UI for filters page
 * Updated: Display grams for all nutritionix and pocket guide foods
 * Fixed: Bites on custom foods automatically become overrides
 * Fixed: Slack deeplinks are broken
