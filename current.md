@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 8/08/2022 20:47 PT_
+_Updated 8/09/2022 15:42 PT_
 
-The team is working on v7.17. iOS has passed regression and app store review. Two Android bugs remain to be fixed. ETA for the release is now Thursday, August 11th.
+The team is working on v7.17. iOS has passed regression and app store review. Android is ready for regression. ETA for the release is now Thursday, August 11th.
 
 ***
 
@@ -56,8 +56,7 @@ The team is working on v7.17. iOS has passed regression and app store review. Tw
 |Fix broken Privacy Policy/ToS links |iOS/Android |ready for release| v7.17|
 |Groups are duplicated after editing |Android |ready for release| v7.17|
 |Timeout when saving a recipe |Android |ready for release| v7.17|
-|My Foods/Favorites are missing |Android |in progress| v7.17|
-|App crashes when tapping on a favorite food |Android |in progress| v7.17|
+|App crashes when tapping on a favorite food |Android |ready for release| v7.17|
 |Groups with 0 members are being displayed in the Group's list |API |in progress| N/A|
 |Grocery list quantities do not update after changing meal plan serving sizes|API|in progress| N/A|
 |Items do not fully load with smart search ON |Android |in progress| v7.18|
@@ -70,3 +69,4 @@ The team is working on v7.17. iOS has passed regression and app store review. Tw
 |Free users are able to access restaurant foods on brands tab|Android |to do| v7.18|
 |Update badge images & milestones |iOS/Android |to do| v7.18|
 |Free users are able to access restaurant foods on results tab|iOS/Android |to do| TBD|
+|My Foods/Favorites are missing |Android |investigating| TBD|
