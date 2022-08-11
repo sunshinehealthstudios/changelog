@@ -10,6 +10,9 @@ v7.17
 ## Overview
 This release improves the user experience of the community by making it easier to navigate and discover groups. It also adds grams to thousands of foods in our database for more precise tracking. It also includes a new price test we'll be running that offers a 6-month subscription option.
 
+[View Walkthrough Video](https://drive.google.com/file/d/1ieczG9U3EJyTUo9-bkjqPAHfk601F-e7/view?usp=sharing)
+
+
 ## Details
 ### api
 * Updated: Delete all recipes that are missing intstructions
