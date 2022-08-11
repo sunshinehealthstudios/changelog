@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 8/09/2022 15:42 PT_
+_Updated 8/10/2022 18:07 PT_
 
-The team is working on v7.17. iOS has passed regression and app store review. Android is ready for regression. ETA for the release is now Thursday, August 11th.
+v7.17 is ready for release on iOS and Android. We'll push buttons tomorrow morning. The team is now working on v7.18.
 
 ***
 
@@ -57,12 +57,12 @@ The team is working on v7.17. iOS has passed regression and app store review. An
 |Groups are duplicated after editing |Android |ready for release| v7.17|
 |Timeout when saving a recipe |Android |ready for release| v7.17|
 |App crashes when tapping on a favorite food |Android |ready for release| v7.17|
-|Groups with 0 members are being displayed in the Group's list |API |in progress| N/A|
+|Groups with 0 members are being displayed in the Group's list |API |ready for QA| N/A|
+|Groups: members without names are being displaed in the member's group list|API|ready for QA| N/A|
+|Items do not fully load with smart search ON |Android |ready for QA| v7.18|
 |Grocery list quantities do not update after changing meal plan serving sizes|API|in progress| N/A|
-|Items do not fully load with smart search ON |Android |in progress| v7.18|
 |UI Updates on Custom Recipes Screen |iOS/Android |in progress| v7.18|
 |Update upgrade screens to be contextual |iOS/Android |in progress| v7.18|
-|Groups: members without names are being displaed in the member's group list|API|to do| N/A|
 |Improve loading on group search |iOS |to do| v7.18|
 |Update brands tab paywall |iOS/Android |to do| v7.18|
 |Replace Explore PRO upgrade screens |iOS/Android |to do| v7.18|
