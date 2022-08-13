@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 8/11/2022 16:33 PT_
+_Updated 8/13/2022 00:10 PT_
 
-v7.17 has begun 7-day rollout on iOS and Android. The team is now working on v7.18.
+v7.17 will complete 7-day rollout on iOS and Android on Wednesday 8/17. The team is now working on v7.18.
 
 ***
 
@@ -30,10 +30,10 @@ v7.17 has begun 7-day rollout on iOS and Android. The team is now working on v7.
 |Groups: members without names are being displaed in the member's group list|API|ready for QA| N/A|
 |Items do not fully load with smart search ON |Android |ready for QA| v7.18|
 |Grocery list quantities do not update after changing meal plan serving sizes|API|in progress| N/A|
+|Add link to cancel subscription |Android |ready for QA| v7.18|
 |UI Updates on Custom Recipes Screen |iOS/Android |in progress| v7.18|
 |Update upgrade screens to be contextual |iOS/Android |in progress| v7.18|
 |Update empty state of "My Groups"|iOS/Android |in progress| v7.18|
-|Add link to cancel subscription |Android |in progress| v7.18|
 |Update brands tab paywall |iOS/Android |in progress| v7.18|
 |Free users are able to access restaurant foods on brands tab|Android |in progress| v7.18|
 |Improve loading on group search |iOS |to do| v7.18|
