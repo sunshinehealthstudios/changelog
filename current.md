@@ -4,22 +4,22 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 8/23/2022 08:03 PT_
+_Updated 8/23/2022 19:13 PT_
 
-v7.18 has completed 7-day rollout on Android. On iOS, v7.17.1 has been pushed to 100%. The team is now working on v7.18.
+We are releasing additional patch builds on iOS and Android to fix a few minor ops issues. These builds should have no impact on user's experience with the app. On iOS, v7.17.2 has passed regression and is awaiting app store review. On android, a v7.17.1 patch build is still in development. Work on v7.18 will resume once these builds are released.
 
 ***
 
 ### Upcoming Releases
-- v7.18.  - August 31, 2022
-- v7.19   - September 21, 2022
+- v7.17.1 - August 24, 2022 (Android)
+- v7.17.2 - August 24, 2022 (iOS)
+- v7.18.  - September 7, 2022
+- v7.19   - September 28, 2022
  
 ### Past Releases
 - v7.17.1 - August 17, 2022 (iOS)
 - v7.17   - August 11, 2022
 - v7.16   - July 1, 2022
-- v7.15   - June 3, 2022 (Android)
-- v7.15   - June 2, 2022 (iOS)
 
 ***
 
@@ -27,6 +27,8 @@ v7.18 has completed 7-day rollout on Android. On iOS, v7.17.1 has been pushed to
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
+|Metric improvements|iOS |ready for release| v7.17.2|
+|Metric improvements|Android |in progress| v7.17.1|
 |Groups with 0 members are being displayed in the Group's list |API |ready for release| N/A|
 |Free users are able to access restaurant foods on brands tab|Android |ready for release| v7.18|
 |Update empty state of "My Groups"|iOS/Android |ready for release| v7.18|
