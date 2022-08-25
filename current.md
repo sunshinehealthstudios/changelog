@@ -6,7 +6,7 @@ permalink: /current/
 
 _Updated 8/24 /2022 19:05 PT_
 
-We are releasing additional patch builds on iOS and Android to fix a few minor ops issues. These builds should have no impact on user's experience with the app. On iOS, v7.17.2 has passed regression and is awaiting app store review. On android, a v7.17.1 patch build is still in development. Work on v7.18 will resume once these builds are released.
+We are releasing additional patch builds on iOS and Android to fix a few minor ops issues. These builds should have no impact on user's experience with the app. On iOS, v7.17.2 has been released to 100% of users. On android, a v7.17.1 patch build is still in development. Work on v7.18 will resume once these builds are released.
 
 ***
 
