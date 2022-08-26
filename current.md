@@ -8,10 +8,6 @@ _Updated 8/26/2022 12:17 PT_
 
 v7.17.1 has been released to 100% of users on Android. This build should have no impact on users' experience with the app.
 
-We have adjusted the schedule for v7.18. This release will now occur exclusively on iOS and will feature a new tracking lock screen widget. Users will need to update their software to iOS 16 to see the new feature. As a part of this release, the app will no longer support iOS versions prior to iOS 12. For devices using iOS 11 or earlier, the app will still work, but users will not be able to receive new app updates.
-
-All items previously scheduled for v7.18 will now be moved to v7.19.
-
 ***
 
 ### Upcoming Releases
@@ -31,7 +27,6 @@ All items previously scheduled for v7.18 will now be moved to v7.19.
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|New Lock Screen Widget for iOS 16|iOS |in progress| v7.18|
 |Groups with 0 members are being displayed in the Group's list |API |ready for release| N/A|
 |Free users are able to access restaurant foods on brands tab|Android |ready for release| v7.19|
 |Update empty state of "My Groups"|iOS/Android |ready for release| v7.19|
