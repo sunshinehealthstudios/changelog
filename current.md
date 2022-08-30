@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 8/26/2022 12:17 PT_
+_Updated 8/29/2022 21:53 PT_
 
 v7.17.1 has been released to 100% of users on Android. This build should have no impact on users' experience with the app.
 
@@ -27,6 +27,7 @@ v7.17.1 has been released to 100% of users on Android. This build should have no
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
+|Incorrect Values for Calories/Macros on Tracker Screen |iOS |to do| v7.18|
 |Groups with 0 members are being displayed in the Group's list |API |ready for release| N/A|
 |Free users are able to access restaurant foods on brands tab|Android |ready for release| v7.19|
 |Update empty state of "My Groups"|iOS/Android |ready for release| v7.19|
@@ -34,10 +35,10 @@ v7.17.1 has been released to 100% of users on Android. This build should have no
 |Groups: members without names are being displayed in the member's group list|API|ready for release| N/A|
 |Items do not fully load with smart search ON |Android |ready for release| v7.19|
 |PRO status not reverted back after subscription expires |Android |ready for release| v7.19|
+|Unable to share active meal plan to community |Android |ready for release| v7.19|
 |Update brands tab paywall |iOS/Android |ready for QA| v7.19|
-|Replace Explore PRO upgrade screens |iOS/Android |ready for QA| v7.19|
 |Update upgrade screens to be contextual |iOS/Android |ready for QA| v7.19|
-|Unable to share active meal plan to community |Android |in progress| v7.19|
+|Replace Explore PRO upgrade screens |iOS/Android |in progress| v7.19|
 |Update badge images & milestones |iOS/Android |in progress| v7.19|
 |UI Updates on Custom Recipes Screen |iOS/Android |to do| v7.19|
 |Add link to cancel subscription |Android |to do| v7.19|
