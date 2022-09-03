@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 9/1/2022 09:55 PT_
+_Updated 9/2/2022 17:21 PT_
 
 The team is working on v7.18 and v7.19.
 
@@ -27,6 +27,7 @@ The team is working on v7.18 and v7.19.
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
+|Incorrect Values for Calories/Macros on Tracker Screen |iOS |ready for release| v7.18|
 |Groups with 0 members are being displayed in the Group's list |API |ready for release| N/A|
 |Free users are able to access restaurant foods on brands tab|Android |ready for release| v7.19|
 |Update empty state of "My Groups"|iOS/Android |ready for release| v7.19|
@@ -44,7 +45,6 @@ The team is working on v7.18 and v7.19.
 |App crashes when tapping on community tab |Android |to do| v7.19|
 |Carb Conscious: bites on calculator change when retyping same values |Android |to do| v7.19|
 |Add warning message for abandon custom recipe flow |iOS/Android |to do| v7.19|
-|Incorrect Values for Calories/Macros on Tracker Screen |iOS |to do| v7.19|
 |Grocery list quantities do not update after changing meal plan serving sizes|API|to do| N/A|
 |Free users are able to access restaurant foods on results tab|iOS/Android |to do| TBD|
 |My Foods/Favorites are missing |Android |investigating| TBD|
