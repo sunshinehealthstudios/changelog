@@ -4,14 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 9/2/2022 17:21 PT_
+_Updated 9/6/2022 09:01 PT_
 
-The team is working on v7.18 and v7.19.
+The team is working on v7.18, v7.18.1, and v7.19.
 
 ***
 
 ### Upcoming Releases
 - v7.18.  - September 7, 2022
+- v7.18.1 - September 9, 2022
 - v7.19   - September 21, 2022
 - v7.20   - October 12, 2022
  
@@ -27,7 +28,7 @@ The team is working on v7.18 and v7.19.
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Incorrect Values for Calories/Macros on Tracker Screen |iOS |ready for release| v7.18|
+|Incorrect Values for Calories/Macros on Tracker Screen |iOS |ready for release| v7.18.1|
 |Groups with 0 members are being displayed in the Group's list |API |ready for release| N/A|
 |Free users are able to access restaurant foods on brands tab|Android |ready for release| v7.19|
 |Update empty state of "My Groups"|iOS/Android |ready for release| v7.19|
@@ -36,14 +37,15 @@ The team is working on v7.18 and v7.19.
 |Items do not fully load with smart search ON |Android |ready for release| v7.19|
 |PRO status not reverted back after subscription expires |Android |ready for release| v7.19|
 |Unable to share active meal plan to community |Android |ready for release| v7.19|
-|Replace Explore PRO upgrade screens |iOS/Android |in progress| v7.19|
+|Replace Explore PRO upgrade screens |iOS/Android |ready for QA| v7.19|
+|Update upgrade screens to be contextual |iOS/Android |ready for QA| v7.19|
 |Update badge images & milestones |iOS/Android |in progress| v7.19|
 |Update brands tab paywall |iOS/Android |in progress| v7.19|
-|Update upgrade screens to be contextual |iOS/Android |in progress| v7.19|
 |UI Updates on Custom Recipes Screen |iOS/Android |in progress| v7.19|
 |Add link to cancel subscription |Android |to do| v7.19|
 |App crashes when tapping on community tab |Android |to do| v7.19|
 |Carb Conscious: bites on calculator change when retyping same values |Android |to do| v7.19|
+|Update recipe share screens |iOS/Android |to do| v7.19|
 |Add warning message for abandon custom recipe flow |iOS/Android |to do| v7.19|
 |Grocery list quantities do not update after changing meal plan serving sizes|API|to do| N/A|
 |Free users are able to access restaurant foods on results tab|iOS/Android |to do| TBD|
