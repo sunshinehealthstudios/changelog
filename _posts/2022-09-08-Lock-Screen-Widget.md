@@ -21,7 +21,5 @@ The feature requires a software update to iOS 16 (to be released Monday 9/12).
 ### iOS
 * New iOS 16 Feature: Lock Screen Widget
 
-### Walkthrough Video
-
-https://user-images.githubusercontent.com/56040798/189412386-53bff211-6332-4ebb-87a5-1b6654a5aad3.MP4
+[Walkthrough Video](https://user-images.githubusercontent.com/56040798/189412386-53bff211-6332-4ebb-87a5-1b6654a5aad3.MP4)
 
