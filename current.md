@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 9/8/2022 21:26 PT_
+_Updated 9/9/2022 18:40 PT_
 
 v7.18 has been released to 100% of users on iOS. The team is working on development for v7.18.1 and v7.19.
 
 ***
 
 ### Upcoming Releases
-- v7.18.1 - September 12, 2022
+- v7.18.1 - September 13, 2022
 - v7.19   - September 28, 2022
 - v7.20   - October 19, 2022
  
@@ -40,13 +40,12 @@ v7.18 has been released to 100% of users on iOS. The team is working on developm
 |Replace Explore PRO upgrade screens |iOS/Android |ready for release| v7.19|
 |Update upgrade screens to be contextual |iOS/Android |ready for release| v7.19|
 |Update brands tab paywall |iOS/Android |ready for release| v7.19|
+|Add link to cancel subscription |Android |ready for release| v7.19|
 |Update badge images & milestones |iOS/Android |ready for QA| v7.19|
 |UI Updates on Custom Recipes Screen |iOS/Android |ready for QA| v7.19|
 |Carb Conscious: bites on calculator change when retyping same values |Android |ready for QA| v7.19|
-|Add link to cancel subscription |Android |ready for QA| v7.19|
+|Add warning message for abandon custom recipe flow |iOS/Android |ready for QA| v7.19|
 |Update recipe share screens |iOS/Android |in progress| v7.19|
 |App crashes when tapping on community tab |Android |to do| v7.19|
-|Add warning message for abandon custom recipe flow |iOS/Android |to do| v7.19|
-|Grocery list quantities do not update after changing meal plan serving sizes|API|to do| N/A|
 |Free users are able to access restaurant foods on results tab|iOS/Android |to do| TBD|
 |My Foods/Favorites are missing |Android |investigating| TBD|
