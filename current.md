@@ -4,18 +4,18 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 9/14/2022 23:38 PT_
+_Updated 9/15/2022 17:09 PT_
 
-v7.18.1 is currently undergoing regression on iOS. The rest of the team is working on development for v7.19 and v7.20.
+v7.18.1 has been released to 100% of users on iOS. The team is working on development for v7.19 and v7.20.
 
 ***
 
 ### Upcoming Releases
-- v7.18.1 - September 16, 2022
 - v7.19   - September 28, 2022
 - v7.20   - October 19, 2022
  
 ### Past Releases
+- v7.18.1 - September 15, 2022
 - v7.18.  - September 8, 2022
 - v7.17.2 - August 24, 2022 (iOS)
 - v7.17.1 - August 17, 2022 (iOS); August 26, 2022 (Android)
@@ -28,7 +28,6 @@ v7.18.1 is currently undergoing regression on iOS. The rest of the team is worki
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Incorrect Values for Calories/Macros on Tracker Screen |iOS |in progress| v7.18.1|
 |Groups with 0 members are being displayed in the Group's list |API |ready for release| N/A|
 |Bites on custom foods automatically become overrides|iOS/Android |ready for release| v7.19|
 |Free users are able to access restaurant foods on brands tab|Android |ready for release| v7.19|
@@ -47,6 +46,8 @@ v7.18.1 is currently undergoing regression on iOS. The rest of the team is worki
 |UI Updates on Custom Recipes Screen |iOS/Android |ready for QA| v7.19|
 |Add warning message for abandon custom recipe flow |iOS/Android |ready for QA| v7.19|
 |Update recipe share screens |iOS/Android |ready for QA| v7.19|
-|App crashes when tapping on community tab |Android |to do| v7.19|
+|iPad: Blank screens on Activity, Comments, & Blog |iOS |ready for QA| v7.19|
+|App crashes when editing custom recipes |iOS |ready for QA| v7.19|
+|App crashes when tapping on community tab |Android |in progress| v7.19|
 |Free users are able to access restaurant foods on results tab|iOS/Android |to do| TBD|
 |My Foods/Favorites are missing |Android |investigating| TBD|
