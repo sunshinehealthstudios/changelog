@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 9/19/2022 23:46 PT_
+_Updated 9/19/2022 23:41 PT_
 
-v7.18.1 has been released to 100% of users on iOS. The team is working on development for v7.19 and v7.20.
+The team is working on development for v7.19 and v7.20.
 
 ***
 
@@ -43,13 +43,13 @@ v7.18.1 has been released to 100% of users on iOS. The team is working on develo
 |Add link to cancel subscription |Android |ready for release| v7.19|
 |Carb Conscious: bites on calculator change when retyping same values |Android |ready for release| v7.19|
 |iPad: Blank screens on Activity, Comments, & Blog |iOS |ready for release| v7.19|
+|Timeout when saving a recipe |Android |ready for release| v7.19|
+|App crashes when editing custom recipes |iOS |ready for release| v7.19|
 |UI Updates on Custom Recipes Screen |iOS/Android |ready for QA| v7.19|
-|Update badge images & milestones |iOS/Android |ready for QA| v7.19|
+|Update recipe share screens |iOS/Android |ready for QA| v7.19|
 |Incorrect BITES on items with "floz" |Android |ready for QA| v7.19|
 |Add warning message for abandon custom recipe flow |iOS/Android |ready for QA| v7.19|
-|Update recipe share screens |iOS/Android |ready for QA| v7.19|
 |App crashes when tapping on community tab |Android |ready for QA| v7.19|
-|App crashes when editing custom recipes |iOS |ready for QA| v7.19|
-|Timeout when saving a recipe |Android |ready for QA| v7.19|
+|Update badge images & milestones |iOS/Android |in progress| v7.19|
 |Free users are able to access restaurant foods on results tab|iOS/Android |to do| TBD|
 |My Foods/Favorites are missing |Android |investigating| TBD|
