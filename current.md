@@ -4,15 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 9/19/2022 23:41 PT_
+_Updated 10/05/2022 18:20 PT_
 
-The team is working on development for v7.19 and v7.20.
+The team is working on QA for v7.19 and and development for v7.20.
 
 ***
 
 ### Upcoming Releases
 - v7.19   - September 28, 2022
-- v7.20   - October 19, 2022
+- v7.20   - October 26, 2022
  
 ### Past Releases
 - v7.18.1 - September 15, 2022
@@ -48,8 +48,9 @@ The team is working on development for v7.19 and v7.20.
 |UI Updates on Custom Recipes Screen |iOS/Android |ready for QA| v7.19|
 |Update recipe share screens |iOS/Android |ready for QA| v7.19|
 |Incorrect BITES on items with "floz" |Android |ready for QA| v7.19|
-|Add warning message for abandon custom recipe flow |iOS/Android |ready for QA| v7.19|
 |App crashes when tapping on community tab |Android |ready for QA| v7.19|
+|Add warning message for abandon custom recipe flow |iOS/Android |in progress| v7.19|
 |Update badge images & milestones |iOS/Android |in progress| v7.19|
+|Milestone not shown when goal is to gain weight|iOS/Android |to do| v7.19|
 |Free users are able to access restaurant foods on results tab|iOS/Android |to do| TBD|
 |My Foods/Favorites are missing |Android |investigating| TBD|
