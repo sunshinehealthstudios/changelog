@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 09/27/2022 18:16 PT_
+_Updated 09/28/2022 16:23 PT_
 
 The team is working on QA for v7.19 and and development for v7.20.
 
@@ -47,9 +47,9 @@ The team is working on QA for v7.19 and and development for v7.20.
 |App crashes when editing custom recipes |iOS |ready for release| v7.19|
 |UI Updates on Custom Recipes Screen |iOS/Android |ready for release| v7.19|
 |Add warning message for abandon custom recipe flow |iOS/Android |ready for release| v7.19|
-|Update recipe share screens |iOS/Android |ready for QA| v7.19|
+|Update recipe share screens |iOS/Android |ready for release| v7.19|
+|App crashes when tapping on community tab |Android |ready for release| v7.19|
 |Incorrect BITES on items with "floz" |Android |ready for QA| v7.19|
-|App crashes when tapping on community tab |Android |ready for QA| v7.19|
 |Update badge images & milestones |iOS/Android |ready for QA| v7.19|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for QA| v7.20|
@@ -68,4 +68,7 @@ The team is working on QA for v7.19 and and development for v7.20.
 |Update the rebrand colors for the "Create" buttons |iOS |to do| v7.20|
 |Improve on significant lag while refreshing the "Tracker" screen after process death |Android |to do| v7.20|
 |Activity: To update the favorite heart icon to star |Android |to do| v7.20|
+|Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |to do| v7.20|
+|Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |to do| v7.20|
+|Custom recipes: Delete icon disappears while multiselecting ingredients |Android |to do| v7.20|
 |My Foods/Favorites are missing |Android |investigating| TBD|
