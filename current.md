@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 09/26/2022 21:00 PT_
+_Updated 09/27/2022 18:16 PT_
 
 The team is working on QA for v7.19 and and development for v7.20.
 
