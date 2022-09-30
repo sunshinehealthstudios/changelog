@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 09/28/2022 16:23 PT_
+_Updated 09/29/2022 22:15 PT_
 
 The team is working on QA for v7.19 and and development for v7.20.
 
@@ -50,13 +50,17 @@ The team is working on QA for v7.19 and and development for v7.20.
 |Update recipe share screens |iOS/Android |ready for release| v7.19|
 |App crashes when tapping on community tab |Android |ready for release| v7.19|
 |Incorrect BITES on items with "floz" |Android |ready for QA| v7.19|
-|Update badge images & milestones |iOS/Android |ready for QA| v7.19|
+|Update badge images & milestones |iOS/Android |in progress| v7.19|
+|App crashes when user taps on the Meal Plans tab |Android |to do| v7.19|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
+|Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
 |Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for QA| v7.20|
 |Conquer Cravings: Maintain weight doesn't show the allowances appropriately on the "Tracker"|Android |ready for QA| v7.20|
 |Update Profile link when trying to create a post while having the Profile incomplete does not work|Android |ready for QA| v7.20|
 |Community // Invite Friends UI Updates|iOS/Android |ready for QA| v7.20|
 |Community // Notification UI Updates|iOS/Android |ready for QA| v7.20|
+|Improve on significant lag while refreshing the "Tracker" screen after process death |Android |ready for QA| v7.20|
+|Activity: To update the favorite heart icon to star |Android |ready for QA| v7.20|
 |Groups Redesign // Group Details Page|iOS/Android |in progress| v7.20|
 |Groups Redesign // Group Creation Flow|iOS/Android |in progress| v7.20|
 |Free users are able to access restaurant foods on results tab|iOS/Android |in progress| v7.20|
@@ -66,9 +70,6 @@ The team is working on QA for v7.19 and and development for v7.20.
 |Zero Bites tab: To improve load time/to show the results when navigating between tabs |iOS |to do| v7.20|
 |The PRO screen is shown twice when tapping on a comment field |iOS |to do| v7.20|
 |Update the rebrand colors for the "Create" buttons |iOS |to do| v7.20|
-|Improve on significant lag while refreshing the "Tracker" screen after process death |Android |to do| v7.20|
-|Activity: To update the favorite heart icon to star |Android |to do| v7.20|
-|Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |to do| v7.20|
 |Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |to do| v7.20|
 |Custom recipes: Delete icon disappears while multiselecting ingredients |Android |to do| v7.20|
 |My Foods/Favorites are missing |Android |investigating| TBD|
