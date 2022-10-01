@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 09/29/2022 22:15 PT_
+_Updated 09/30/2022 17:37 PT_
 
 The team is working on QA for v7.19 and and development for v7.20.
 
@@ -49,9 +49,10 @@ The team is working on QA for v7.19 and and development for v7.20.
 |Add warning message for abandon custom recipe flow |iOS/Android |ready for release| v7.19|
 |Update recipe share screens |iOS/Android |ready for release| v7.19|
 |App crashes when tapping on community tab |Android |ready for release| v7.19|
-|Incorrect BITES on items with "floz" |Android |ready for QA| v7.19|
+|Incorrect BITES on items with "floz" |Android |ready for release| v7.19|
+|Progress Chart doesn't show all achieved badges |iOS |ready for QA| v7.19|
+|App crashes when user taps on the Meal Plans tab |Android |ready for QA| v7.19|
 |Update badge images & milestones |iOS/Android |in progress| v7.19|
-|App crashes when user taps on the Meal Plans tab |Android |to do| v7.19|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
 |Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for QA| v7.20|
