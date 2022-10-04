@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 09/30/2022 17:37 PT_
+_Updated 10/04/2022 9:19 PT_
 
 The team is working on QA for v7.19 and and development for v7.20.
 
 ***
 
 ### Upcoming Releases
-- v7.19   - October 5, 2022
+- v7.19   - October 7, 2022
 - v7.20   - October 26, 2022
  
 ### Past Releases
@@ -50,8 +50,8 @@ The team is working on QA for v7.19 and and development for v7.20.
 |Update recipe share screens |iOS/Android |ready for release| v7.19|
 |App crashes when tapping on community tab |Android |ready for release| v7.19|
 |Incorrect BITES on items with "floz" |Android |ready for release| v7.19|
+|App crashes when user taps on the Meal Plans tab |Android |ready for release| v7.19|
 |Progress Chart doesn't show all achieved badges |iOS |ready for QA| v7.19|
-|App crashes when user taps on the Meal Plans tab |Android |ready for QA| v7.19|
 |Update badge images & milestones |iOS/Android |in progress| v7.19|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
@@ -62,15 +62,15 @@ The team is working on QA for v7.19 and and development for v7.20.
 |Community // Notification UI Updates|iOS/Android |ready for QA| v7.20|
 |Improve on significant lag while refreshing the "Tracker" screen after process death |Android |ready for QA| v7.20|
 |Activity: To update the favorite heart icon to star |Android |ready for QA| v7.20|
+|Free users are able to access restaurant foods on results tab|iOS/Android |ready for QA| v7.20|
+|Zero Bites tab: To improve load time/to show the results when navigating between tabs |iOS |ready for QA| v7.20|
 |Groups Redesign // Group Details Page|iOS/Android |in progress| v7.20|
 |Groups Redesign // Group Creation Flow|iOS/Android |in progress| v7.20|
-|Free users are able to access restaurant foods on results tab|iOS/Android |in progress| v7.20|
+|Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |in progress| v7.20|
+|Custom recipes: Delete icon disappears while multiselecting ingredients |Android |in progress| v7.20|
 |Community // Sharing a group|iOS/Android |to do| v7.20|
 |UX/UI for Private Group Requests/Approvals|iOS/Android |to do| v7.20|
 |Community // Filter Page UI Updates|iOS/Android |to do| v7.20|
-|Zero Bites tab: To improve load time/to show the results when navigating between tabs |iOS |to do| v7.20|
 |The PRO screen is shown twice when tapping on a comment field |iOS |to do| v7.20|
 |Update the rebrand colors for the "Create" buttons |iOS |to do| v7.20|
-|Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |to do| v7.20|
-|Custom recipes: Delete icon disappears while multiselecting ingredients |Android |to do| v7.20|
 |My Foods/Favorites are missing |Android |investigating| TBD|
