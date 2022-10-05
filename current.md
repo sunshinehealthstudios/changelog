@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/04/2022 9:19 PT_
+_Updated 10/04/2022 22:20 PT_
 
 The team is working on QA for v7.19 and and development for v7.20.
 
@@ -52,7 +52,8 @@ The team is working on QA for v7.19 and and development for v7.20.
 |Incorrect BITES on items with "floz" |Android |ready for release| v7.19|
 |App crashes when user taps on the Meal Plans tab |Android |ready for release| v7.19|
 |Progress Chart doesn't show all achieved badges |iOS |ready for QA| v7.19|
-|Update badge images & milestones |iOS/Android |in progress| v7.19|
+|Update badge images & milestones |iOS/Android |ready for QA| v7.19|
+|PRO users are seeing missing BITE data and paywall over macros |Android |in progress| v7.19|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
 |Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for QA| v7.20|
