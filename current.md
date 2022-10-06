@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/04/2022 22:20 PT_
+_Updated 10/05/2022 23:59 PT_
 
 The team is working on QA for v7.19 and and development for v7.20.
 
@@ -53,7 +53,7 @@ The team is working on QA for v7.19 and and development for v7.20.
 |App crashes when user taps on the Meal Plans tab |Android |ready for release| v7.19|
 |Progress Chart doesn't show all achieved badges |iOS |ready for QA| v7.19|
 |Update badge images & milestones |iOS/Android |ready for QA| v7.19|
-|PRO users are seeing missing BITE data and paywall over macros |Android |in progress| v7.19|
+|PRO users are seeing missing BITE data and paywall over macros |Android |ready for QA| v7.19|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
 |Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for QA| v7.20|
@@ -65,10 +65,10 @@ The team is working on QA for v7.19 and and development for v7.20.
 |Activity: To update the favorite heart icon to star |Android |ready for QA| v7.20|
 |Free users are able to access restaurant foods on results tab|iOS/Android |ready for QA| v7.20|
 |Zero Bites tab: To improve load time/to show the results when navigating between tabs |iOS |ready for QA| v7.20|
+|Custom recipes: Delete icon disappears while multiselecting ingredients |Android |ready for QA| v7.20|
 |Groups Redesign // Group Details Page|iOS/Android |in progress| v7.20|
 |Groups Redesign // Group Creation Flow|iOS/Android |in progress| v7.20|
 |Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |in progress| v7.20|
-|Custom recipes: Delete icon disappears while multiselecting ingredients |Android |in progress| v7.20|
 |Community // Sharing a group|iOS/Android |to do| v7.20|
 |UX/UI for Private Group Requests/Approvals|iOS/Android |to do| v7.20|
 |Community // Filter Page UI Updates|iOS/Android |to do| v7.20|
