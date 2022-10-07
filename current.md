@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/05/2022 23:59 PT_
+_Updated 10/06/2022 17:45 PT_
 
 The team is working on QA for v7.19 and and development for v7.20.
 
 ***
 
 ### Upcoming Releases
-- v7.19   - October 7, 2022
+- v7.19   - October 12, 2022
 - v7.20   - October 26, 2022
  
 ### Past Releases
@@ -54,6 +54,9 @@ The team is working on QA for v7.19 and and development for v7.20.
 |Progress Chart doesn't show all achieved badges |iOS |ready for QA| v7.19|
 |Update badge images & milestones |iOS/Android |ready for QA| v7.19|
 |PRO users are seeing missing BITE data and paywall over macros |Android |ready for QA| v7.19|
+|High latency when loading groups |api |ready for QA| N/A|
+|Deleting a group emails support asking for a reason |api |ready for QA| N/A|
+|Data not loading consistently |api |to do| N/A|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
 |Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for QA| v7.20|
