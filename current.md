@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/11/2022 20:19 PT_
+_Updated 10/12/2022 18:22 PT_
 
-The team is working on QA for v7.19 and and development for v7.20.
+v7.19 has passed regression on iOS. Android regression is underway. The team rest of the team is working on development for v7.20.
 
 ***
 
@@ -54,10 +54,10 @@ The team is working on QA for v7.19 and and development for v7.20.
 |Progress Chart doesn't show all achieved badges |iOS |ready for release| v7.19|
 |High latency when loading groups |api |ready for release| N/A|
 |Deleting a group emails support asking for a reason |api |ready for release| N/A|
-|Update badge images & milestones |iOS/Android |in progress| v7.19|
+|Update badge images & milestones |iOS/Android |ready for release| v7.19|
+|Progress chart: tracked food shows "no food logged" |iOS |ready for release| v7.19|
+|PRO users are seeing missing BITE data and paywall over macros |Android |ready for QA| v7.19|
 |Data not loading consistently |api |investigating| N/A|
-|PRO users are seeing missing BITE data and paywall over macros |Android |in progress| v7.19|
-|Progress chart: tracked food shows "no food logged" |iOS |in progress| v7.19|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
 |Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for QA| v7.20|
