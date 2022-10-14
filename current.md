@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/12/2022 18:22 PT_
+_Updated 10/13/2022 17:20 PT_
 
-v7.19 has passed regression on iOS. Android regression is underway. The team rest of the team is working on development for v7.20.
+v7.19 has passed regression on iOS and Android. We will release on Monday, Oct 17th. The team is working on development for v7.20.
 
 ***
 
 ### Upcoming Releases
-- v7.19   - October 14, 2022
+- v7.19   - October 17, 2022
 - v7.20   - November 9, 2022
  
 ### Past Releases
@@ -56,8 +56,7 @@ v7.19 has passed regression on iOS. Android regression is underway. The team res
 |Deleting a group emails support asking for a reason |api |ready for release| N/A|
 |Update badge images & milestones |iOS/Android |ready for release| v7.19|
 |Progress chart: tracked food shows "no food logged" |iOS |ready for release| v7.19|
-|PRO users are seeing missing BITE data and paywall over macros |Android |ready for QA| v7.19|
-|Data not loading consistently |api |investigating| N/A|
+|PRO users are seeing missing BITE data and paywall over macros |Android |in progress| v7.19.1|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
 |Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for QA| v7.20|
@@ -75,7 +74,5 @@ v7.19 has passed regression on iOS. Android regression is underway. The team res
 |Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |in progress| v7.20|
 |Community // Sharing a group|iOS/Android |to do| v7.20|
 |UX/UI for Private Group Requests/Approvals|iOS/Android |to do| v7.20|
-|Community // Filter Page UI Updates|iOS/Android |to do| v7.20|
-|The PRO screen is shown twice when tapping on a comment field |iOS |to do| v7.20|
 |Update the rebrand colors for the "Create" buttons |iOS |to do| v7.20|
 |My Foods/Favorites are missing |Android |investigating| TBD|
