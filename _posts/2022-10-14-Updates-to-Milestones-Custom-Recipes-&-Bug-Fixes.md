@@ -15,7 +15,7 @@ We have improved our recipe creation flow to prevent users from accidentally aba
 
 Lastly, we have fixed a few bugs seen on iPad, reduced loading time on our groups pages, and fixed an issue with loading search results on Android.
 
-[Milestone & Badge Update Walkthrough](https://drive.google.com/file/d/1vUOahWeOJiA4JpJJRM1pPPHlLwWNpeyT/view?usp=sharing)
+[Milestone & Badge Updates Walkthrough](https://drive.google.com/file/d/1vUOahWeOJiA4JpJJRM1pPPHlLwWNpeyT/view?usp=sharing)
 
 [Custom Recipe Updates Walkthrough](https://drive.google.com/file/d/1BbZtXekLuGDJI0tmC1lCfuHGcTPVPvwU/view?usp=sharing)
 
