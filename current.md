@@ -4,14 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/13/2022 17:20 PT_
+_Updated 10/14/2022 18:08 PT_
 
-v7.19 has passed regression on iOS and Android. We will release on Monday, Oct 17th. The team is working on development for v7.20.
+v7.19 has passed regression on iOS and Android. We will release on Monday, Oct 17th. The team is working on development for v7.19.1 and v7.20.
 
 ***
 
 ### Upcoming Releases
 - v7.19   - October 17, 2022
+- v7.19.1 - October 19, 2022
 - v7.20   - November 9, 2022
  
 ### Past Releases
