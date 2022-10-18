@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/17/2022 15:01 PT_
+_Updated 10/17/2022 21:01 PT_
 
 v7.19 has begun 7-day rollout on iOS and Android. The team is working on development for v7.19.1 and v7.20.
 
@@ -29,7 +29,6 @@ v7.19 has begun 7-day rollout on iOS and Android. The team is working on develop
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-
 |PRO users are seeing missing BITE data and paywall over macros |Android |in progress| v7.19.1|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
@@ -50,3 +49,5 @@ v7.19 has begun 7-day rollout on iOS and Android. The team is working on develop
 |Community // Sharing a group|iOS/Android |in progress| v7.20|
 |UX/UI for Private Group Requests/Approvals|iOS/Android |in progress | v7.20|
 |Update the rebrand colors for the "Create" buttons |iOS |to do| v7.20|
+|Followers/Following list is showing as 0 on the profile |iOS |to do| v7.20|
+|Update badge icons on progress charts |iOS/Android |to do| v7.20|
