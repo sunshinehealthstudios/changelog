@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/20/2022 17:28 PT_
+_Updated 10/21/2022 18:18 PT_
 
-v7.19 is rolling out on iOS and Android. The team is working on development for v7.19.1 and v7.20.
+v7.19 is rolling out on iOS and Android. v7.19.1 is undergoing regression on Android. The rest of the team is working on development for v7.20.
 
 ***
 
@@ -37,14 +37,14 @@ v7.19 is rolling out on iOS and Android. The team is working on development for 
 |Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for QA| v7.20|
 |Conquer Cravings: Maintain weight doesn't show the allowances appropriately on the "Tracker"|Android |ready for QA| v7.20|
 |Profile incomplete link does not work |Android |ready for QA| v7.20|
-|Community // Invite Friends UI Updates|iOS/Android |ready for QA| v7.20|
 |Community // Notification UI Updates|iOS/Android |ready for QA| v7.20|
 |Improve on significant lag while refreshing the "Tracker" screen after process death |Android |ready for QA| v7.20|
 |Activity: To update the favorite heart icon to star |Android |ready for QA| v7.20|
 |Custom recipes: Delete icon disappears while multiselecting ingredients |Android |ready for QA| v7.20|
-|Groups Redesign // Group Details Page|iOS/Android |ready for QA| v7.20|
+|Community // Sharing a group|iOS/Android |ready for QA| v7.20|
+|Groups Redesign // Group Details Page|iOS/Android |in progress| v7.20|
+|Community // Invite Friends UI Updates|iOS/Android |in progress| v7.20|
 |Groups Redesign // Group Creation Flow|iOS/Android |in progress| v7.20|
-|Community // Sharing a group|iOS/Android |in progress| v7.20|
 |UX/UI for Private Group Requests/Approvals|iOS/Android |in progress | v7.20|
 |Progress Chart: Export Logs to be available as a PRO only feature| iOS/Android |in progress| v7.20|
 |Update badge icons on progress charts |iOS/Android |in progress| v7.20|
