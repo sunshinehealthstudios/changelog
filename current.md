@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/24/2022 18:18 PT_
+_Updated 10/24/2022 16:28 PT_
 
 v7.19 is fully rolled out on iOS. v7.19.1 has been released to 100% of users on Android. The rest of the team is working on development for v7.20.
 
@@ -41,11 +41,11 @@ v7.19 is fully rolled out on iOS. v7.19.1 has been released to 100% of users on 
 |Activity: To update the favorite heart icon to star |Android |ready for QA| v7.20|
 |Custom recipes: Delete icon disappears while multiselecting ingredients |Android |ready for QA| v7.20|
 |Community // Sharing a group|iOS/Android |ready for QA| v7.20|
-|Groups Redesign // Group Details Page|iOS/Android |in progress| v7.20|
+|Groups Redesign // Group Details Page|iOS/Android |ready for QA| v7.20|
+|Update badge icons on progress charts |iOS/Android |ready for QA| v7.20|
 |Community // Invite Friends UI Updates|iOS/Android |in progress| v7.20|
 |Groups Redesign // Group Creation Flow|iOS/Android |in progress| v7.20|
 |UX/UI for Private Group Requests/Approvals|iOS/Android |in progress | v7.20|
 |Progress Chart: Export Logs to be available as a PRO only feature| iOS/Android |in progress| v7.20|
-|Update badge icons on progress charts |iOS/Android |in progress| v7.20|
 |Followers/Following list is showing as 0 on the profile |iOS |to do| v7.20|
 |Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |to do| v7.20|
