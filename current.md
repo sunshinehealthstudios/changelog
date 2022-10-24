@@ -4,17 +4,17 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/21/2022 18:18 PT_
+_Updated 10/24/2022 18:18 PT_
 
-v7.19 is rolling out on iOS and Android. v7.19.1 is undergoing regression on Android. The rest of the team is working on development for v7.20.
+v7.19 is fully rolled out on iOS. v7.19.1 has been released to 100% of users on Android. The rest of the team is working on development for v7.20.
 
 ***
 
 ### Upcoming Releases
-- v7.19.1 - October 21, 2022
 - v7.20   - November 9, 2022
  
 ### Past Releases
+- v7.19.1 - October 24, 2022
 - v7.19   - October 17, 2022
 - v7.18.1 - September 15, 2022
 - v7.18.  - September 8, 2022
@@ -29,7 +29,6 @@ v7.19 is rolling out on iOS and Android. v7.19.1 is undergoing regression on And
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|PRO users are seeing missing BITE data and paywall over macros |Android |ready for QA| v7.19.1|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
 |Zero Bites tab: To improve load time/to show the results when navigating between tabs |iOS |ready for release| v7.20|
