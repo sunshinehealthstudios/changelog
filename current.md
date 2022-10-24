@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 10/24/2022 16:28 PT_
+_Updated 10/24/2022 16:29 PT_
 
 v7.19 is fully rolled out on iOS. v7.19.1 has been released to 100% of users on Android. The rest of the team is working on development for v7.20.
 
@@ -12,6 +12,8 @@ v7.19 is fully rolled out on iOS. v7.19.1 has been released to 100% of users on 
 
 ### Upcoming Releases
 - v7.20   - November 9, 2022
+- v7.21   - November 30, 2022
+- v7.22.  - December 21, 2022
  
 ### Past Releases
 - v7.19.1 - October 24, 2022
@@ -19,9 +21,7 @@ v7.19 is fully rolled out on iOS. v7.19.1 has been released to 100% of users on 
 - v7.18.1 - September 15, 2022
 - v7.18.  - September 8, 2022
 - v7.17.2 - August 24, 2022 (iOS)
-- v7.17.1 - August 17, 2022 (iOS); August 26, 2022 (Android)
-- v7.17   - August 11, 2022
-- v7.16   - July 1, 2022
+
 
 ***
 
