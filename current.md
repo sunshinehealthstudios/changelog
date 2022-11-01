@@ -16,13 +16,11 @@ v7.19.3 has been released to 100% of users on Android. This release should fix a
 - v7.22.  - December 21, 2022
  
 ### Past Releases
-- v7.10.3 - November 1, 2022 (Android)
+- v7.19.3 - November 1, 2022 (Android)
 - v7.19.3 - October 27, 2022 (Android)
 - v7.19.2 - October 25, 2022 (Android)
 - v7.19.1 - October 24, 2022 (Android)
 - v7.19   - October 17, 2022
-- v7.18.1 - September 15, 2022
-- v7.18.  - September 8, 2022
 
 
 ***
