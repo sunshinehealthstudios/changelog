@@ -8,10 +8,10 @@ categories: info
 v7.19.4
 
 ## Overview
-This patch fixes a crash for users who upgrade to Healthi `v7.19.3` on Android 6 devices. It also introduces a function to hide posts in the community so they will no longer appear in any feeds.
+This patch fixes a crash on login for users who upgrade to Healthi on Android 6 devices. It also introduces a function to hide posts in the community so they will no longer appear in any feeds.
 
 ## Details
 
 ### Android
-* Fixed: Android 6 Crash when upgrading to `v7.19.3`
+* Fixed: Android 6 Crash when logging on
 * Added: Ability for users to hide posts in the community so they will no longer appear in their own feed
