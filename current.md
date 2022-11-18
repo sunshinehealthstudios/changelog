@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/14/2022 17:13 PT_
+_Updated 11/17/2022 22:16 PT_
 
-v7.19.5 has been released to 100% of users on Android. This release introduces a brand new data synchronization system that greatly improves the speed of sending and receiving data from our servers. We have also included visuals within the app to show the progress, status, and controls to restart and fix any syncing problems that may occur. The Android team is now investigating an issue with keto meal plans that will be fixed in a v7.19.6 patch. The rest of the team is working on development for v7.20.
+v7.19.5 has been released to 100% of users on Android. The Android team is now working on a v7.19.6 patch that will fix issues with applying discount codes. They are also still investigating an issue with keto meal plans. The rest of the team is working on development for v7.20.
 
 ***
 
 ### Upcoming Releases
-- v7.19.6 - November 16, 2022
+- v7.19.6 - November 22, 2022
 - v7.20   - November 30, 2022
 - v7.21   - December 21, 2022
 - v7.22.  - January 11, 2023
@@ -32,6 +32,8 @@ v7.19.5 has been released to 100% of users on Android. This release introduces a
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
+|Keto Meal Plans not loading in production|Android |ready for QA| v7.19.6|
+|Discount code not working properly |Android |to do| v7.19.6|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
 |Zero Bites tab: To improve load time/to show the results when navigating between tabs |iOS |ready for release| v7.20|
