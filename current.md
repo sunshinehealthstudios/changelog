@@ -4,17 +4,17 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/17/2022 22:16 PT_
+_Updated 11/21/2022 21:10 PT_
 
-v7.19.5 has been released to 100% of users on Android. The Android team is now working on a v7.19.6 patch that will fix issues with applying discount codes. They are also still investigating an issue with keto meal plans. The rest of the team is working on development for v7.20.
+The Android team is now working on a v7.19.6 patch that will fix issues with how prices are displayed and upgrade deep links. They are also still investigating issues with promo codes and keto meal plans. The rest of the team is working on development for v7.20.
 
 ***
 
 ### Upcoming Releases
 - v7.19.6 - November 22, 2022
-- v7.20   - November 30, 2022
-- v7.21   - December 21, 2022
-- v7.22.  - January 11, 2023
+- v7.20   - December 7, 2022
+- v7.21   - December 28, 2022
+- v7.22.  - January 18, 2023
  
 ### Past Releases
 - v7.19.5 - November 14, 2022 (Android)
@@ -49,8 +49,9 @@ v7.19.5 has been released to 100% of users on Android. The Android team is now w
 |Update badge icons on progress charts |iOS/Android |ready for QA| v7.20|
 |Groups Redesign // Group Creation Flow|iOS/Android |ready for QA| v7.20|
 |Progress Chart: Export Logs to be available as a PRO only feature| iOS/Android |ready for QA| v7.20|
+|Discount code not working properly |Android |ready for QA| v7.20|
 |Community // Invite Friends UI Updates|iOS/Android |in progress| v7.20|
 |UX/UI for Private Group Requests/Approvals|iOS/Android |in progress | v7.20|
+|Keto Meal Plans not loading in production|Android |in progress| v7.20|
 |Custom recipes: Delete icon disappears while multiselecting ingredients |Android |to do| v7.20|
-|Followers/Following list is showing as 0 on the profile |iOS |to do| v7.20|
 |Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |to do| v7.21|
