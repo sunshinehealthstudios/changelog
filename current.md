@@ -32,8 +32,7 @@ The Android team is now working on a v7.19.6 patch that will fix issues with how
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Keto Meal Plans not loading in production|Android |ready for QA| v7.19.6|
-|Discount code not working properly |Android |to do| v7.19.6|
+|Upgrade deep links not working properly |Android |ready for QA| v7.19.6|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
 |Zero Bites tab: To improve load time/to show the results when navigating between tabs |iOS |ready for release| v7.20|
