@@ -4,19 +4,19 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/21/2022 21:10 PT_
+_Updated 11/22/2022 17:54 PT_
 
-The Android team is now working on a v7.19.6 patch that will fix issues with how prices are displayed and upgrade deep links. They are also still investigating issues with promo codes and keto meal plans. The rest of the team is working on development for v7.20.
+v7.19.6 has been released to 100% of users on Android. It fixes issues with how prices are displayed and upgrade deep links. The team is now working on development and QA for v7.20.
 
 ***
 
 ### Upcoming Releases
-- v7.19.6 - November 22, 2022
 - v7.20   - December 7, 2022
 - v7.21   - December 28, 2022
 - v7.22.  - January 18, 2023
  
 ### Past Releases
+- v7.19.6 - November 22, 2022
 - v7.19.5 - November 14, 2022 (Android)
 - v7.19.4 - November 1, 2022 (Android)
 - v7.19.1 - October 27, 2022 (iOS)
@@ -32,7 +32,6 @@ The Android team is now working on a v7.19.6 patch that will fix issues with how
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Upgrade deep links not working properly |Android |ready for QA| v7.19.6|
 |Voice Search: Rebrand colors for "not found" screen|Android |ready for release| v7.20|
 |Meal Plan Comments: After posting any Comment, it keeps loading/spinning |Android |ready for release| v7.20|
 |Zero Bites tab: To improve load time/to show the results when navigating between tabs |iOS |ready for release| v7.20|
