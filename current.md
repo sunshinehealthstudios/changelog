@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/22/2022 17:54 PT_
+_Updated 11/28/2022 21:55 PT_
 
-v7.19.6 has been released to 100% of users on Android. It fixes issues with how prices are displayed and upgrade deep links. The team is now working on development and QA for v7.20.
+The team is working on development and QA for v7.20 and v7.21.
 
 ***
 
@@ -48,8 +48,24 @@ v7.19.6 has been released to 100% of users on Android. It fixes issues with how 
 |Groups Redesign // Group Creation Flow|iOS/Android |ready for QA| v7.20|
 |Progress Chart: Export Logs to be available as a PRO only feature| iOS/Android |ready for QA| v7.20|
 |Discount code not working properly |Android |ready for QA| v7.20|
+|UX/UI for Private Group Requests/Approvals|iOS/Android |ready for QA | v7.20|
+|Keto Meal Plans not loading in production|Android |ready for QA| v7.20|
+|Custom recipes: Delete icon disappears while multiselecting ingredients |Android |ready for QA| v7.20|
 |Community // Invite Friends UI Updates|iOS/Android |in progress| v7.20|
-|UX/UI for Private Group Requests/Approvals|iOS/Android |in progress | v7.20|
-|Keto Meal Plans not loading in production|Android |in progress| v7.20|
-|Custom recipes: Delete icon disappears while multiselecting ingredients |Android |to do| v7.20|
+|Price test: show price per month breakdown|Android |in progress| v7.20|
+|Food reporting|iOS/Android |in progress| v7.21|
 |Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |to do| v7.21|
+|PRO screen is shown twice when tapping on a comment field |iOS|to do| v7.21|
+|Show Progress: Tracking first food doesn't show up |iOS|to do| v7.21|
+|Health Connect Integration for Step & Weight Data |Android|to do| v7.21|
+|Garmin Integration for Step & Weight Data |Android|to do| v7.21|
+|Weight Tracker Screen doesnt close after tracking the screen |Android|to do| v7.21|
+|Share Milestone: Missing badge image on the social sharing email |Android|to do| v7.21|
+|Update the social sharing subject line while sharing milestones |iOS|to do| v7.21|
+|Not seeing any badges/milestones achieved when visiting other's profiles |Android|to do| v7.21|
+|Progress Chart: Date bar disappears and looks inconsistent when tapping "All" and other options |iOS|to do| v7.21|
+|Deleting a group ends up in emailing support |iOS|to do| v7.21|
+|Badges/Milestones: Percentage hierarchy is not listed on the profile |Android|to do| v7.21|
+|Deleting a group doesn't ask for any confirmation|Android|to do| v7.21|
+|Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|to do| v7.21|
+|iPad: Blank screen on Activity/Comments/Blog |iOS|to do| v7.21|
