@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/28/2022 21:55 PT_
+_Updated 11/29/2022 22:53 PT_
 
 The team is working on development and QA for v7.20 and v7.21.
 
@@ -49,10 +49,12 @@ The team is working on development and QA for v7.20 and v7.21.
 |Progress Chart: Export Logs to be available as a PRO only feature| iOS/Android |ready for QA| v7.20|
 |Discount code not working properly |Android |ready for QA| v7.20|
 |UX/UI for Private Group Requests/Approvals|iOS/Android |ready for QA | v7.20|
-|Keto Meal Plans not loading in production|Android |ready for QA| v7.20|
 |Custom recipes: Delete icon disappears while multiselecting ingredients |Android |ready for QA| v7.20|
 |Community // Invite Friends UI Updates|iOS/Android |in progress| v7.20|
 |Price test: show price per month breakdown|Android |in progress| v7.20|
+|Keto Meal Plans not loading in production|Android |in progress| v7.20|
+|Menu panel exapnds after updating to PRO |iOS |to do| v7.20|
+|Groups members are duplicated|iOS |to do| v7.20|
 |Food reporting|iOS/Android |in progress| v7.21|
 |Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |to do| v7.21|
 |PRO screen is shown twice when tapping on a comment field |iOS|to do| v7.21|
