@@ -40,7 +40,6 @@ The team is working on development and QA for v7.20 and v7.21.
 |Progress Chart: Export Logs to be available as a PRO only feature| iOS/Android |ready for release| v7.20|
 |Profile incomplete link does not work |Android |ready for release| v7.20|
 |Menu panel exapnds after updating to PRO |iOS |ready for release| v7.20|
-
 |Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for QA| v7.20|
 |Conquer Cravings: Maintain weight doesn't show the allowances appropriately on the "Tracker"|Android |ready for QA| v7.20|
 |Community // Notification UI Updates|iOS/Android |ready for QA| v7.20|
