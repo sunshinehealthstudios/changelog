@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 11/30/2022 21:41 PT_
+_Updated 12/1/2022 16:46 PT_
 
 The team is working on development and QA for v7.20 and v7.21.
 
@@ -52,11 +52,11 @@ The team is working on development and QA for v7.20 and v7.21.
 |Discount code not working properly |Android |ready for QA| v7.20|
 |UX/UI for Private Group Requests/Approvals|iOS/Android |ready for QA | v7.20|
 |Community // Invite Friends UI Updates|iOS/Android |ready for QA| v7.20|
-|Custom recipes: Delete icon disappears while multiselecting ingredients |Android |in progress| v7.20|
-|Groups members are duplicated|iOS |to do| v7.20|
-|Searching for Private Group does not get listed on the search results|api |to do| v7.20|
-|Private group post displayed when the user taps on the mention under notification|iOS |to do| v7.20|
-|Private group ID is not set/displayed on the feed|Android |to do| v7.20|
+|Groups members are duplicated |iOS |ready for QA| v7.20|
+|Custom recipes: Delete icon disappears while multiselecting ingredients |Android |ready for QA| v7.20|
+|Searching for Private Group does not get listed on the search results|api |ready for QA| v7.20|
+|Private group post displayed when the user taps on the mention under notification|iOS |in progress| v7.20|
+|Private group ID is not set/displayed on the feed|Android |in progress| v7.20|
 |Food reporting|iOS/Android |in progress| v7.21|
 |Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |to do| v7.21|
 |PRO screen is shown twice when tapping on a comment field |iOS|to do| v7.21|
