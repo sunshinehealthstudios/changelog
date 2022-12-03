@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/1/2022 16:46 PT_
+_Updated 12/2/2022 18:39 PT_
 
 The team is working on development and QA for v7.20 and v7.21.
 
 ***
 
 ### Upcoming Releases
-- v7.20   - December 7, 2022
+- v7.20   - December 9, 2022
 - v7.21   - December 28, 2022
 - v7.22.  - January 18, 2023
  
@@ -48,20 +48,20 @@ The team is working on development and QA for v7.20 and v7.21.
 |Community // Sharing a group |iOS/Android |ready for QA| v7.20|
 |Groups Redesign // Group Details Page|iOS/Android |ready for QA| v7.20|
 |Update badge icons on progress charts |iOS/Android |ready for QA| v7.20|
-|Groups Redesign // Group Creation Flow|iOS/Android |ready for QA| v7.20|
 |Discount code not working properly |Android |ready for QA| v7.20|
-|UX/UI for Private Group Requests/Approvals|iOS/Android |ready for QA | v7.20|
 |Community // Invite Friends UI Updates|iOS/Android |ready for QA| v7.20|
 |Groups members are duplicated |iOS |ready for QA| v7.20|
 |Custom recipes: Delete icon disappears while multiselecting ingredients |Android |ready for QA| v7.20|
-|Searching for Private Group does not get listed on the search results|api |ready for QA| v7.20|
-|Private group post displayed when the user taps on the mention under notification|iOS |in progress| v7.20|
-|Private group ID is not set/displayed on the feed|Android |in progress| v7.20|
+|Private group post displayed when the user taps on the mention under notification|iOS |ready for QA| v7.20|
+|Private group ID is not set/displayed on the feed|Android |ready for QA| v7.20|
+|Groups Redesign // Group Creation Flow|iOS/Android |in progress| v7.20|
+|Searching for Private Group does not get listed on the search results|api |in progress| v7.20|
+|UX/UI for Private Group Requests/Approvals|iOS/Android |in progress | v7.20|
 |Food reporting|iOS/Android |in progress| v7.21|
+|Health Connect Integration for Step & Weight Data |Android|in progress| v7.21|
 |Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |to do| v7.21|
 |PRO screen is shown twice when tapping on a comment field |iOS|to do| v7.21|
 |Show Progress: Tracking first food doesn't show up |iOS|to do| v7.21|
-|Health Connect Integration for Step & Weight Data |Android|to do| v7.21|
 |Garmin Integration for Step & Weight Data |Android|to do| v7.21|
 |Weight Tracker Screen doesnt close after tracking the screen |Android|to do| v7.21|
 |Share Milestone: Missing badge image on the social sharing email |Android|to do| v7.21|
