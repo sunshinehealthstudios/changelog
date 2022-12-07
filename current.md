@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/6/2022 09:50 PT_
+_Updated 12/6/2022 22:45 PT_
 
 The team is working on development and QA for v7.20 and v7.21.
 
@@ -45,7 +45,7 @@ The team is working on development and QA for v7.20 and v7.21.
 |Custom recipes: Delete icon disappears while multiselecting ingredients |Android |ready for release| v7.20|
 |Private group ID is not set/displayed on the feed|Android |ready for release| v7.20|
 |Searching for Private Group does not get listed on the search results|api |ready for release| v7.20|
-|Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for QA| v7.20|
+|Tracker screen: Date selected on the calendar does not revert back after re-opening|Android |ready for release| v7.20|
 |Conquer Cravings: Maintain weight doesn't show the allowances appropriately on the "Tracker"|Android |ready for QA| v7.20|
 |Community // Notification UI Updates|iOS/Android |ready for QA| v7.20|
 |Improve on significant lag while refreshing the "Tracker" screen after process death |Android |ready for QA| v7.20|
@@ -54,9 +54,15 @@ The team is working on development and QA for v7.20 and v7.21.
 |Discount code not working properly |Android |ready for QA| v7.20|
 |Private group post displayed when the user taps on the mention under notification|iOS |ready for QA| v7.20|
 |UX/UI for Private Group Requests/Approvals|iOS/Android |ready for QA | v7.20|
+|Community // Invite Friends UI Updates|iOS/Android |ready for QA| v7.20|
 |Groups Redesign // Group Details Page|iOS/Android |in progress| v7.20|
-|Community // Invite Friends UI Updates|iOS/Android |in progress| v7.20|
 |Groups Redesign // Group Creation Flow|iOS/Android |in progress| v7.20|
+|Sync error appears - no option to restart sync |Android |in progress| v7.20|
+|Android 12: Tapping on "+" to share a media post doesn't respond |Android |in progress| v7.20|
+|Deleting a group that was shared in the Community is still active and allows users request to join|iOS/Android |to do| v7.20|
+|Group Notifications: Tapping on "approved/declined" to show the group details screen |Android |to do| v7.20|
+|Android 13: No option to select media again while posting |Android |to do| v7.20|
+|Group Notifications: To update as "[username] approved/declined to join [group name]" |api |to do| v7.20|
 |Food reporting|iOS/Android |in progress| v7.21|
 |Health Connect Integration for Step & Weight Data |Android|in progress| v7.21|
 |Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |to do| v7.21|
