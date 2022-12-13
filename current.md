@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/9/2022 20:07 PT_
+_Updated 12/12/2022 22:40 PT_
 
-The team is working on development and QA for v7.20 and v7.21.
+The team is working on QA for v7.20 and development for v7.21 and v7.22.
 
 ***
 
 ### Upcoming Releases
-- v7.20   - December 14, 2022
+- v7.20   - December 15, 2022
 - v7.21   - December 28, 2022
 - v7.22.  - January 18, 2023
  
@@ -20,10 +20,6 @@ The team is working on development and QA for v7.20 and v7.21.
 - v7.19.5 - November 14, 2022 (Android)
 - v7.19.4 - November 1, 2022 (Android)
 - v7.19.1 - October 27, 2022 (iOS)
-- v7.19.3 - October 27, 2022 (Android)
-- v7.19.2 - October 25, 2022 (Android)
-- v7.19.1 - October 24, 2022 (Android)
-- v7.19   - October 17, 2022
 
 
 ***
@@ -55,29 +51,28 @@ The team is working on development and QA for v7.20 and v7.21.
 |Private group post displayed when the user taps on the mention under notification|iOS |ready for release| v7.20|
 |Sync error appears - no option to restart sync |Android |ready for release| v7.20|
 |Deleting a group that was shared in the Community is still active and allows users request to join|iOS/Android |ready for release| v7.20|
+|Community // Notification UI Updates|iOS/Android |ready for release| v7.20|
 |Conquer Cravings: Maintain weight doesn't show the allowances appropriately on the "Tracker"|Android |ready for QA| v7.20|
-|Community // Notification UI Updates|iOS/Android |ready for QA| v7.20|
 |Activity: To update the favorite heart icon to star |Android |ready for QA| v7.20|
 |Discount code not working properly |Android |ready for QA| v7.20|
-|Community // Invite Friends UI Updates|iOS/Android |ready for QA| v7.20|
-|Groups Redesign // Group Details Page|iOS/Android |ready for QA| v7.20|
-|Android 12: Tapping on "+" to share a media post doesn't respond |Android |in progress| v7.20|
-|Tapping on "My Groups/All Groups" doesn't show the list appropriately first time |Android |in progress| v7.20|
-|Groups Redesign // Group Creation Flow|iOS/Android |in progress| v7.20|
-|Food reporting|iOS/Android |in progress| v7.21|
+|Android 12: Tapping on "+" to share a media post doesn't respond |Android |ready for QA| v7.20|
+|Tapping on "My Groups/All Groups" doesn't show the list appropriately first time |Android |ready for QA| v7.20|
+|Groups Redesign // Group Creation Flow|iOS/Android |ready for QA| v7.20|
+|Community // Invite Friends UI Updates|iOS/Android |in progress| v7.20|
+|Groups Redesign // Group Details Page|iOS/Android |in progress| v7.20|
 |Health Connect Integration for Step & Weight Data |Android|in progress| v7.21|
-|Before and After - Weight gets modified when the user edits the photos and the weight in the post |Android |to do| v7.21|
-|PRO screen is shown twice when tapping on a comment field |iOS|to do| v7.21|
-|Show Progress: Tracking first food doesn't show up |iOS|to do| v7.21|
 |Garmin Integration for Step & Weight Data |Android|to do| v7.21|
-|Weight Tracker Screen doesnt close after tracking the screen |Android|to do| v7.21|
-|Share Milestone: Missing badge image on the social sharing email |Android|to do| v7.21|
-|Update the social sharing subject line while sharing milestones |iOS|to do| v7.21|
-|Not seeing any badges/milestones achieved when visiting other's profiles |Android|to do| v7.21|
-|Progress Chart: Date bar disappears and looks inconsistent when tapping "All" and other options |iOS|to do| v7.21|
-|Deleting a group ends up in emailing support |iOS|to do| v7.21|
-|Badges/Milestones: Percentage hierarchy is not listed on the profile |Android|to do| v7.21|
-|Deleting a group doesn't ask for any confirmation|Android|to do| v7.21|
-|Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|to do| v7.21|
-|iPad: Blank screen on Activity/Comments/Blog |iOS|to do| v7.21|
-|Price test: show price per month breakdown|Android |in progress| v7.21|
+|Food reporting|iOS/Android |in progress| v7.22|
+|Price test: show price per month breakdown|Android |to do| v7.22|
+|PRO screen is shown twice when tapping on a comment field |iOS|to do| v7.22|
+|Show Progress: Tracking first food doesn't show up |iOS|to do| v7.22|
+|Weight Tracker Screen doesnt close after tracking the screen |Android|to do| v7.22|
+|Share Milestone: Missing badge image on the social sharing email |Android|to do| v7.22|
+|Update the social sharing subject line while sharing milestones |iOS|to do| v7.22|
+|Not seeing any badges/milestones achieved when visiting other's profiles |Android|to do| v7.22|
+|Progress Chart: Date bar disappears and looks inconsistent when tapping "All" and other options |iOS|to do| v7.22|
+|Deleting a group ends up in emailing support |iOS|to do| v7.22|
+|Badges/Milestones: Percentage hierarchy is not listed on the profile |Android|to do| v7.22|
+|Deleting a group doesn't ask for any confirmation|Android|to do| v7.22|
+|Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|to do| v7.22|
+|iPad: Blank screen on Activity/Comments/Blog |iOS|to do| v7.22|
