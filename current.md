@@ -60,6 +60,8 @@ The team is working on QA for v7.20 and development for v7.21 and v7.22.
 |Activity: To update the favorite heart icon to star |Android |in progress| v7.20|
 |Discount code not working properly |Android |in progress| v7.20|
 |Community // Invite Friends UI Updates|iOS/Android |in progress| v7.20|
+|Apple Health Steps are not syncing appropriately |iOS |to do| v7.20|
+|Notifications: Already being a group member, still shows a pop up to join the group |iOS |to do| v7.20|
 |Health Connect Integration for Step & Weight Data |Android|in progress| v7.21|
 |Garmin Integration for Step & Weight Data |Android|to do| v7.21|
 |Food reporting|iOS/Android |in progress| v7.22|
