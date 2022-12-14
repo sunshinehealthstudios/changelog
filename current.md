@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/12/2022 22:40 PT_
+_Updated 12/13/2022 23:29 PT_
 
 The team is working on QA for v7.20 and development for v7.21 and v7.22.
 
@@ -52,14 +52,14 @@ The team is working on QA for v7.20 and development for v7.21 and v7.22.
 |Sync error appears - no option to restart sync |Android |ready for release| v7.20|
 |Deleting a group that was shared in the Community is still active and allows users request to join|iOS/Android |ready for release| v7.20|
 |Community // Notification UI Updates|iOS/Android |ready for release| v7.20|
+|Groups Redesign // Group Details Page|iOS/Android |ready for release| v7.20|
 |Conquer Cravings: Maintain weight doesn't show the allowances appropriately on the "Tracker"|Android |ready for QA| v7.20|
-|Activity: To update the favorite heart icon to star |Android |ready for QA| v7.20|
-|Discount code not working properly |Android |ready for QA| v7.20|
 |Android 12: Tapping on "+" to share a media post doesn't respond |Android |ready for QA| v7.20|
 |Tapping on "My Groups/All Groups" doesn't show the list appropriately first time |Android |ready for QA| v7.20|
 |Groups Redesign // Group Creation Flow|iOS/Android |ready for QA| v7.20|
+|Activity: To update the favorite heart icon to star |Android |in progress| v7.20|
+|Discount code not working properly |Android |in progress| v7.20|
 |Community // Invite Friends UI Updates|iOS/Android |in progress| v7.20|
-|Groups Redesign // Group Details Page|iOS/Android |in progress| v7.20|
 |Health Connect Integration for Step & Weight Data |Android|in progress| v7.21|
 |Garmin Integration for Step & Weight Data |Android|to do| v7.21|
 |Food reporting|iOS/Android |in progress| v7.22|
