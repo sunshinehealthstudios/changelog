@@ -4,15 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/13/2022 23:29 PT_
+_Updated 12/14/2022 17:43 PT_
 
-The team is working on QA for v7.20 and development for v7.21 and v7.22.
+v7.20 has passed regression on iOS and has been submitted for review. The team is working on QA for v7.20 on Android and development for v7.21 and v7.22.
 
 ***
 
 ### Upcoming Releases
-- v7.20   - December 15, 2022
-- v7.21   - December 28, 2022
+- v7.20   - December 21, 2022
+- v7.21   - January 11, 2022
 - v7.22.  - January 18, 2023
  
 ### Past Releases
@@ -53,17 +53,16 @@ The team is working on QA for v7.20 and development for v7.21 and v7.22.
 |Deleting a group that was shared in the Community is still active and allows users request to join|iOS/Android |ready for release| v7.20|
 |Community // Notification UI Updates|iOS/Android |ready for release| v7.20|
 |Groups Redesign // Group Details Page|iOS/Android |ready for release| v7.20|
+|Tapping on "My Groups/All Groups" doesn't show the list appropriately first time |Android |ready for release| v7.20|
+|Groups Redesign // Group Creation Flow|iOS/Android |ready for release| v7.20|
+|Apple Health Steps are not syncing appropriately |iOS |ready for release| v7.20|
+|Notifications: Already being a group member, still shows a pop up to join the group |iOS |ready for release| v7.20|
 |Conquer Cravings: Maintain weight doesn't show the allowances appropriately on the "Tracker"|Android |ready for QA| v7.20|
 |Android 12: Tapping on "+" to share a media post doesn't respond |Android |ready for QA| v7.20|
-|Tapping on "My Groups/All Groups" doesn't show the list appropriately first time |Android |ready for QA| v7.20|
-|Groups Redesign // Group Creation Flow|iOS/Android |ready for QA| v7.20|
-|Activity: To update the favorite heart icon to star |Android |in progress| v7.20|
+|Activity: To update the favorite heart icon to star |Android |ready for QA| v7.20|
 |Discount code not working properly |Android |in progress| v7.20|
 |Community // Invite Friends UI Updates|iOS/Android |in progress| v7.20|
-|Apple Health Steps are not syncing appropriately |iOS |to do| v7.20|
-|Notifications: Already being a group member, still shows a pop up to join the group |iOS |to do| v7.20|
 |Health Connect Integration for Step & Weight Data |Android|in progress| v7.21|
-|Garmin Integration for Step & Weight Data |Android|to do| v7.21|
 |Food reporting|iOS/Android |in progress| v7.22|
 |Price test: show price per month breakdown|Android |to do| v7.22|
 |PRO screen is shown twice when tapping on a comment field |iOS|to do| v7.22|
