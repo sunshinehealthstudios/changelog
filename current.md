@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/15/2022 18:30 PT_
+_Updated 12/18/2022 22:18 PT_
 
 v7.20 been released on iOS. The team is working on QA for v7.20 on Android and development for v7.21 and v7.22.
 
@@ -53,7 +53,8 @@ v7.20 been released on iOS. The team is working on QA for v7.20 on Android and d
 |Community // Invite Friends UI Updates|iOS/Android |ready for release| v7.20|
 |Activity: To update the favorite heart icon to star |Android |ready for release| v7.20|
 |Discount code not working properly |Android |ready for release| v7.20|
-|Android 12: Tapping on "+" to share a media post doesn't respond |Android |in progress| v7.20|
+|Android 12: Tapping on "+" to share a media post doesn't respond |Android |ready for release| v7.20|
+|Follow link still visible for already followed users |API|ready for QA| v7.21|
 |Health Connect Integration for Step & Weight Data |Android|in progress| v7.21|
 |Food reporting|iOS/Android |in progress| v7.22|
 |Price test: show price per month breakdown|Android |to do| v7.22|
@@ -69,3 +70,5 @@ v7.20 been released on iOS. The team is working on QA for v7.20 on Android and d
 |Deleting a group doesn't ask for any confirmation|Android|to do| v7.22|
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|to do| v7.22|
 |iPad: Blank screen on Activity/Comments/Blog |iOS|to do| v7.22|
+|My Food: Serving Sizes show as 0.0/0 BITES for most of the saved items |iOS|to do| v7.22|
+|Retain the previous state of the screen when navigating between apps |Android|to do| v7.22|
