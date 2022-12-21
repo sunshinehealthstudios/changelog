@@ -4,15 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/19/2022 23:37 PT_
+_Updated 12/20/2022 17:57 PT_
 
-v7.20 been released on iOS. Android has passed regression and will undergo a quick beta test before release. The team is now working on development for v7.21 and v7.22.
+Android is undergoing beta testing but is otherwise ready for release. We will release tomorrow if no issues arise. The team is working on development for v7.21 and v7.22.
 
 ***
 
 ### Upcoming Releases
 - v7.20   - December 21, 2022 (Android)
-- v7.21   - January 11, 2022
+- v7.21   - January 11, 2022 (Android)
 - v7.22.  - January 18, 2023
  
 ### Past Releases
