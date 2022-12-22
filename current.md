@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/20/2022 17:57 PT_
+_Updated 12/21/2022 17:38 PT_
 
 Android is undergoing beta testing but is otherwise ready for release. We will release tomorrow if no issues arise. The team is working on development for v7.21 and v7.22.
 
 ***
 
 ### Upcoming Releases
-- v7.20   - December 21, 2022 (Android)
+- v7.20   - December 22, 2022 (Android)
 - v7.21   - January 11, 2022 (Android)
 - v7.22.  - January 18, 2023
  
@@ -54,9 +54,11 @@ Android is undergoing beta testing but is otherwise ready for release. We will r
 |Activity: To update the favorite heart icon to star |Android |ready for release| v7.20|
 |Discount code not working properly |Android |ready for release| v7.20|
 |Android 12: Tapping on "+" to share a media post doesn't respond |Android |ready for release| v7.20|
-|Follow link still visible for already followed users |API|ready for QA| v7.21|
+|Groups: Healthi resources is not loading more than two posts |Android |ready for release| v7.20|
+|Follow link still visible for already followed users |API|ready for release| v7.21|
 |Health Connect Integration for Step & Weight Data |Android|in progress| v7.21|
 |Food reporting|iOS/Android |in progress| v7.22|
+|Add badge for unread posts next to each group in "My Groups" |iOS/Android|in progress| v7.21|
 |Price test: show price per month breakdown|Android |to do| v7.22|
 |PRO screen is shown twice when tapping on a comment field |iOS|to do| v7.22|
 |Show Progress: Tracking first food doesn't show up |iOS|to do| v7.22|
