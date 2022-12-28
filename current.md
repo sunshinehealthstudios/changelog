@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/26/2022 17:33 PT_
+_Updated 12/27/2022 17:12 PT_
 
-v7.20 began 7-day rollout on Android on 12/24. The team is working on development for v7.21 and v7.22.
+v7.20 will complete 7-day rollout on Android on 12/30. The team is working on development for v7.21 and v7.22.
 
 ***
 
@@ -28,6 +28,8 @@ v7.20 began 7-day rollout on Android on 12/24. The team is working on developmen
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
 |Follow link still visible for already followed users |API|ready for release| v7.21|
+|Users allowed to share group without updating profile |Android|ready for QA| v7.21|
+|Users with incomplete profile are allowed to reply to comments |Android|ready for QA| v7.21|
 |Health Connect Integration for Step & Weight Data |Android|in progress| v7.21|
 |Food reporting|iOS/Android |in progress| v7.22|
 |Add badge for unread posts next to each group in "My Groups" |iOS/Android|in progress| v7.21|
