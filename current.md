@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/27/2022 17:12 PT_
+_Updated 12/28/2022 17:20 PT_
 
 v7.20 will complete 7-day rollout on Android on 12/30. The team is working on development for v7.21 and v7.22.
 
