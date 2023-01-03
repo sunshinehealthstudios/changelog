@@ -4,15 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 12/29/2022 19:33 PT_
+_Updated 1/02/2023 20:56 PT_
 
-v7.20 will complete 7-day rollout on Android on 12/30. The team is working on development for v7.21 and v7.22.
+v7.20 rollout is complete on iOS and Android. The team is working on patch fixes for v7.20 and development for v7.21.
 
 ***
 
 ### Upcoming Releases
-- v7.21   - January 11, 2022 (Android)
-- v7.22.  - January 18, 2023
+- v7.21   - January 18, 2023
+- v7.22.  - February 8, 2023
  
 ### Past Releases
 - v7.20   - December 24, 2022 (Android)
@@ -30,9 +30,8 @@ v7.20 will complete 7-day rollout on Android on 12/30. The team is working on de
 |Follow link still visible for already followed users |API|ready for release| v7.21|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v7.21|
 |Users allowed to share group without updating profile |Android|ready for QA| v7.21|
-|Health Connect Integration for Step & Weight Data |Android|in progress| v7.21|
-|Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|to do| v7.21|
-|Food reporting|iOS/Android |in progress| v7.22|
+|Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for QA| v7.21|
+|Food reporting|iOS/Android |in progress| v7.21|
 |Add badge for unread posts next to each group in "My Groups" |iOS/Android|in progress| v7.21|
 |Price test: show price per month breakdown|Android |to do| v7.22|
 |PRO screen is shown twice when tapping on a comment field |iOS|to do| v7.22|
@@ -48,3 +47,4 @@ v7.20 will complete 7-day rollout on Android on 12/30. The team is working on de
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|to do| v7.22|
 |iPad: Blank screen on Activity/Comments/Blog |iOS|to do| v7.22|
 |Retain the previous state of the screen when navigating between apps |Android|to do| v7.22|
+|Health Connect Integration for Step & Weight Data |Android|ready for QA| TBD|
