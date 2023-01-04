@@ -4,13 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/02/2023 20:56 PT_
+_Updated 1/03/2023 22:03 PT_
 
 v7.20 rollout is complete on iOS and Android. The team is working on patch fixes for v7.20 and development for v7.21.
 
 ***
 
 ### Upcoming Releases
+- v7.20.1 - TBD
 - v7.21   - January 18, 2023
 - v7.22.  - February 8, 2023
  
@@ -27,6 +28,8 @@ v7.20 rollout is complete on iOS and Android. The team is working on patch fixes
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
+|Error Message when Attempting to Export Logs |Android|to do| v7.20.1|
+|Email us - Yahoo Mail app flickering when tapping on Email Us |Android|to do| v7.20.1|
 |Follow link still visible for already followed users |API|ready for release| v7.21|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v7.21|
 |Users allowed to share group without updating profile |Android|ready for QA| v7.21|
