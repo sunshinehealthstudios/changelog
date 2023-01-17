@@ -6,13 +6,13 @@ permalink: /current/
 
 _Updated 1/13/2023 19:00 PT_
 
-v7.20.1 passed regression on Android and will begin rollout on Tuesday. The team is working on implementing backend updates to search which will be imeplemented in an internal v7.20.2 beta for extended testing.
+v7.20.1 passed regression on Android and will begin rollout on Tuesday. The team is working on implementing backend updates to search which will be implemented in an internal v7.20.2 beta for extended testing.
 
 ***
 
 ### Upcoming Releases
 - v7.20.1 - January 17, 2023
-- v7.20.2 - January 23, 2023
+- v7.20.2 - January 23, 2023 (beta)
 - v7.21   - February 1, 2023
 - v7.22.  - February 22, 2023
  
