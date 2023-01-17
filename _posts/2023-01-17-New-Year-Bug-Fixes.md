@@ -8,7 +8,7 @@ categories: info
 v7.20.1
 
 ## Overview
-This release fixes bugs with exporting logs, editing meal plans, and adjusting daily allowance. It also includes appi fixes for syncing fitbit, creating recipes, and loading group posts.
+This release fixes bugs with exporting logs, editing meal plans, and adjusting daily allowance. It also includes api fixes for syncing fitbit, creating recipes, and loading group posts.
 
 ## Details
 
