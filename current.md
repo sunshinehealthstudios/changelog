@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/17/2023 17:36 PT_
+_Updated 1/18/2023 13:46 PT_
 
 v7.20.1 began 7-day rollout on Android. The team is working on backend updates to search which will be implemented in an internal v7.20.2 beta for extended testing.
 
@@ -13,7 +13,7 @@ v7.20.1 began 7-day rollout on Android. The team is working on backend updates t
 ### Upcoming Releases
 - v7.20.2 - January 23, 2023 (beta)
 - v7.21   - February 1, 2023
-- v7.22.  - February 22, 2023
+- v8.0    - February 22, 2023
  
 ### Past Releases
 - v7.20.1 - January 17, 2023
@@ -35,9 +35,9 @@ v7.20.1 began 7-day rollout on Android. The team is working on backend updates t
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v7.21|
 |Food reporting|iOS/Android |ready for QA| v7.21|
 |Add badge for unread posts next to each group in "My Groups" |iOS/Android|ready for QA| v7.21|
-|Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for QA| v7.22|
-|Retain the previous state of the custom food screen when navigating between apps |Android|ready for QA| v7.22|
-|Retain the previous state of the calculator screen when navigating between apps |Android|ready for QA| v7.22|
-|Price test: show price per month breakdown|Android |in progress| v7.22|
-|Search v2 Redesign|iOS/Android |to do| v7.22|
+|Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for QA| v8.0|
+|Retain the previous state of the custom food screen when navigating between apps |Android|ready for QA| v8.0|
+|Retain the previous state of the calculator screen when navigating between apps |Android|ready for QA| v8.0|
+|Price test: show price per month breakdown|Android |in progress| v8.0|
+|Search v2 Redesign|iOS/Android |to do| v8.0|
 |Health Connect Integration for Step & Weight Data |Android|ready for QA| TBD|
