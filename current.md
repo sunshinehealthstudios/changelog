@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/18/2023 13:46 PT_
+_Updated 1/18/2023 17:15 PT_
 
 v7.20.1 began 7-day rollout on Android. The team is working on backend updates to search which will be implemented in an internal v7.20.2 beta for extended testing.
 
@@ -33,8 +33,8 @@ v7.20.1 began 7-day rollout on Android. The team is working on backend updates t
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v7.21|
 |Users allowed to share group without updating profile |Android|ready for release| v7.21|
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v7.21|
-|Food reporting|iOS/Android |ready for QA| v7.21|
 |Add badge for unread posts next to each group in "My Groups" |iOS/Android|ready for QA| v7.21|
+|Food reporting|iOS/Android |in progress| v7.21|
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for QA| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for QA| v8.0|
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for QA| v8.0|
