@@ -4,20 +4,19 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/19/2023 23:32 PT_
+_Updated 1/20/2023 18:05 PT_
 
 7-day rollout on v7.20.1 has been halted on Android while we fix an alert bug. The team is also working on backend updates to search which will be implemented in an internal v7.20.2 beta for extended testing.
 
 ***
 
 ### Upcoming Releases
+- v7.20.1 - January 23, 2023
 - v7.20.2 - January 23, 2023 (beta)
-- v7.20.3 - January 23, 2023
 - v7.21   - February 1, 2023
 - v8.0    - February 22, 2023
  
 ### Past Releases
-- v7.20.1 - January 17, 2023
 - v7.20   - December 24, 2022 (Android)
 - v7.20   - December 15, 2022 (iOS)
 - v7.19.6 - November 22, 2022 (Android)
@@ -29,8 +28,8 @@ _Updated 1/19/2023 23:32 PT_
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
+|The app plays weird sounds while in the syncing process|Android |ready for release| v7.20.1|
 |Search v2 Results|iOS/Android |in progress| v7.20.2 (beta)|
-|The app plays weird sounds while in the syncing process|Android |to do| v7.20.3|
 |Follow link still visible for already followed users |API|ready for release| v7.21|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v7.21|
 |Users allowed to share group without updating profile |Android|ready for release| v7.21|
