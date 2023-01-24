@@ -8,6 +8,9 @@ categories: info
 v7.20.1
 
 ## Overview
+
+*Update 1/23/23: 7-day rollout is recommencing after re-merging one more fix*  
+
 This release fixes bugs with exporting logs, editing meal plans, and adjusting daily allowance. It also includes api fixes for syncing fitbit, creating recipes, and loading group posts.
 
 ## Details
@@ -22,3 +25,4 @@ This release fixes bugs with exporting logs, editing meal plans, and adjusting d
 * Fixed: Error Message when Attempting to Export Logs
 * Fixed: Cannot add or remove days while creating Meal Plans 
 * Fixed: Daily Allowance is not the same as what the user set on the Weight Loss profile
+* Fixed: Loud alert noise repeats on a loop
