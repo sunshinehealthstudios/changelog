@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/23/2023 16:23 PT_
+_Updated 1/24/2023 23:00 PT_
 
 7-day rollout on v7.20.1 has been restarted. The team is working on backend updates to search which will be implemented in an internal v7.20.2 beta for extended testing.
 
 ***
 
 ### Upcoming Releases
-- v7.20.2 - January 24, 2023 (beta)
+- v7.20.2 - January 25, 2023 (beta)
 - v7.21   - February 1, 2023
 - v8.0    - February 22, 2023
  
@@ -28,7 +28,7 @@ _Updated 1/23/2023 16:23 PT_
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Search v2 Results|iOS/Android |in progress| v7.20.2 (beta)|
+|Search v2 Results|iOS/Android |ready for QA| v7.20.2 (beta)|
 |Follow link still visible for already followed users |API|ready for release| v7.21|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v7.21|
 |Users allowed to share group without updating profile |Android|ready for release| v7.21|
