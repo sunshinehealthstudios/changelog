@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/24/2023 23:00 PT_
+_Updated 1/25/2023 16:05 PT_
 
-7-day rollout on v7.20.1 has been restarted. The team is working on backend updates to search which will be implemented in an internal v7.20.2 beta for extended testing.
+7-day rollout on v7.20.1 is at 5%. Backend updates to search have been implemented in an internal v7.20.2 beta for internal testing with the coaches. The rest of the team is working on v7.21 QA.
 
 ***
 
