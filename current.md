@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/26/2023 17:51 PT_
+_Updated 1/28/2023 21:20 PT_
 
-7-day rollout on v7.20.1 is at 10%. Backend updates to search have been implemented in an internal v7.20.2 beta, which is now available to the coaches for internal testing. The rest of the team is working on v7.21 QA and v8.0.
+7-day rollout on v7.20.1 is at 50%. Backend updates to search have been implemented in an internal v7.20.2 beta, which is now available to the coaches for internal testing. The rest of the team is working on v7.21 QA and v8.0.
 
 ***
 
@@ -29,12 +29,13 @@ _Updated 1/26/2023 17:51 PT_
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
 |Search v2 Results|iOS/Android |ready for QA| v7.20.2 (beta)|
+|Fitbit not syncing with the app|API |ready for QA| N/A|
 |Follow link still visible for already followed users |API|ready for release| v7.21|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v7.21|
 |Users allowed to share group without updating profile |Android|ready for release| v7.21|
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v7.21|
 |Add badge for unread posts next to each group in "My Groups" |iOS/Android|ready for release| v7.21|
-|Food reporting|iOS/Android |in progress| v7.21|
+|Food reporting|iOS/Android |ready for QA| v7.21|
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for QA| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for QA| v8.0|
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for QA| v8.0|
