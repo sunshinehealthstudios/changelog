@@ -4,14 +4,14 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/28/2023 21:20 PT_
+_Updated 1/30/2023 21:59 PT_
 
-7-day rollout on v7.20.1 is at 50%. Backend updates to search have been implemented in an internal v7.20.2 beta, which is now available to the coaches for internal testing. The rest of the team is working on v7.21 QA and v8.0.
+7-day rollout on v7.20.1 is complete. Backend updates to search have been implemented in an internal v7.20.2 beta, which is now available to the coaches for internal testing. The rest of the team is working on v7.21 QA and v8.0.
 
 ***
 
 ### Upcoming Releases
-- v7.21   - February 1, 2023
+- v7.21   - February 2, 2023
 - v8.0    - February 22, 2023
  
 ### Past Releases
