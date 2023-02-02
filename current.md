@@ -4,15 +4,15 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 1/31/2023 17:25 PT_
+_Updated 2/1/2023 22:54 PT_
 
-7-day rollout on v7.20.1 is complete. Backend updates to search have been implemented in an internal v7.20.2 beta, which is now available to the coaches for internal testing. The rest of the team is working on v7.21 QA and v8.0.
+Some fixes have been added to the v7.20.2 beta. v7.21 has passed regression on iOS. The team is focused on v7.21 QA and v8.0.
 
 ***
 
 ### Upcoming Releases
-- v7.21   - February 2, 2023
-- v8.0    - February 22, 2023
+- v7.21   - February 6, 2023
+- v8.0    - March 1, 2023
  
 ### Past Releases
 - v7.20.2 - January 26, 2023 (beta)
@@ -29,9 +29,9 @@ _Updated 1/31/2023 17:25 PT_
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
 |Search v2 Results|iOS/Android |ready for QA| v7.20.2 (beta)|
-|Edit Food shows inappropriate BITES|iOS |to do| v7.20.2 (beta)|
-|ZERO Bites tab broken when navigating with Search keyword |Android |to do| v7.20.2 (beta)|
-|Improve load time while fetching the search v2 results|Android |to do| v7.20.2 (beta)|
+|ZERO Bites tab broken when navigating with Search keyword |Android |ready for QA| v7.20.2 (beta)|
+|Improve load time while fetching the search v2 results|Android |ready for QA| v7.20.2 (beta)|
+|Edit Food shows inappropriate BITES|iOS |in progress| v7.20.2 (beta)|
 |Follow link still visible for already followed users |API|ready for release| v7.21|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v7.21|
 |Users allowed to share group without updating profile |Android|ready for release| v7.21|
