@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/1/2023 22:54 PT_
+_Updated 2/2/2023 17:57 PT_
 
 Some fixes have been added to the v7.20.2 beta. v7.21 has passed regression on iOS. The team is focused on v7.21 QA and v8.0.
 
@@ -38,6 +38,7 @@ Some fixes have been added to the v7.20.2 beta. v7.21 has passed regression on i
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v7.21|
 |Add badge for unread posts next to each group in "My Groups" |iOS/Android|ready for release| v7.21|
 |Food reporting|iOS/Android |in progress| v7.21|
+|Fitbit not syncing|Android |in progress| v7.21|
 |Meal Plans: Shared Meal Plan preview looks big |iOS |to do| v7.21|
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for QA| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for QA| v8.0|
@@ -45,3 +46,4 @@ Some fixes have been added to the v7.20.2 beta. v7.21 has passed regression on i
 |Price test: show price per month breakdown|Android |ready for QA| v8.0|
 |Search v2 Redesign|iOS/Android |in progress| v8.0|
 |Health Connect Integration for Step & Weight Data |Android|ready for QA| TBD|
+|Fitbit not syncing|iOS |in progress| TBD|
