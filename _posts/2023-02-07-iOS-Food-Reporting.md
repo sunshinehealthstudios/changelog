@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      iOS: Food Reporting
+title:      Food Reporting (iOS)
 date:       2023-02-07 12:06:41
 categories: info
 ---
