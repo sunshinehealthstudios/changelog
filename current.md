@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/9/2023 20:41 PT_
+_Updated 2/10/2023 23:43 PT_
 
 v7.21 will complete 7-day rollout on iOS on February 13th. All v7.21 items for Android have been pushed back to v7.8.1. The team is focused on v8.0.
 
@@ -32,7 +32,7 @@ v7.21 will complete 7-day rollout on iOS on February 13th. All v7.21 items for A
 |ZERO Bites tab broken when navigating with Search keyword |Android |ready for release| v7.20.2 (beta)|
 |Search v2 Results|iOS/Android |ready for QA| v7.20.2 (beta)|
 |Improve load time while fetching the search v2 results|Android |ready for QA| v7.20.2 (beta)|
-|Edit Food shows inappropriate BITES|iOS |ready for QA| v7.20.2 (beta)|
+|Edit Food shows inappropriate BITES|iOS |in progress| v7.20.2 (beta)|
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for QA| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for QA| v8.0|
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for QA| v8.0|
@@ -44,6 +44,6 @@ v7.21 will complete 7-day rollout on iOS on February 13th. All v7.21 items for A
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.1|
 |Add badge for unread posts next to each group in "My Groups" |Android|ready for release| v8.1|
 |Food reporting|Android |ready for release| v8.1|
-|Fitbit not syncing|Android |ready for QA| v8.1|
+|Fitbit not syncing|Android |in progress| v8.1|
 |Health Connect Integration for Step & Weight Data |Android|ready for QA| TBD|
 |Fitbit not syncing|iOS |in progress| TBD|
