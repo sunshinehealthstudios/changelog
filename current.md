@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/10/2023 23:43 PT_
+_Updated 2/13/2023 18:03 PT_
 
-v7.21 will complete 7-day rollout on iOS on February 13th. All v7.21 items for Android have been pushed back to v7.8.1. The team is focused on v8.0.
+v7.21 has completed 7-day rollout on iOS.. All v7.21 items for Android have been pushed back to v7.8.1. The team is focused on v8.0.
 
 ***
 
@@ -30,8 +30,9 @@ v7.21 will complete 7-day rollout on iOS on February 13th. All v7.21 items for A
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
 |ZERO Bites tab broken when navigating with Search keyword |Android |ready for release| v7.20.2 (beta)|
+|Improve load time while fetching the search v2 results|Android |ready for release| v7.20.2 (beta)|
+|Wrong Data is Shown for Brands on Search v2 Results |API |ready for release| v7.20.2 (beta)|
 |Search v2 Results|iOS/Android |ready for QA| v7.20.2 (beta)|
-|Improve load time while fetching the search v2 results|Android |ready for QA| v7.20.2 (beta)|
 |Edit Food shows inappropriate BITES|iOS |in progress| v7.20.2 (beta)|
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for QA| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for QA| v8.0|
