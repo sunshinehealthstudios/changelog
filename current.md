@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/13/2023 18:03 PT_
+_Updated 2/14/2023 21:57 PT_
 
-v7.21 has completed 7-day rollout on iOS.. All v7.21 items for Android have been pushed back to v7.8.1. The team is focused on v8.0.
+v7.21 has completed 7-day rollout on iOS. All v7.21 items for Android have been pushed back to v8.1. The team is focused on v8.0.
 
 ***
 
@@ -29,17 +29,15 @@ v7.21 has completed 7-day rollout on iOS.. All v7.21 items for Android have been
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|ZERO Bites tab broken when navigating with Search keyword |Android |ready for release| v7.20.2 (beta)|
-|Improve load time while fetching the search v2 results|Android |ready for release| v7.20.2 (beta)|
-|Wrong Data is Shown for Brands on Search v2 Results |API |ready for release| v7.20.2 (beta)|
 |Search v2 Results|iOS/Android |ready for QA| v7.20.2 (beta)|
 |Edit Food shows inappropriate BITES|iOS |in progress| v7.20.2 (beta)|
-|Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for QA| v8.0|
+|Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for release| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for QA| v8.0|
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for QA| v8.0|
 |Price test: show price per month breakdown|Android |ready for QA| v8.0|
 |Search v2 Redesign|iOS/Android |in progress| v8.0|
 |Meal Plans: Shared Meal Plan preview looks big |iOS |to do| v8.0|
+|Fitbit not syncing|iOS |in progress| v8.0|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.1|
 |Users allowed to share group without updating profile |Android|ready for release| v8.1|
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.1|
@@ -47,4 +45,3 @@ v7.21 has completed 7-day rollout on iOS.. All v7.21 items for Android have been
 |Food reporting|Android |ready for release| v8.1|
 |Fitbit not syncing|Android |in progress| v8.1|
 |Health Connect Integration for Step & Weight Data |Android|ready for QA| TBD|
-|Fitbit not syncing|iOS |in progress| TBD|
