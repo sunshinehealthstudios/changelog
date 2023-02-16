@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/14/2023 21:57 PT_
+_Updated 2/14/2023 18:12 PT_
 
-v7.21 has completed 7-day rollout on iOS. All v7.21 items for Android have been pushed back to v8.1. The team is focused on v8.0.
+The team is entirely focused on v8.0 and Search v2.
 
 ***
 
@@ -29,8 +29,7 @@ v7.21 has completed 7-day rollout on iOS. All v7.21 items for Android have been 
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Search v2 Results|iOS/Android |ready for QA| v7.20.2 (beta)|
-|Edit Food shows inappropriate BITES|iOS |in progress| v7.20.2 (beta)|
+|Edit Food shows inappropriate BITES|iOS |ready for QA| v7.20.2 (beta)|
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for release| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for QA| v8.0|
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for QA| v8.0|
