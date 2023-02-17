@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/14/2023 18:12 PT_
+_Updated 2/16/2023 21:50 PT_
 
 The team is entirely focused on v8.0 and Search v2.
 
@@ -31,8 +31,8 @@ The team is entirely focused on v8.0 and Search v2.
 | ---                           | ---       | ---       | ---               |
 |Edit Food shows inappropriate BITES|iOS |ready for QA| v7.20.2 (beta)|
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for release| v8.0|
-|Retain the previous state of the custom food screen when navigating between apps |Android|ready for QA| v8.0|
-|Retain the previous state of the calculator screen when navigating between apps |Android|ready for QA| v8.0|
+|Retain the previous state of the custom food screen when navigating between apps |Android|ready for release| v8.0|
+|Retain the previous state of the calculator screen when navigating between apps |Android|ready for release| v8.0|
 |Price test: show price per month breakdown|Android |ready for QA| v8.0|
 |Search v2 Redesign|iOS/Android |in progress| v8.0|
 |Meal Plans: Shared Meal Plan preview looks big |iOS |to do| v8.0|
