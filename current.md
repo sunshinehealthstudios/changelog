@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/17/2023 20:14 PT_
+_Updated 2/20/2023 20:31 PT_
 
 The team is entirely focused on v8.0 and Search v2.
 
@@ -29,14 +29,14 @@ The team is entirely focused on v8.0 and Search v2.
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Edit Food shows inappropriate BITES|iOS |ready for QA| v7.20.2 (beta)|
+|Edit Food shows inappropriate BITES|iOS |in progress| v7.20.2 (beta)|
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for release| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for release| v8.0|
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for release| v8.0|
 |Price test: show price per month breakdown|Android |ready for QA| v8.0|
 |Search v2 Redesign|iOS/Android |in progress| v8.0|
 |Meal Plans: Shared Meal Plan preview looks big |iOS |to do| v8.0|
-|Fitbit not syncing|iOS |in progress| v8.0|
+|Fitbit not syncing|iOS |to do| v8.0|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.1|
 |Users allowed to share group without updating profile |Android|ready for release| v8.1|
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.1|
