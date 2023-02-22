@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/20/2023 20:31 PT_
+_Updated 2/21/2023 16:48 PT_
 
 The team is entirely focused on v8.0 and Search v2.
 
