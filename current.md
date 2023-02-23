@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/21/2023 16:48 PT_
+_Updated 2/22/2023 17:43 PT_
 
-The team is entirely focused on v8.0 and Search v2.
+The team is entirely focused on v8.0 and Search v2. v8.1 will now be devoted to updates to spoonacular recipes. All other issues have been pushed to v8.2.
 
 ***
 
@@ -14,6 +14,7 @@ The team is entirely focused on v8.0 and Search v2.
 
 - v8.0    - March 22, 2023
 - v8.1.   - April 12, 2023
+- v8.2.   - May 3, 2023
  
 ### Past Releases
 - v7.21   - February 7, 2023 (iOS)
@@ -29,18 +30,20 @@ The team is entirely focused on v8.0 and Search v2.
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Edit Food shows inappropriate BITES|iOS |in progress| v7.20.2 (beta)|
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for release| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for release| v8.0|
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for release| v8.0|
 |Price test: show price per month breakdown|Android |ready for QA| v8.0|
 |Search v2 Redesign|iOS/Android |in progress| v8.0|
-|Meal Plans: Shared Meal Plan preview looks big |iOS |to do| v8.0|
-|Fitbit not syncing|iOS |to do| v8.0|
-|Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.1|
-|Users allowed to share group without updating profile |Android|ready for release| v8.1|
-|Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.1|
-|Add badge for unread posts next to each group in "My Groups" |Android|ready for release| v8.1|
-|Food reporting|Android |ready for release| v8.1|
-|Fitbit not syncing|Android |in progress| v8.1|
+|Investigate unexpected bite overrides in search v2|API |to do| v8.0|
+|Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
+|Update Spoonacular Recipes UI |iOS/Android |to do | v8.1|
+|Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.2|
+|Users allowed to share group without updating profile |Android|ready for release| v8.2|
+|Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.2|
+|Add badge for unread posts next to each group in "My Groups" |Android|ready for release| v8.2|
+|Food reporting|Android |ready for release| v8.2|
+|Fitbit not syncing|Android |to do| v8.2|
+|Fitbit not syncing|iOS |to do| v8.2|
+|Meal Plans: Shared Meal Plan preview looks big |iOS |to do| v8.2|
 |Health Connect Integration for Step & Weight Data |Android|ready for QA| TBD|
