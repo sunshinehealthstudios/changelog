@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/22/2023 17:43 PT_
+_Updated 2/23/2023 18:01 PT_
 
 The team is entirely focused on v8.0 and Search v2. v8.1 will now be devoted to updates to spoonacular recipes. All other issues have been pushed to v8.2.
 
@@ -35,7 +35,6 @@ The team is entirely focused on v8.0 and Search v2. v8.1 will now be devoted to 
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for release| v8.0|
 |Price test: show price per month breakdown|Android |ready for QA| v8.0|
 |Search v2 Redesign|iOS/Android |in progress| v8.0|
-|Investigate unexpected bite overrides in search v2|API |to do| v8.0|
 |Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
 |Update Spoonacular Recipes UI |iOS/Android |to do | v8.1|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.2|
