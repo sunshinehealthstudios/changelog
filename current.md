@@ -4,9 +4,11 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 2/27/2023 17:47 PT_
+_Updated 3/1/2023 21:00 PT_
 
 The team is entirely focused on v8.0 and Search v2. v8.1 will now be devoted to updates to spoonacular recipes. All other issues have been pushed to v8.2.
+
+A new beta for both iOS and Android have been shared with the coaches.
 
 ***
 
