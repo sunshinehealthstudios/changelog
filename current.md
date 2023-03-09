@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/8/2023 00:20 PT_
+_Updated 3/8/2023 21:54 PT_
 
 The team is entirely focused on v8.0 and Search v2. v8.1 will now be devoted to updates to spoonacular recipes. All other issues have been pushed to v8.2.
 
@@ -34,7 +34,6 @@ The team is entirely focused on v8.0 and Search v2. v8.1 will now be devoted to 
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for release| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for release| v8.0|
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for release| v8.0|
-|Price test: show price per month breakdown|Android |ready for QA| v8.0|
 |Search v2 Redesign|iOS/Android |in progress| v8.0|
 |Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
 |Update Spoonacular Recipes UI |iOS/Android |to do | v8.1|
@@ -43,6 +42,7 @@ The team is entirely focused on v8.0 and Search v2. v8.1 will now be devoted to 
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.2|
 |Add badge for unread posts next to each group in "My Groups" |Android|ready for release| v8.2|
 |Food reporting|Android |ready for release| v8.2|
+|Price test: show price per month breakdown|Android |ready for QA| v8.2|
 |Fitbit not syncing|Android |to do| v8.2|
 |Fitbit not syncing|iOS |to do| v8.2|
 |Meal Plans: Shared Meal Plan preview looks big |iOS |to do| v8.2|
