@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/13/2023 21:16 PT_
+_Updated 3/14/2023 22:46 PT_
 
-v8.0 is in regression on iOS. QA on Android v8.0 is also in progress.
+v8.0 has passed regression on iOS and is awaiting app store approval. QA on Android v8.0 is underway.
 
 
 ***
@@ -34,8 +34,8 @@ v8.0 is in regression on iOS. QA on Android v8.0 is also in progress.
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for release| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for release| v8.0|
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for release| v8.0|
-|Search v2 Redesign|iOS |ready for QA| v8.0|
-|Search v2 Redesign|Android |in progress| v8.0|
+|Search v2 Redesign|iOS |ready for release| v8.0|
+|Search v2 Redesign|Android |ready for QA| v8.0|
 |Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
 |Update Spoonacular Recipes UI |iOS/Android |to do | v8.1|
 |Update Recipe Hub UI |iOS/Android |to do | v8.1|
