@@ -4,20 +4,21 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/14/2023 22:46 PT_
+_Updated 3/16/2023 18:21 PT_
 
-v8.0 has passed regression on iOS and is awaiting app store approval. QA on Android v8.0 is underway.
+v8.0 has begun 7 day rollout on iOS. QA on Android v8.0 is underway.
 
 
 ***
 
 ### Upcoming Releases
 
-- v8.0    - March 22, 2023
+- v8.0    - March 22, 2023 (Android)
 - v8.1.   - April 12, 2023
 - v8.2.   - May 3, 2023
  
 ### Past Releases
+- v8.0    - March 15, 2023 (iOS)
 - v7.21   - February 7, 2023 (iOS)
 - v7.20.2 - January 26, 2023 (beta)
 - v7.20.1 - January 23, 2023
@@ -34,7 +35,6 @@ v8.0 has passed regression on iOS and is awaiting app store approval. QA on Andr
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for release| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for release| v8.0|
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for release| v8.0|
-|Search v2 Redesign|iOS |ready for release| v8.0|
 |Search v2 Redesign|Android |ready for QA| v8.0|
 |Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
 |Update Spoonacular Recipes UI |iOS/Android |to do | v8.1|
