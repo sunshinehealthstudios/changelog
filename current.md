@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/16/2023 18:21 PT_
+_Updated 3/18/2023 16:26 PT_
 
-v8.0 has begun 7 day rollout on iOS. QA on Android v8.0 is underway.
+v8.0 will complete 7 day rollout on iOS on March 21st. QA on Android v8.0 is underway.
 
 
 ***
