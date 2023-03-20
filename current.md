@@ -4,16 +4,16 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/18/2023 16:26 PT_
+_Updated 3/20/2023 16:57 PT_
 
-v8.0 will complete 7 day rollout on iOS on March 21st. QA on Android v8.0 is underway.
+v8.0 will complete 7 day rollout on iOS tomorrow. QA on Android v8.0 is underway. Since many issues have been passed back from QA, the new ETA for the Android release is March 27th.
 
 
 ***
 
 ### Upcoming Releases
 
-- v8.0    - March 22, 2023 (Android)
+- v8.0    - March 27, 2023 (Android)
 - v8.1.   - April 12, 2023
 - v8.2.   - May 3, 2023
  
