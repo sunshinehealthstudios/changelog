@@ -20,8 +20,7 @@ v8.0 has completed 7 day rollout on iOS. QA on Android v8.0 is underway. Since m
 ### Past Releases
 - v8.0    - March 15, 2023 (iOS)
 - v7.21   - February 7, 2023 (iOS)
-- v7.20.2 - January 26, 2023 (beta)
-- v7.20.1 - January 23, 2023
+- v7.20.1 - January 23, 2023 (Android)
 - v7.20   - December 24, 2022 (Android)
 - v7.20   - December 15, 2022 (iOS)
 
