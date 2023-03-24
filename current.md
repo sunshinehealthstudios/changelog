@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/22/2023 18:09 PT_
+_Updated 3/23/2023 17:37 PT_
 
-v8.0 has completed 7 day rollout on iOS. QA on Android v8.0 is underway. Since many issues have been passed back from QA, the new ETA for the Android release is March 27th.
+v8.0 has completed 7 day rollout on iOS. QA on Android v8.0 is underway. Since many issues have been passed back from QA, the new ETA for the Android release is March 27th or 28th. Development on v8.1 has begun.
 
 
 ***
@@ -36,7 +36,7 @@ v8.0 has completed 7 day rollout on iOS. QA on Android v8.0 is underway. Since m
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for release| v8.0|
 |Search v2 Redesign|Android |ready for QA| v8.0|
 |Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
-|Update Spoonacular Recipes UI |iOS/Android |to do | v8.1|
+|Update Spoonacular Recipes UI |iOS/Android |in progress | v8.1|
 |Update Recipe Hub UI |iOS/Android |to do | v8.1|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.2|
 |Users allowed to share group without updating profile |Android|ready for release| v8.2|
