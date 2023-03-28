@@ -4,16 +4,16 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/27/2023 15:27 PT_
+_Updated 3/28/2023 16:46 PT_
 
-QA on Android v8.0 is underway. The new ETA for the Android release is 29th. Development on v8.1 has begun.
+QA on Android v8.0 is underway. The new ETA for the Android release is 30th. Development on v8.1 has begun.
 
 
 ***
 
 ### Upcoming Releases
 
-- v8.0    - March 29, 2023 (Android)
+- v8.0    - March 30, 2023 (Android)
 - v8.1.   - April 12, 2023
 - v8.2.   - May 3, 2023
  
@@ -38,8 +38,8 @@ QA on Android v8.0 is underway. The new ETA for the Android release is 29th. Dev
 |Deprecate "New Comment" Notification for New Comments on a Post |API |ready for release| v8.1|
 |Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
 |Update Spoonacular Recipes UI |iOS/Android |in progress | v8.1|
-|Update Recipe Hub UI |iOS/Android |to do | v8.1|
-|Update Shades of Blue|iOS/Android |to do | v8.1|
+|Update Recipe Hub UI |iOS/Android |in progress | v8.1|
+|Update Colors|iOS/Android |to do | v8.1|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.2|
 |Users allowed to share group without updating profile |Android|ready for release| v8.2|
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.2|
