@@ -6,14 +6,14 @@ permalink: /current/
 
 _Updated 3/27/2023 15:27 PT_
 
-QA on Android v8.0 is underway. The new ETA for the Android release is 28th. Development on v8.1 has begun.
+QA on Android v8.0 is underway. The new ETA for the Android release is 29th. Development on v8.1 has begun.
 
 
 ***
 
 ### Upcoming Releases
 
-- v8.0    - March 28, 2023 (Android)
+- v8.0    - March 29, 2023 (Android)
 - v8.1.   - April 12, 2023
 - v8.2.   - May 3, 2023
  
