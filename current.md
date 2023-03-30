@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/28/2023 16:46 PT_
+_Updated 3/29/2023 21:31 PT_
 
-QA on Android v8.0 is underway. The new ETA for the Android release is 30th. Development on v8.1 has begun.
+Regression on Android v8.0 is underway. The new ETA for the Android release is 30th. The schedule for v8.1 has been updated so that some critical bugs can be addressed on Android.
 
 
 ***
@@ -34,19 +34,29 @@ QA on Android v8.0 is underway. The new ETA for the Android release is 30th. Dev
 |Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for release| v8.0|
 |Retain the previous state of the custom food screen when navigating between apps |Android|ready for release| v8.0|
 |Retain the previous state of the calculator screen when navigating between apps |Android|ready for release| v8.0|
-|Search v2 Redesign|Android |ready for QA| v8.0|
-|Deprecate "New Comment" Notification for New Comments on a Post |API |ready for release| v8.1|
+|Search v2 Redesign|Android |ready for release| v8.0|
 |Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
-|Update Spoonacular Recipes UI |iOS/Android |in progress | v8.1|
-|Update Recipe Hub UI |iOS/Android |in progress | v8.1|
-|Update Colors|iOS/Android |to do | v8.1|
+|Update Spoonacular Recipes UI |iOS |in progress | v8.1|
+|Update Recipe Hub UI |iOS |in progress | v8.1|
+|Fitbit not syncing|iOS/Android |in progress| v8.1|
+|Tracker calendar doesn't automatically advance to the present day |Android |in progress| v8.1|
+|Update Colors|iOS |to do | v8.1|
+|Searching for spoonacular recipes only returns 9 recipes|iOS |to do| v8.1|
+|Search: Sliding & Multiselect|iOS |to do | v8.1|
+|Barcode scan not working properly|iOS/Android |to do | v8.1|
+|Hide deleted restaurants|iOS/Android |to do| v8.1|
+|Sync never completes/dismisses on some accounts|Android |to do| v8.1|
+|Issues with calculator on BB & CarbC |Android |to do| v8.1|
+|Macros don't save properly when creating custom food |Android |to do| v8.1|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.2|
 |Users allowed to share group without updating profile |Android|ready for release| v8.2|
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.2|
 |Add badge for unread posts next to each group in "My Groups" |Android|ready for release| v8.2|
 |Food reporting|Android |ready for release| v8.2|
-|Price test: show price per month breakdown|Android |ready for QA| v8.2|
-|Fitbit not syncing|Android |to do| v8.2|
-|Fitbit not syncing|iOS |to do| v8.2|
-|Meal Plans: Shared Meal Plan preview looks big |iOS |to do| v8.2|
+|Weight Loss Plan Screen shows Upgrade Screen for PRO user |Android |ready for release| v8.2|
+|Meal Plans: Shared Meal Plan preview looks big |iOS |ready for QA| v8.2|
+|Update Spoonacular Recipes UI |Android |in progress | v8.2|
+|Update Recipe Hub UI |Android |in progress | v8.2|
+|Update Colors|Android |to do | v8.2|
+|Price test: show price per month breakdown|Android |ready for QA| TBD|
 |Health Connect Integration for Step & Weight Data |Android|ready for QA| TBD|
