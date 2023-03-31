@@ -4,20 +4,19 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 3/29/2023 21:31 PT_
+_Updated 3/30/2023 18:45 PT_
 
-Regression on Android v8.0 is underway. The new ETA for the Android release is 30th. The schedule for v8.1 has been updated so that some critical bugs can be addressed on Android.
+v8.0 has begun 7 day rollout on Android. The schedule for v8.1 has been updated so that some critical bugs can be addressed on Android.
 
 
 ***
 
 ### Upcoming Releases
-
-- v8.0    - March 30, 2023 (Android)
 - v8.1.   - April 12, 2023
 - v8.2.   - May 3, 2023
  
 ### Past Releases
+- v8.0    - March 30, 2023 (Android)
 - v8.0    - March 15, 2023 (iOS)
 - v7.21   - February 7, 2023 (iOS)
 - v7.20.1 - January 23, 2023 (Android)
@@ -31,10 +30,6 @@ Regression on Android v8.0 is underway. The new ETA for the Android release is 3
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Custom Recipe: Typo error on Scanning results while adding Ingredients |Android|ready for release| v8.0|
-|Retain the previous state of the custom food screen when navigating between apps |Android|ready for release| v8.0|
-|Retain the previous state of the calculator screen when navigating between apps |Android|ready for release| v8.0|
-|Search v2 Redesign|Android |ready for release| v8.0|
 |Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
 |Update Spoonacular Recipes UI |iOS |in progress | v8.1|
 |Update Recipe Hub UI |iOS |in progress | v8.1|
