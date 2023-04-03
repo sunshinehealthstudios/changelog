@@ -4,9 +4,9 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/1/2023 14:17 PT_
+_Updated 4/3/2023 14:28 PT_
 
-v8.0 has begun 7 day rollout on Android. The schedule for v8.1 has been updated so that some critical bugs can be addressed on Android.
+v8.0 will complete 7 day rollout on Android on Wednessday April 5th. The schedule for v8.1 has been updated so that some critical bugs can be addressed on Android.
 
 
 ***
@@ -33,15 +33,16 @@ v8.0 has begun 7 day rollout on Android. The schedule for v8.1 has been updated 
 |Fitbit not syncing|Android |ready for release| v8.1|
 |Hide deleted restaurants from brands tab |API |ready for release| v8.1|
 |Macros don't save properly when creating custom food |Android |ready for release| v8.1|
+|Barcode scan not working properly|Android |ready for QA | v8.1|
 |Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
+|Tracker calendar doesn't automatically advance to the present day |Android |ready for QA| v8.1|
 |Update Spoonacular Recipes UI |iOS |in progress | v8.1|
 |Update Recipe Hub UI |iOS |in progress | v8.1|
 |Fitbit not syncing|iOS |in progress| v8.1|
+|Search: Sliding & Multiselect|iOS |in progress | v8.1|
 |Searching for spoonacular recipes only returns 9 recipes|iOS |in progress| v8.1|
-|Tracker calendar doesn't automatically advance to the present day |Android |in progress| v8.1|
-|Barcode scan not working properly|iOS/Android |in progress | v8.1|
+|Barcode scan not working properly|iOS |to do | v8.1|
 |Update Colors|iOS |to do | v8.1|
-|Search: Sliding & Multiselect|iOS |to do | v8.1|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.2|
 |Users allowed to share group without updating profile |Android|ready for release| v8.2|
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.2|
