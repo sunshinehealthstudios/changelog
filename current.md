@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/3/2023 14:28 PT_
+_Updated 4/4/2023 18:01 PT_
 
 v8.0 will complete 7 day rollout on Android on Wednessday April 5th. The schedule for v8.1 has been updated so that some critical bugs can be addressed on Android.
 
