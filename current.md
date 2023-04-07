@@ -4,7 +4,7 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/6/2023 09:46 PT_
+_Updated 4/6/2023 19:21 PT_
 
 v8.0 has completed 7 day rollout on Android. The schedule for v8.1 has been updated so that some critical bugs can be addressed on Android.
 
@@ -35,14 +35,17 @@ v8.0 has completed 7 day rollout on Android. The schedule for v8.1 has been upda
 |Macros don't save properly when creating custom food |Android |ready for release| v8.1|
 |Barcode scan not working properly|Android |ready for release | v8.1|
 |Tracker calendar doesn't automatically advance to the present day |Android |ready for release| v8.1|
-|Update Spoonacular Recipes UI |iOS |ready for QA | v8.1|
 |Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
-|UI issues on group search |Android |in progress | v8.1|
+|App Crashes after speaking something invalid in voice search and tapping "Okay" |iOS |ready for QA | v8.1|
+|UI issues on group search |Android |ready for QA | v8.1|
+|Update Spoonacular Recipes UI |iOS |in progress | v8.1|
 |Update Recipe Hub UI |iOS |in progress | v8.1|
+|Add Featured Subheader Above Zero Bites List |iOS/Android |in progress | v8.1|
+|iPhone/iPad: Blank screen on Activity/Comments/Blog |iOS |in progress | v8.1|
 |Search: Sliding & Multiselect|iOS |in progress | v8.1|
 |Searching for spoonacular recipes only returns 9 recipes|iOS |in progress| v8.1|
-|App crashes when tapping to track |Android |to do | v8.1|
-|Update Colors|iOS |to do | v8.1|
+|Update Colors|iOS |in progress | v8.1|
+|App crashes when tapping to track |Android |in progress | v8.1|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.2|
 |Users allowed to share group without updating profile |Android|ready for release| v8.2|
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.2|
