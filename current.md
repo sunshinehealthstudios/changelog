@@ -12,7 +12,7 @@ v8.0 has completed 7 day rollout on Android. The schedule for v8.1 has been upda
 ***
 
 ### Upcoming Releases
-- v8.1.   - April 12, 2023
+- v8.1.   - April 19, 2023
 - v8.2.   - May 3, 2023
  
 ### Past Releases
