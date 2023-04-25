@@ -12,8 +12,8 @@ v8.1 is now fully available to everyone. Rollout complete.
 ***
 
 ### Upcoming Releases
-- v8.2.   - May 3, 2023 (iOS)
-- v8.2.   - TBD (Android)
+- v8.1.   - May 3, 2023 (iOS)
+- v8.2.   - TBD
  
 ### Past Releases
 - v8.0    - March 30, 2023 (Android)
@@ -30,13 +30,11 @@ v8.1 is now fully available to everyone. Rollout complete.
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Fitbit not syncing|iOS/Android |ready for release| v8.1|
-|Hide deleted restaurants from brands tab |API |ready for release| v8.1|
-|Integrate Zero Bites Ingredients with Spoonacular Recipes |API |ready for QA| v8.1|
+|Fitbit not syncing|iOS |ready for release| v8.1|
 |App Crashes after speaking something invalid in voice search and tapping "Okay" |iOS |ready for QA | v8.1|
 |Update Spoonacular Recipes UI |iOS |in progress | v8.1|
 |Update Recipe Hub UI |iOS |in progress | v8.1|
-|Add Featured Subheader Above Zero Bites List |iOS/Android |in progress | v8.1|
+|Add Featured Subheader Above Zero Bites List |iOS |in progress | v8.1|
 |iPhone/iPad: Blank screen on Activity/Comments/Blog |iOS |in progress | v8.1|
 |Search: Sliding & Multiselect|iOS |in progress | v8.1|
 |Searching for spoonacular recipes only returns 9 recipes|iOS |in progress| v8.1|
