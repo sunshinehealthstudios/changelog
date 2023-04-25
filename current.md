@@ -4,15 +4,12 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 4/19/2023 09:51 PT_
+_Updated 4/25/2023 09:42 PT_
 
-v8.1 has begun the 7 day rollout on Android.
+v8.1 is now fully available to everyone. Rollout complete.
 
 
 ***
-
-### Current Releases
-- v8.1.   - April 19, 2023 (Android) Rollout in progress
 
 ### Upcoming Releases
 - v8.2.   - May 3, 2023 (iOS)
