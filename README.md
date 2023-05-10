@@ -10,15 +10,14 @@ This is Jekyll’s documentation on how to create a post:
 
 Here are steps for doing so in our changelog
 
-1. Goto the Product Dashboard [Login | Product Dashboard](https://product.itrackbites.com)
-2. Find the milestone you want to create a changelog for, either on the main dashboard page or on the [Milestones page](https://product.itrackbites.com/milestones).
-3. Tap on the `<>` icon on the top right of the milestone
-4. Copy and paste all the code that it shows you there
+1. Goto the [Development Board](https://github.com/orgs/sunshinehealthstudios/projects/15)
+2. Filter by the release you're creating a new post.
+3. Use the issues listed to create a new changelog file in the next steps
 5. Create a new file in our GitHub `changelog` repository in the `_posts` directory [direct link](https://github.com/sunshinehealthstudios/changelog/new/main/_posts) or you can navigate to the directory and then tap `Add file` and `Create new file`
 ![](Screen%20Shot%202021-06-18%20at%202.56.58%20PM.png)
 6. Name the file with the right format of `YEAR-MONTH-DAY-title.md` using the `-` in place of a space ` `. 
 Example: `2021-06-12-how-to-write-a-blog.md`
-7. Then paste the contents of the milestone text that was generated on the product dashboard into this file.
+7. Add the contents of the GitHub Issues to this new markdown file. Remember to only include public facing issues and adjust titles as needed.
 8. Change the `title` from the version number to something meaningful. Best to keep it consistent with the file name.
 9. Type in an `Overview` that sums this all up. This may or may not be used by Apple Store “what’s new” section or Google Play’s similar section. Send this to Andrew and Oscar so that they can use it to update if needed.
 10. Remove any internal items that the public just doesn’t need to know about, specifically anything that’s sensitive.
