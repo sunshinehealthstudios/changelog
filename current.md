@@ -6,16 +6,16 @@ permalink: /current/
 
 _Updated 5/10/2023 11:27 PT_
 
-v8.1 is now fully available to everyone. Rollout complete.
+v8.1.1 on Android is now beginning its rollout.
 
 
 ***
 
 ### Upcoming Releases
-- v8.1.1  - May 17, 2023 (Android)
 - v8.2.   - TBD
  
 ### Past Releases
+- v8.1.1  - May 18, 2023 (Android)
 - v8.1    - May 10, 2023 (iOS)
 - v8.0    - March 30, 2023 (Android)
 - v8.0    - March 15, 2023 (iOS)
@@ -31,12 +31,6 @@ v8.1 is now fully available to everyone. Rollout complete.
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|App Crashes when adding ingredients with Recipe Builder |Android|ready for QA| v8.1.1|
-|Add alphabetical scrollbar to search tabs |Android|ready for QA| v8.1.1|
-|Health Connect Integration for Step & Weight Data |Android|ready for QA| v8.1.1|
-|Update Colors throughout the app|Android |ready for QA | v8.1.1|
-|Add descriptive text for featured zero bites list|Android |ready for QA | v8.1.1|
-|Barcode Scanning Fix for when items are not found|Android |ready for QA | v8.1.1|
 |Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.2|
 |Users allowed to share group without updating profile |Android|ready for release| v8.2|
 |Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.2|
