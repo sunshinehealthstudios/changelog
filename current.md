@@ -6,13 +6,14 @@ permalink: /current/
 
 _Updated 5/10/2023 11:27 PT_
 
-v8.1.1 on Android is now beginning its rollout.
+v8.2 for iOS is now beginning rollout
 
 
 ***
 
 ### Upcoming Releases
-- v8.2.   - TBD
+- v8.2    - June 12, 2023 (iOS)
+- v8.2    - June 22, 2023 (Android)
  
 ### Past Releases
 - v8.1.1  - May 18, 2023 (Android)
