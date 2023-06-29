@@ -12,10 +12,10 @@ v8.2 for iOS is now beginning rollout
 ***
 
 ### Upcoming Releases
-- v8.2    - June 12, 2023 (iOS)
-- v8.2    - June 22, 2023 (Android)
+- v8.2    - June 29, 2023 (Android)
  
 ### Past Releases
+- v8.2    - June 12, 2023 (iOS)
 - v8.1.1  - May 18, 2023 (Android)
 - v8.1    - May 10, 2023 (iOS)
 - v8.0    - March 30, 2023 (Android)
@@ -39,7 +39,14 @@ v8.2 for iOS is now beginning rollout
 |Food reporting|Android |ready for release| v8.2|
 |Weight Loss Plan Screen shows Upgrade Screen for PRO user |Android |ready for release| v8.2|
 |Meal Plans: Shared Meal Plan preview looks big |iOS |ready for QA| v8.2|
-|Update Spoonacular Recipes UI |Android |in progress | v8.2|
-|Update Recipe Hub UI |Android |in progress | v8.2|
-|Barcode scan not working properly|iOS |to do | v8.2|
+|Update Spoonacular Recipes UI |Android |ready for release | v8.2|
+|Update Recipe Hub UI |Android |ready for release | v8.2|
+|PRO users seeing missing BITE data and paywall over macros |Android |ready for release | v8.2|
+|Sharing a recipe throws an error |Android |ready for release | v8.2|
+|Fixes to Recipe Search |Android |ready for release | v8.2|
+|Fix tracking Bacon Fat specifically |Android |ready for release | v8.2|
+|Carb Conscious - Create food: Cholesterol is being saved as Unsaturated Fat |Android |ready for release | v8.2|
+|Email client not installed message appears on support email/export logs |Android |ready for release | v8.2|
+|Network error message |Android |ready for release | v8.2|
+|App Crash on tapping "Settings" icon |Android |ready for release | v8.2|
 |Price test: show price per month breakdown|Android |ready for QA| TBD|
