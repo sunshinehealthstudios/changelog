@@ -11,8 +11,12 @@ v8.2 for iOS is now beginning rollout
 
 ***
 
-### Upcoming Releases
+### Current Release
 - v8.2    - June 29, 2023 (Android)
+
+### Upcoming Releases
+- v8.3    - TBD
+- v8.4    - TBD
  
 ### Past Releases
 - v8.2    - June 12, 2023 (iOS)
@@ -32,21 +36,18 @@ v8.2 for iOS is now beginning rollout
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Users with incomplete profile are allowed to reply to comments |Android|ready for release| v8.2|
-|Users allowed to share group without updating profile |Android|ready for release| v8.2|
-|Update Profile: All Media folders looks "Empty"/Permissions pop-up doesn't show |Android|ready for release| v8.2|
-|Add badge for unread posts next to each group in "My Groups" |Android|ready for release| v8.2|
-|Food reporting|Android |ready for release| v8.2|
-|Weight Loss Plan Screen shows Upgrade Screen for PRO user |Android |ready for release| v8.2|
-|Meal Plans: Shared Meal Plan preview looks big |iOS |ready for QA| v8.2|
-|Update Spoonacular Recipes UI |Android |ready for release | v8.2|
-|Update Recipe Hub UI |Android |ready for release | v8.2|
-|PRO users seeing missing BITE data and paywall over macros |Android |ready for release | v8.2|
-|Sharing a recipe throws an error |Android |ready for release | v8.2|
-|Fixes to Recipe Search |Android |ready for release | v8.2|
-|Fix tracking Bacon Fat specifically |Android |ready for release | v8.2|
-|Carb Conscious - Create food: Cholesterol is being saved as Unsaturated Fat |Android |ready for release | v8.2|
-|Email client not installed message appears on support email/export logs |Android |ready for release | v8.2|
-|Network error message |Android |ready for release | v8.2|
-|App Crash on tapping "Settings" icon |Android |ready for release | v8.2|
+|Fix typo for Keeping Keto plan on web dashboard |Web |ready for release| v8.3|
+|Meal Plan Recipes to show BITES per Serving |API |ready for release| v8.3|
+|After tracking food, do not scroll up |iOS |ready for QA| v8.3|
+|Re-authentication Flow for FitBit |iOS |ready for QA| v8.3|
+|Re-authentication Flow for FitBit |Android |ready for QA| v8.3|
+|Delete: Multiselect Saved Recipes shows Bad Request Error |iOS |ready for QA| v8.3|
+|Add filters to search results |iOS |ready for QA| v8.3|
+|Health Connect Integration for Step and Weight Data |Android |Waiting for
+dependencies| v8.3|
+|Add filters to search results |Android |Waiting for dependencies | v8.3|
+|Explore PRO checklist does not get updated |iOS |To Do | v8.3|
+|Larger font size collapses Health Checks and Recipe Screen |iOS |To Do | v8.3|
+|New Streaks Feature |iOS |To Do | v8.4|
+|New Streaks Feature |Android |To Do | v8.4|
 |Price test: show price per month breakdown|Android |ready for QA| TBD|
