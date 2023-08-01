@@ -6,19 +6,17 @@ permalink: /current/
 
 _Updated 5/10/2023 11:27 PT_
 
-v8.2 for iOS is now beginning rollout
-
 
 ***
 
 ### Current Release
-- v8.2    - June 29, 2023 (Android)
 
 ### Upcoming Releases
-- v8.3    - TBD
+- v8.3    - August 2, 2023 (iOS/Android)
 - v8.4    - TBD
  
 ### Past Releases
+- v8.2    - June 29, 2023 (Android)
 - v8.2    - June 12, 2023 (iOS)
 - v8.1.1  - May 18, 2023 (Android)
 - v8.1    - May 10, 2023 (iOS)
@@ -38,7 +36,7 @@ v8.2 for iOS is now beginning rollout
 | ---                           | ---       | ---       | ---               |
 |Fix typo for Keeping Keto plan on web dashboard |Web |ready for release| v8.3|
 |Meal Plan Recipes to show BITES per Serving |API |ready for release| v8.3|
-|After tracking food, do not scroll up |iOS |ready for QA| v8.3|
+|After tracking food, do not scroll up |Android |ready for QA| v8.3|
 |Re-authentication Flow for FitBit |iOS |ready for QA| v8.3|
 |Re-authentication Flow for FitBit |Android |ready for QA| v8.3|
 |Delete: Multiselect Saved Recipes shows Bad Request Error |iOS |ready for QA| v8.3|
