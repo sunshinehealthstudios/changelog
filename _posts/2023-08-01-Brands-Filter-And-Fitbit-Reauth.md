@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Brand Filter and Fitbit Reauth
-date:       2023-08-02 11:01:12
+title:      Brands Filter And Fitbit Reauth
+date:       2023-08-01 10:40:32
 categories: info
 ---
 
@@ -10,7 +10,6 @@ v8.3
 ## Overview
 
 This update adds the ability to search by only Restaurant and Branded food items, adds the ability to reauthenticate with FitBit correctly for better syncing, and other minor UI and bug fixes.
-
 
 ## Details
 
