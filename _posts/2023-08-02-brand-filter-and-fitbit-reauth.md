@@ -11,6 +11,7 @@ v8.3
 
 This update adds the ability to search by only Restaurant and Branded food items, adds the ability to reauthenticate with FitBit correctly for better syncing, and other minor UI and bug fixes.
 
+
 ## Details
 
 ### iOS/Android
