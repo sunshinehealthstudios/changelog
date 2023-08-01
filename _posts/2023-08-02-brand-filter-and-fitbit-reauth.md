@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Brand Filter and FitBit ReAuth
-date:       2023-08-02 10:48:12
+title:      Brand Filter and Fitbit Updates
+date:       2023-08-02 11:01:12
 categories: info
 ---
 
