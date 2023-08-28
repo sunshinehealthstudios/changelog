@@ -4,18 +4,22 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 8/01/2023 15:53 PT_
+_Updated 8/28/2023 14:14 PT_
 
 
 ***
 
 ### Current Release
+- v8.4    - August 28, 2023
 
 ### Upcoming Releases
-- v8.3    - August 2, 2023 (iOS/Android)
-- v8.4    - TBD
+- v8.5    - TBD
+- v8.6    - TBD
+- v8.7    - TBD
+- v8.8    - TBD
  
 ### Past Releases
+- v8.3    - August 2, 2023 (iOS/Android)
 - v8.2    - June 29, 2023 (Android)
 - v8.2    - June 12, 2023 (iOS)
 - v8.1.1  - May 18, 2023 (Android)
@@ -34,18 +38,16 @@ _Updated 8/01/2023 15:53 PT_
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Fix typo for Keeping Keto plan on web dashboard |Web |ready for release| v8.3|
-|Meal Plan Recipes to show BITES per Serving |API |ready for release| v8.3|
-|After tracking food, do not scroll up |Android |ready for QA| v8.3|
-|Re-authentication Flow for FitBit |iOS |ready for QA| v8.3|
-|Re-authentication Flow for FitBit |Android |ready for QA| v8.3|
-|Delete: Multiselect Saved Recipes shows Bad Request Error |iOS |ready for QA| v8.3|
-|Add filters to search results |iOS |ready for QA| v8.3|
-|Health Connect Integration for Step and Weight Data |Android |Waiting for
-dependencies| v8.3|
-|Add filters to search results |Android |Waiting for dependencies | v8.3|
-|Explore PRO checklist does not get updated |iOS |To Do | v8.3|
-|Larger font size collapses Health Checks and Recipe Screen |iOS |To Do | v8.3|
-|New Streaks Feature |iOS |To Do | v8.4|
-|New Streaks Feature |Android |To Do | v8.4|
-|Price test: show price per month breakdown|Android |ready for QA| TBD|
+|App Crash on hitting `+` at bottom menu |Android |ready for release| v8.4|
+|Error Messages Show `401` and `403` error messages instead of helpful messages |Android |ready for release| v8.4|
+|Foods starting with non-alphabet characters are now displayed on lists
+correctly |Android |ready for release| v8.4|
+|Tracker Screen date changes back and forth |Android |ready for release| v8.4|
+|Activity BITES and day calendar are missing to track and the TRACK button has no text and no functionality |Android |ready for release| v8.4|
+|Community discussion ordering needs to be chronological |Android iOS |ready for release| v8.4|
+|Adding Weight - fluctuates between previous values |Android |In Progress| v8.5|
+|Apple Health Steps to be added to Progress Charts |Android |In Progress| v8.5|
+|Reply comments appear at the top instead of nested under replied comments |iOS |In Progress| v8.5|
+|Custom recipes: App freezes with `403` error when adding ingredients |Android |In Progress| v8.5|
+|Streaks hide/show reverts back if hard quit out of app |iOS Android |In Progress| v8.5|
+|Apostrophe in searches are not handled correctly |iOS |In Progress| v8.5|
