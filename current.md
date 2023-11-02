@@ -4,20 +4,20 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 9/28/2023 16:02 PT_
+_Updated 11/01/2023 20:32 PT_
 
 
 ***
 
 ### Current Release
-- v8.5    - October 4, 2023
+- v8.6 - November 1, 2023 (iOS/Android)
 
 ### Upcoming Releases
-- v8.6    - TBD
-- v8.7    - TBD
-- v8.8    - TBD
+- v8.7    - November 18, 2023 (iOS)
+- v8.8    - December 1, 2023 (iOS)
  
 ### Past Releases
+- v8.5    - October 4, 2023
 - v8.4    - August 28, 2023
 - v8.3    - August 2, 2023 (iOS/Android)
 - v8.2    - June 29, 2023 (Android)
@@ -38,11 +38,7 @@ _Updated 9/28/2023 16:02 PT_
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Adding Weight - fluctuates between previous values |Android |Ready for Release| v8.5|
-|Apple Health Steps to be added to Progress Charts |Android |Ready for Release| v8.5|
-|Reply comments appear at the top instead of nested under replied comments |iOS |Ready for Release| v8.5|
-|Custom recipes: App freezes with `403` error when adding ingredients |Android |Ready for Release| v8.5|
-|Streaks hide/show reverts back if hard quit out of app |iOS Android |Ready for Release| v8.5|
-|Apostrophe in searches are not handled correctly |iOS |Ready for Release| v8.5|
-|App crashes in certain cases when trying to track, or when opening app |Android |To Do| v8.6|
+|Updating Recipes for more browseable experience |iOS |In Progress| v8.7|
+|Add categories to Recipes |iOS |In Progress| v8.7|
+|New recipe search result design for better readability and better images |iOS |In Progress| v8.7|
 |Timezone issue: Tracker shows previously tracked items for the next day, Australia timezone |Android |To Do| v8.7|
