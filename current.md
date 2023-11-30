@@ -10,13 +10,14 @@ _Updated 11/01/2023 20:32 PT_
 ***
 
 ### Current Release
-- v8.6 - November 1, 2023 (iOS/Android)
+- v8.6    - December 7, 2023 (Android)
+- v8.7    - December 7, 2023 (iOS)
 
 ### Upcoming Releases
-- v8.7    - November 18, 2023 (iOS)
-- v8.8    - December 1, 2023 (iOS)
+- v8.8    - January 7, 2024 (iOS)
  
 ### Past Releases
+- v8.6    - November 1, 2023 (iOS)
 - v8.5    - October 4, 2023
 - v8.4    - August 28, 2023
 - v8.3    - August 2, 2023 (iOS/Android)
@@ -38,7 +39,6 @@ _Updated 11/01/2023 20:32 PT_
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Updating Recipes for more browseable experience |iOS |In Progress| v8.7|
-|Add categories to Recipes |iOS |In Progress| v8.7|
-|New recipe search result design for better readability and better images |iOS |In Progress| v8.7|
-|Timezone issue: Tracker shows previously tracked items for the next day, Australia timezone |Android |To Do| v8.7|
+|Suggested search terms when searching for foods to track |iOS |In Progress| v8.8|
+|New transition when scrolling in search to show more results |iOS |In Progress| v8.8|
+|Crashing when using the + menu |Android |Ready for Release | v8.6|
