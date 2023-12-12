@@ -10,8 +10,8 @@ _Updated 11/30/2023 15:09 PT_
 ***
 
 ### Current Release
-- v8.6    - December 7, 2023 (Android)
-- v8.7    - December 7, 2023 (iOS)
+- v8.6    - December 12, 2023 (Android)
+- v8.7    - December 12, 2023 (iOS)
 
 ### Upcoming Releases
 - v8.8    - January 7, 2024 (iOS)

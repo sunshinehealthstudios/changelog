@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Tracking Screen Redesign (iOS)
+title:      Recipe Browsing and Redesign (iOS)
 date:       2023-11-30 14:58:09
 categories: info
 ---
