@@ -4,18 +4,20 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 01/11/2024 12:44 PT_
+_Updated 01/31/2024 10:39 PT_
 
 
 ***
 
 ### Current Release
-- v8.8    - January 11, 2024 (iOS)
+- v8.7    - January 31, 2024 (Android)
 
 ### Upcoming Releases
-- v8.7    - January 17, 2023 (Android)
+- v8.9    - February 8, 2024 (iOS)
+- v8.8    - February 16, 2024 (Android)
  
 ### Past Releases
+- v8.8    - January 11, 2024 (iOS)
 - v8.7    - December 12, 2023 (iOS)
 - v8.6    - December 12, 2023 (Android)
 - v8.6    - November 1, 2023 (iOS)
@@ -40,6 +42,6 @@ _Updated 01/11/2024 12:44 PT_
 
 |Issue                          |Platform   | Status    | Release           |
 | ---                           | ---       | ---       | ---               |
-|Suggested search terms when searching for foods to track |iOS |In Progress| v8.8|
-|New transition when scrolling in search to show more results |iOS |In Progress| v8.8|
-|Crashing when using the + menu |Android |Ready for Release | v8.6|
+|Some devices crashing when adding new ingredients into custom recipe | Android | ready for release | v8.7|
+|Some devices crashing when searching for new recipes | Android | ready for
+release | v8.7|
