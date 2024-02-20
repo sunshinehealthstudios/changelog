@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Food Detail Redesign and Search Updates (iOS)
-date:       2024-02-21 15:39:31
+date:       2024-02-19 15:39:31
 categories: info
 ---
 
