@@ -4,19 +4,20 @@ title: Current Status
 permalink: /current/
 ---
 
-_Updated 01/31/2024 10:39 PT_
+_Updated 02/20/2024 15:43 PT_
 
 
 ***
 
 ### Current Release
-- v8.7    - January 31, 2024 (Android)
+- v8.9    - February 21, 2024 (iOS)
+- v8.8    - February 20, 2024 (Android)
 
 ### Upcoming Releases
-- v8.9    - February 8, 2024 (iOS)
-- v8.8    - February 16, 2024 (Android)
- 
+
+
 ### Past Releases
+- v8.7    - January 31, 2024 (Android)
 - v8.8    - January 11, 2024 (iOS)
 - v8.7    - December 12, 2023 (iOS)
 - v8.6    - December 12, 2023 (Android)
